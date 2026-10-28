@@ -1,0 +1,807 @@
+{
+ "site": "Gul Dukon",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "gul01",
+   "name": {
+    "kg": "51 кызыл роза",
+    "ru": "51 красная роза",
+    "en": "51 red roses"
+   },
+   "desc": {
+    "kg": "Эквадордун узун сабактуу кызыл розалары. Сүйүүнүн классикалык белгиси.",
+    "ru": "Эквадорские красные розы на длинном стебле.",
+    "en": "Long-stem Ecuadorian red roses."
+   },
+   "category": "roses",
+   "price": 6500,
+   "oldPrice": 7500,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/red,roses?lock=1201",
+   "gallery": [
+    "https://loremflickr.com/800/600/red,roses?lock=1201",
+    "https://loremflickr.com/800/600/red,roses?lock=1202",
+    "https://loremflickr.com/800/600/red,roses?lock=1203"
+   ],
+   "specs": {
+    "count": 51,
+    "height": "60 см",
+    "flowers": {
+     "kg": "Роза",
+     "ru": "Роза",
+     "en": "Rose"
+    },
+    "pack": {
+     "kg": "Крафт",
+     "ru": "Крафт",
+     "en": "Kraft"
+    },
+    "fresh": {
+     "kg": "7–10 күн",
+     "ru": "7–10 дней",
+     "en": "7–10 days"
+    }
+   },
+   "tags": [
+    "роза",
+    "сүйүү"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1758753600000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756161600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760136000000
+    }
+   ]
+  },
+  {
+   "id": "gul02",
+   "name": {
+    "kg": "15 кызгылт роза",
+    "ru": "15 розовых роз",
+    "en": "15 pink roses"
+   },
+   "desc": {
+    "kg": "Назик кызгылт розалар, атлас тасма менен.",
+    "ru": "Нежные розовые розы с атласной лентой.",
+    "en": "Gentle pink roses with satin ribbon."
+   },
+   "category": "roses",
+   "price": 2900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/pink,roses?lock=1204",
+   "gallery": [
+    "https://loremflickr.com/800/600/pink,roses?lock=1204",
+    "https://loremflickr.com/800/600/pink,roses?lock=1205",
+    "https://loremflickr.com/800/600/pink,roses?lock=1206"
+   ],
+   "specs": {
+    "count": 15,
+    "height": "50 см",
+    "flowers": {
+     "kg": "Роза",
+     "ru": "Роза",
+     "en": "Rose"
+    },
+    "pack": {
+     "kg": "Пленка",
+     "ru": "Плёнка",
+     "en": "Film"
+    },
+    "fresh": {
+     "kg": "7 күн",
+     "ru": "7 дней",
+     "en": "7 days"
+    }
+   },
+   "tags": [
+    "роза"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756161600000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758753600000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758840000000
+    }
+   ]
+  },
+  {
+   "id": "gul03",
+   "name": {
+    "kg": "101 ак роза",
+    "ru": "101 белая роза",
+    "en": "101 white roses"
+   },
+   "desc": {
+    "kg": "Той жана сунуш (предложение) үчүн эң кооз букет.",
+    "ru": "Шикарный букет для свадьбы или предложения.",
+    "en": "Luxurious bouquet for a proposal."
+   },
+   "category": "roses",
+   "price": 18500,
+   "oldPrice": null,
+   "stock": 3,
+   "rating": 5.0,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/roses,luxury?lock=1207",
+   "gallery": [
+    "https://loremflickr.com/800/600/roses,luxury?lock=1207",
+    "https://loremflickr.com/800/600/roses,luxury?lock=1208",
+    "https://loremflickr.com/800/600/roses,luxury?lock=1209"
+   ],
+   "specs": {
+    "count": 101,
+    "height": "70 см",
+    "flowers": {
+     "kg": "Роза",
+     "ru": "Роза",
+     "en": "Rose"
+    },
+    "pack": {
+     "kg": "Премиум",
+     "ru": "Премиум",
+     "en": "Premium"
+    },
+    "fresh": {
+     "kg": "10 күн",
+     "ru": "10 дней",
+     "en": "10 days"
+    }
+   },
+   "tags": [
+    "той"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756507200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758926400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760481600000
+    }
+   ]
+  },
+  {
+   "id": "gul04",
+   "name": {
+    "kg": "Түркүн түстүү жоогазындар",
+    "ru": "Разноцветные тюльпаны",
+    "en": "Mixed tulips"
+   },
+   "desc": {
+    "kg": "25 жаз жоогазыны — кубаныч жана жылуулук.",
+    "ru": "25 весенних тюльпанов.",
+    "en": "25 spring tulips."
+   },
+   "category": "bouquets",
+   "price": 3500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/tulips?lock=1210",
+   "gallery": [
+    "https://loremflickr.com/800/600/tulips?lock=1210",
+    "https://loremflickr.com/800/600/tulips?lock=1211",
+    "https://loremflickr.com/800/600/tulips?lock=1212"
+   ],
+   "specs": {
+    "count": 25,
+    "height": "40 см",
+    "flowers": {
+     "kg": "Жоогазын",
+     "ru": "Тюльпан",
+     "en": "Tulip"
+    },
+    "pack": {
+     "kg": "Крафт",
+     "ru": "Крафт",
+     "en": "Kraft"
+    },
+    "fresh": {
+     "kg": "5–7 күн",
+     "ru": "5–7 дней",
+     "en": "5–7 days"
+    }
+   },
+   "tags": [
+    "жоогазын"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760049600000
+    }
+   ]
+  },
+  {
+   "id": "gul05",
+   "name": {
+    "kg": "Пион букети",
+    "ru": "Букет пионов",
+    "en": "Peony bouquet"
+   },
+   "desc": {
+    "kg": "Жайкы пиондор жана эвкалипт. Сезондук сунуш.",
+    "ru": "Летние пионы с эвкалиптом.",
+    "en": "Summer peonies with eucalyptus."
+   },
+   "category": "bouquets",
+   "price": 4200,
+   "oldPrice": 4900,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/peony?lock=1213",
+   "gallery": [
+    "https://loremflickr.com/800/600/peony?lock=1213",
+    "https://loremflickr.com/800/600/peony?lock=1214",
+    "https://loremflickr.com/800/600/peony?lock=1215"
+   ],
+   "specs": {
+    "count": 11,
+    "height": "45 см",
+    "flowers": {
+     "kg": "Пион, эвкалипт",
+     "ru": "Пион, эвкалипт",
+     "en": "Peony, eucalyptus"
+    },
+    "pack": {
+     "kg": "Корей стили",
+     "ru": "Корейская",
+     "en": "Korean style"
+    },
+    "fresh": {
+     "kg": "5 күн",
+     "ru": "5 дней",
+     "en": "5 days"
+    }
+   },
+   "tags": [
+    "пион"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758148800000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757630400000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757976000000
+    }
+   ]
+  },
+  {
+   "id": "gul06",
+   "name": {
+    "kg": "Талаа гүлдөрү",
+    "ru": "Полевые цветы",
+    "en": "Wildflowers"
+   },
+   "desc": {
+    "kg": "Ромашка, лаванда жана гипсофила — табигый стиль.",
+    "ru": "Ромашки, лаванда и гипсофила.",
+    "en": "Chamomile, lavender and gypsophila."
+   },
+   "category": "bouquets",
+   "price": 2600,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/wildflowers?lock=1216",
+   "gallery": [
+    "https://loremflickr.com/800/600/wildflowers?lock=1216",
+    "https://loremflickr.com/800/600/wildflowers?lock=1217",
+    "https://loremflickr.com/800/600/wildflowers?lock=1218"
+   ],
+   "specs": {
+    "count": 19,
+    "height": "40 см",
+    "flowers": {
+     "kg": "Аралаш",
+     "ru": "Микс",
+     "en": "Mix"
+    },
+    "pack": {
+     "kg": "Крафт",
+     "ru": "Крафт",
+     "en": "Kraft"
+    },
+    "fresh": {
+     "kg": "5 күн",
+     "ru": "5 дней",
+     "en": "5 days"
+    }
+   },
+   "tags": [
+    "табигый"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759272000000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758580800000
+    }
+   ]
+  },
+  {
+   "id": "gul07",
+   "name": {
+    "kg": "Кутудагы розалар жана макарон",
+    "ru": "Розы в коробке с макарунами",
+    "en": "Roses box with macarons"
+   },
+   "desc": {
+    "kg": "Шляпа кутусундагы розалар жана 6 француз макарон.",
+    "ru": "Розы в шляпной коробке и 6 макарун.",
+    "en": "Roses in a hat box with 6 macarons."
+   },
+   "category": "box",
+   "price": 5200,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/flower,box?lock=1219",
+   "gallery": [
+    "https://loremflickr.com/800/600/flower,box?lock=1219",
+    "https://loremflickr.com/800/600/flower,box?lock=1220",
+    "https://loremflickr.com/800/600/flower,box?lock=1221"
+   ],
+   "specs": {
+    "count": 21,
+    "height": "25 см",
+    "flowers": {
+     "kg": "Роза",
+     "ru": "Роза",
+     "en": "Rose"
+    },
+    "pack": {
+     "kg": "Кутуча",
+     "ru": "Коробка",
+     "en": "Box"
+    },
+    "fresh": {
+     "kg": "7 күн",
+     "ru": "7 дней",
+     "en": "7 days"
+    }
+   },
+   "tags": [
+    "кутуча",
+    "таттуу"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759099200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759790400000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759272000000
+    }
+   ]
+  },
+  {
+   "id": "gul08",
+   "name": {
+    "kg": "Гортензия кутуда",
+    "ru": "Гортензия в коробке",
+    "en": "Hydrangea box"
+   },
+   "desc": {
+    "kg": "Көк гортензия жана розалардын композициясы.",
+    "ru": "Композиция из голубой гортензии и роз.",
+    "en": "Blue hydrangea and roses arrangement."
+   },
+   "category": "box",
+   "price": 3900,
+   "oldPrice": null,
+   "stock": 6,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/hydrangea?lock=1222",
+   "gallery": [
+    "https://loremflickr.com/800/600/hydrangea?lock=1222",
+    "https://loremflickr.com/800/600/hydrangea?lock=1223",
+    "https://loremflickr.com/800/600/hydrangea?lock=1224"
+   ],
+   "specs": {
+    "count": 9,
+    "height": "30 см",
+    "flowers": {
+     "kg": "Гортензия, роза",
+     "ru": "Гортензия, роза",
+     "en": "Hydrangea, rose"
+    },
+    "pack": {
+     "kg": "Кутуча",
+     "ru": "Коробка",
+     "en": "Box"
+    },
+    "fresh": {
+     "kg": "6 күн",
+     "ru": "6 дней",
+     "en": "6 days"
+    }
+   },
+   "tags": [
+    "кутуча"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759617600000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757112000000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760827200000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1755902400000
+    }
+   ]
+  },
+  {
+   "id": "gul09",
+   "name": {
+    "kg": "Монстера",
+    "ru": "Монстера",
+    "en": "Monstera"
+   },
+   "desc": {
+    "kg": "Чоң жалбырактуу тропикалык өсүмдүк, керамика карапада.",
+    "ru": "Тропическое растение в керамическом горшке.",
+    "en": "Tropical plant in a ceramic pot."
+   },
+   "category": "plants",
+   "price": 2800,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/monstera?lock=1225",
+   "gallery": [
+    "https://loremflickr.com/800/600/monstera?lock=1225",
+    "https://loremflickr.com/800/600/monstera?lock=1226",
+    "https://loremflickr.com/800/600/monstera?lock=1227"
+   ],
+   "specs": {
+    "count": 1,
+    "height": "70 см",
+    "flowers": {
+     "kg": "Монстера",
+     "ru": "Монстера",
+     "en": "Monstera"
+    },
+    "pack": {
+     "kg": "Карапа",
+     "ru": "Горшок",
+     "en": "Pot"
+    },
+    "fresh": {
+     "kg": "Көп жыл",
+     "ru": "Многолетник",
+     "en": "Perennial"
+    }
+   },
+   "tags": [
+    "өсүмдүк"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758321600000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757630400000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756420800000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757976000000
+    }
+   ]
+  },
+  {
+   "id": "gul10",
+   "name": {
+    "kg": "Орхидея",
+    "ru": "Орхидея",
+    "en": "Orchid"
+   },
+   "desc": {
+    "kg": "Ак фаленопсис орхидеясы, 2 гүл сабагы.",
+    "ru": "Белая орхидея фаленопсис, 2 цветоноса.",
+    "en": "White phalaenopsis orchid, 2 stems."
+   },
+   "category": "plants",
+   "price": 1900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/orchid?lock=1228",
+   "gallery": [
+    "https://loremflickr.com/800/600/orchid?lock=1228",
+    "https://loremflickr.com/800/600/orchid?lock=1229",
+    "https://loremflickr.com/800/600/orchid?lock=1230"
+   ],
+   "specs": {
+    "count": 2,
+    "height": "55 см",
+    "flowers": {
+     "kg": "Орхидея",
+     "ru": "Орхидея",
+     "en": "Orchid"
+    },
+    "pack": {
+     "kg": "Карапа",
+     "ru": "Горшок",
+     "en": "Pot"
+    },
+    "fresh": {
+     "kg": "3 ай гүлдөйт",
+     "ru": "Цветёт 3 мес",
+     "en": "Blooms 3 mo"
+    }
+   },
+   "tags": [
+    "орхидея"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760136000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1760568000000
+    }
+   ]
+  },
+  {
+   "id": "gul11",
+   "name": {
+    "kg": "Плюш аюу",
+    "ru": "Плюшевый мишка",
+    "en": "Teddy bear"
+   },
+   "desc": {
+    "kg": "Жумшак 40 см аюу — букетке кошумча белек.",
+    "ru": "Мягкий мишка 40 см к букету.",
+    "en": "Soft 40 cm bear to add to a bouquet."
+   },
+   "category": "gifts",
+   "price": 1500,
+   "oldPrice": null,
+   "stock": 20,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/teddy,bear?lock=1231",
+   "gallery": [
+    "https://loremflickr.com/800/600/teddy,bear?lock=1231",
+    "https://loremflickr.com/800/600/teddy,bear?lock=1232",
+    "https://loremflickr.com/800/600/teddy,bear?lock=1233"
+   ],
+   "specs": {
+    "count": "—",
+    "height": "40 см",
+    "flowers": "—",
+    "pack": {
+     "kg": "Тасма",
+     "ru": "Лента",
+     "en": "Ribbon"
+    },
+    "fresh": "—"
+   },
+   "tags": [
+    "белек"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756852800000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1758840000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760481600000
+    }
+   ]
+  },
+  {
+   "id": "gul12",
+   "name": {
+    "kg": "Шоколад белек топтому",
+    "ru": "Подарочный набор шоколада",
+    "en": "Chocolate gift set"
+   },
+   "desc": {
+    "kg": "Бельгиялык шоколад конфеттери жана открытка.",
+    "ru": "Бельгийские конфеты и открытка.",
+    "en": "Belgian chocolates with a card."
+   },
+   "category": "gifts",
+   "price": 2400,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/chocolate,gift?lock=1234",
+   "gallery": [
+    "https://loremflickr.com/800/600/chocolate,gift?lock=1234",
+    "https://loremflickr.com/800/600/chocolate,gift?lock=1235",
+    "https://loremflickr.com/800/600/chocolate,gift?lock=1236"
+   ],
+   "specs": {
+    "count": "24 даана",
+    "height": "—",
+    "flowers": "—",
+    "pack": {
+     "kg": "Кутуча",
+     "ru": "Коробка",
+     "en": "Box"
+    },
+    "fresh": {
+     "kg": "6 ай",
+     "ru": "6 мес",
+     "en": "6 mo"
+    }
+   },
+   "tags": [
+    "шоколад"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756248000000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760049600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759099200000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,755 @@
+{
+ "site": "Avia.kg",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "avi01",
+   "name": {
+    "kg": "Бишкек → Москва",
+    "ru": "Бишкек → Москва",
+    "en": "Bishkek → Moscow"
+   },
+   "desc": {
+    "kg": "Түз каттам, күнүнө бир нече жолу. 23 кг жүк кошо.",
+    "ru": "Прямой рейс несколько раз в день, багаж 23 кг.",
+    "en": "Direct flight several times a day, 23 kg baggage."
+   },
+   "category": "cis",
+   "price": 11500,
+   "oldPrice": null,
+   "stock": 40,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/airplane,moscow?lock=801",
+   "gallery": [
+    "https://loremflickr.com/800/600/airplane,moscow?lock=801",
+    "https://loremflickr.com/800/600/airplane,moscow?lock=802",
+    "https://loremflickr.com/800/600/airplane,moscow?lock=803"
+   ],
+   "specs": {
+    "route": "FRU → SVO",
+    "airline": "Aeroflot",
+    "flight": "4 с 20 мүн",
+    "baggage": "23 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "москва"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759358400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756766400000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758840000000
+    }
+   ]
+  },
+  {
+   "id": "avi02",
+   "name": {
+    "kg": "Бишкек → Алматы",
+    "ru": "Бишкек → Алматы",
+    "en": "Bishkek → Almaty"
+   },
+   "desc": {
+    "kg": "Кыска жана ыңгайлуу учуу — 1 саатка жетпейт.",
+    "ru": "Короткий удобный перелёт меньше часа.",
+    "en": "Short flight under an hour."
+   },
+   "category": "cis",
+   "price": 6900,
+   "oldPrice": 8200,
+   "stock": 30,
+   "rating": 4.4,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/airplane,city?lock=804",
+   "gallery": [
+    "https://loremflickr.com/800/600/airplane,city?lock=804",
+    "https://loremflickr.com/800/600/airplane,city?lock=805",
+    "https://loremflickr.com/800/600/airplane,city?lock=806"
+   ],
+   "specs": {
+    "route": "FRU → ALA",
+    "airline": "Air Astana",
+    "flight": "55 мүн",
+    "baggage": "20 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "алматы"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757457600000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759444800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756766400000
+    }
+   ]
+  },
+  {
+   "id": "avi03",
+   "name": {
+    "kg": "Бишкек → Ош",
+    "ru": "Бишкек → Ош",
+    "en": "Bishkek → Osh"
+   },
+   "desc": {
+    "kg": "Ички каттам, күнүнө 6 рейс. Тоолордун үстүнөн кооз көрүнүш.",
+    "ru": "Внутренний рейс, 6 раз в день.",
+    "en": "Domestic flight, 6 times a day."
+   },
+   "category": "cis",
+   "price": 5200,
+   "oldPrice": null,
+   "stock": 60,
+   "rating": 4.6,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/plane,mountains?lock=807",
+   "gallery": [
+    "https://loremflickr.com/800/600/plane,mountains?lock=807",
+    "https://loremflickr.com/800/600/plane,mountains?lock=808",
+    "https://loremflickr.com/800/600/plane,mountains?lock=809"
+   ],
+   "specs": {
+    "route": "FRU → OSS",
+    "airline": "Avia Traffic",
+    "flight": "50 мүн",
+    "baggage": "20 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "ош",
+    "ички"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760395200000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758062400000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1757457600000
+    }
+   ]
+  },
+  {
+   "id": "avi04",
+   "name": {
+    "kg": "Бишкек → Стамбул",
+    "ru": "Бишкек → Стамбул",
+    "en": "Bishkek → Istanbul"
+   },
+   "desc": {
+    "kg": "Turkish Airlines менен түз учуу, тамак жана 30 кг жүк.",
+    "ru": "Прямой рейс Turkish Airlines, питание и 30 кг.",
+    "en": "Direct Turkish Airlines with meals and 30 kg."
+   },
+   "category": "turkey",
+   "price": 18900,
+   "oldPrice": 21500,
+   "stock": 25,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/istanbul?lock=810",
+   "gallery": [
+    "https://loremflickr.com/800/600/istanbul?lock=810",
+    "https://loremflickr.com/800/600/istanbul?lock=811",
+    "https://loremflickr.com/800/600/istanbul?lock=812"
+   ],
+   "specs": {
+    "route": "FRU → IST",
+    "airline": "Turkish Airlines",
+    "flight": "6 с 10 мүн",
+    "baggage": "30 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "стамбул"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1756939200000
+    }
+   ]
+  },
+  {
+   "id": "avi05",
+   "name": {
+    "kg": "Бишкек → Анталия",
+    "ru": "Бишкек → Анталия",
+    "en": "Bishkek → Antalya"
+   },
+   "desc": {
+    "kg": "Деңиз жээгиндеги эс алууга чартердик каттам (май-октябрь).",
+    "ru": "Чартер на море (май-октябрь).",
+    "en": "Charter to the sea (May-Oct)."
+   },
+   "category": "turkey",
+   "price": 21900,
+   "oldPrice": null,
+   "stock": 18,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/antalya,beach?lock=813",
+   "gallery": [
+    "https://loremflickr.com/800/600/antalya,beach?lock=813",
+    "https://loremflickr.com/800/600/antalya,beach?lock=814",
+    "https://loremflickr.com/800/600/antalya,beach?lock=815"
+   ],
+   "specs": {
+    "route": "FRU → AYT",
+    "airline": "Pegasus",
+    "flight": "6 с 40 мүн",
+    "baggage": "20 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "деңиз"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759617600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760222400000
+    }
+   ]
+  },
+  {
+   "id": "avi06",
+   "name": {
+    "kg": "Бишкек → Сеул",
+    "ru": "Бишкек → Сеул",
+    "en": "Bishkek → Seoul"
+   },
+   "desc": {
+    "kg": "Түз каттам Инчхонго. Иш жана окуу үчүн популярдуу багыт.",
+    "ru": "Прямой рейс в Инчхон.",
+    "en": "Direct flight to Incheon."
+   },
+   "category": "asia",
+   "price": 24500,
+   "oldPrice": null,
+   "stock": 20,
+   "rating": 4.7,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/seoul,city?lock=816",
+   "gallery": [
+    "https://loremflickr.com/800/600/seoul,city?lock=816",
+    "https://loremflickr.com/800/600/seoul,city?lock=817",
+    "https://loremflickr.com/800/600/seoul,city?lock=818"
+   ],
+   "specs": {
+    "route": "FRU → ICN",
+    "airline": "Asiana",
+    "flight": "6 с 30 мүн",
+    "baggage": "23 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "корея"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756507200000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756766400000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756075200000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760395200000
+    }
+   ]
+  },
+  {
+   "id": "avi07",
+   "name": {
+    "kg": "Бишкек → Үрүмчү → Пекин",
+    "ru": "Бишкек → Урумчи → Пекин",
+    "en": "Bishkek → Urumqi → Beijing"
+   },
+   "desc": {
+    "kg": "Бир которулуу менен Пекинге. China Southern авиакомпаниясы.",
+    "ru": "С одной пересадкой в Пекин.",
+    "en": "One stop to Beijing."
+   },
+   "category": "asia",
+   "price": 19800,
+   "oldPrice": null,
+   "stock": 15,
+   "rating": 4.3,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/beijing,china?lock=819",
+   "gallery": [
+    "https://loremflickr.com/800/600/beijing,china?lock=819",
+    "https://loremflickr.com/800/600/beijing,china?lock=820",
+    "https://loremflickr.com/800/600/beijing,china?lock=821"
+   ],
+   "specs": {
+    "route": "FRU → URC → PEK",
+    "airline": "China Southern",
+    "flight": "8 с 45 мүн",
+    "baggage": "23 кг",
+    "stops": "1",
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "кытай"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758667200000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756248000000
+    }
+   ]
+  },
+  {
+   "id": "avi08",
+   "name": {
+    "kg": "Бишкек → Дубай",
+    "ru": "Бишкек → Дубай",
+    "en": "Bishkek → Dubai"
+   },
+   "desc": {
+    "kg": "flydubai менен түз учуу. Шопинг жана эс алуу.",
+    "ru": "Прямой рейс flydubai.",
+    "en": "Direct flydubai flight."
+   },
+   "category": "mideast",
+   "price": 16900,
+   "oldPrice": 19900,
+   "stock": 22,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dubai,skyline?lock=822",
+   "gallery": [
+    "https://loremflickr.com/800/600/dubai,skyline?lock=822",
+    "https://loremflickr.com/800/600/dubai,skyline?lock=823",
+    "https://loremflickr.com/800/600/dubai,skyline?lock=824"
+   ],
+   "specs": {
+    "route": "FRU → DXB",
+    "airline": "flydubai",
+    "flight": "4 с 15 мүн",
+    "baggage": "20 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "дубай"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757889600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "avi09",
+   "name": {
+    "kg": "Бишкек → Жидда (Умра)",
+    "ru": "Бишкек → Джидда (Умра)",
+    "en": "Bishkek → Jeddah (Umrah)"
+   },
+   "desc": {
+    "kg": "Умра сапары үчүн каттам. Топтук арзандатуу бар.",
+    "ru": "Рейс для Умры, групповые скидки.",
+    "en": "Flight for Umrah, group discounts."
+   },
+   "category": "mideast",
+   "price": 31000,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/mecca,mosque?lock=825",
+   "gallery": [
+    "https://loremflickr.com/800/600/mecca,mosque?lock=825",
+    "https://loremflickr.com/800/600/mecca,mosque?lock=826",
+    "https://loremflickr.com/800/600/mecca,mosque?lock=827"
+   ],
+   "specs": {
+    "route": "FRU → JED",
+    "airline": "Saudia",
+    "flight": "6 с 50 мүн",
+    "baggage": "2×23 кг",
+    "stops": {
+     "kg": "Түз",
+     "ru": "Прямой",
+     "en": "Direct"
+    },
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "умра"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759099200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756334400000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1755902400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760568000000
+    }
+   ]
+  },
+  {
+   "id": "avi10",
+   "name": {
+    "kg": "Бишкек → Стамбул → Париж",
+    "ru": "Бишкек → Стамбул → Париж",
+    "en": "Bishkek → Istanbul → Paris"
+   },
+   "desc": {
+    "kg": "Стамбулда которулуу менен Парижге. Ыңгайлуу убакыт.",
+    "ru": "С пересадкой в Стамбуле.",
+    "en": "Via Istanbul."
+   },
+   "category": "europe",
+   "price": 42000,
+   "oldPrice": null,
+   "stock": 8,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/paris,eiffel?lock=828",
+   "gallery": [
+    "https://loremflickr.com/800/600/paris,eiffel?lock=828",
+    "https://loremflickr.com/800/600/paris,eiffel?lock=829",
+    "https://loremflickr.com/800/600/paris,eiffel?lock=830"
+   ],
+   "specs": {
+    "route": "FRU → IST → CDG",
+    "airline": "Turkish Airlines",
+    "flight": "11 с",
+    "baggage": "23 кг",
+    "stops": "1",
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "париж"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759704000000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1759272000000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757803200000
+    }
+   ]
+  },
+  {
+   "id": "avi11",
+   "name": {
+    "kg": "Бишкек → Рим",
+    "ru": "Бишкек → Рим",
+    "en": "Bishkek → Rome"
+   },
+   "desc": {
+    "kg": "Италияга окууга же саякатка. Бир которулуу.",
+    "ru": "В Италию на учёбу или отдых.",
+    "en": "To Italy for study or travel."
+   },
+   "category": "europe",
+   "price": 39500,
+   "oldPrice": 44000,
+   "stock": 6,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/rome,colosseum?lock=831",
+   "gallery": [
+    "https://loremflickr.com/800/600/rome,colosseum?lock=831",
+    "https://loremflickr.com/800/600/rome,colosseum?lock=832",
+    "https://loremflickr.com/800/600/rome,colosseum?lock=833"
+   ],
+   "specs": {
+    "route": "FRU → IST → FCO",
+    "airline": "Turkish Airlines",
+    "flight": "10 с 30 мүн",
+    "baggage": "23 кг",
+    "stops": "1",
+    "cls": {
+     "kg": "Эконом",
+     "ru": "Эконом",
+     "en": "Economy"
+    }
+   },
+   "tags": [
+    "италия"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756507200000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758926400000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758494400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757803200000
+    }
+   ]
+  },
+  {
+   "id": "avi12",
+   "name": {
+    "kg": "Бизнес класс: Бишкек → Лондон",
+    "ru": "Бизнес-класс: Бишкек → Лондон",
+    "en": "Business: Bishkek → London"
+   },
+   "desc": {
+    "kg": "Ыңгайлуу бизнес класс, лаунж жана премиум тамак.",
+    "ru": "Комфортный бизнес-класс с лаунжем.",
+    "en": "Comfortable business class with lounge."
+   },
+   "category": "europe",
+   "price": 125000,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/business,class?lock=834",
+   "gallery": [
+    "https://loremflickr.com/800/600/business,class?lock=834",
+    "https://loremflickr.com/800/600/business,class?lock=835",
+    "https://loremflickr.com/800/600/business,class?lock=836"
+   ],
+   "specs": {
+    "route": "FRU → IST → LHR",
+    "airline": "Turkish Airlines",
+    "flight": "12 с",
+    "baggage": "2×32 кг",
+    "stops": "1",
+    "cls": {
+     "kg": "Бизнес",
+     "ru": "Бизнес",
+     "en": "Business"
+    }
+   },
+   "tags": [
+    "бизнес",
+    "лондон"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756507200000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756248000000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1755816000000
+    }
+   ]
+  }
+ ]
+}

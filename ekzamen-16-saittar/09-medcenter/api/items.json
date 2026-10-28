@@ -1,0 +1,783 @@
+{
+ "site": "MedCenter",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "med01",
+   "name": {
+    "kg": "Терапевт кабылдоосу",
+    "ru": "Приём терапевта",
+    "en": "Therapist consultation"
+   },
+   "desc": {
+    "kg": "Жалпы текшерүү, кан басымын өлчөө жана дарылоо планы. Биринчи кадам — терапевт.",
+    "ru": "Общий осмотр, давление и план лечения.",
+    "en": "General exam, blood pressure and treatment plan."
+   },
+   "category": "consult",
+   "price": 1200,
+   "oldPrice": null,
+   "stock": 30,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/doctor,therapist?lock=901",
+   "gallery": [
+    "https://loremflickr.com/800/600/doctor,therapist?lock=901",
+    "https://loremflickr.com/800/600/doctor,therapist?lock=902",
+    "https://loremflickr.com/800/600/doctor,therapist?lock=903"
+   ],
+   "specs": {
+    "doctor": "Асанова Г. К.",
+    "duration": "30 мүн",
+    "exp": {
+     "kg": "15 жыл",
+     "ru": "15 лет",
+     "en": "15 years"
+    },
+    "result": {
+     "kg": "Ошол замат",
+     "ru": "Сразу",
+     "en": "Immediately"
+    },
+    "prep": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "None"
+    }
+   },
+   "tags": [
+    "терапевт"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756420800000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760913600000
+    }
+   ]
+  },
+  {
+   "id": "med02",
+   "name": {
+    "kg": "Кардиолог кабылдоосу",
+    "ru": "Приём кардиолога",
+    "en": "Cardiologist"
+   },
+   "desc": {
+    "kg": "Жүрөк жана кан тамыр ооруларын текшерүү, ЭКГ менен.",
+    "ru": "Обследование сердца с ЭКГ.",
+    "en": "Heart check-up with ECG."
+   },
+   "category": "consult",
+   "price": 1800,
+   "oldPrice": null,
+   "stock": 20,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/cardiology,heart?lock=904",
+   "gallery": [
+    "https://loremflickr.com/800/600/cardiology,heart?lock=904",
+    "https://loremflickr.com/800/600/cardiology,heart?lock=905",
+    "https://loremflickr.com/800/600/cardiology,heart?lock=906"
+   ],
+   "specs": {
+    "doctor": "Токтосунов Б. А.",
+    "duration": "40 мүн",
+    "exp": {
+     "kg": "22 жыл",
+     "ru": "22 года",
+     "en": "22 years"
+    },
+    "result": {
+     "kg": "Ошол замат",
+     "ru": "Сразу",
+     "en": "Immediately"
+    },
+    "prep": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "None"
+    }
+   },
+   "tags": [
+    "жүрөк"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1757198400000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758235200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757544000000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757889600000
+    }
+   ]
+  },
+  {
+   "id": "med03",
+   "name": {
+    "kg": "Балдар дарыгери",
+    "ru": "Педиатр",
+    "en": "Pediatrician"
+   },
+   "desc": {
+    "kg": "0–17 жаштагы балдарды кабыл алуу, эмдөө графиги боюнча кеңеш.",
+    "ru": "Приём детей 0–17 лет, консультация по прививкам.",
+    "en": "Kids 0–17, vaccination advice."
+   },
+   "category": "consult",
+   "price": 1500,
+   "oldPrice": null,
+   "stock": 25,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/pediatrician,child?lock=907",
+   "gallery": [
+    "https://loremflickr.com/800/600/pediatrician,child?lock=907",
+    "https://loremflickr.com/800/600/pediatrician,child?lock=908",
+    "https://loremflickr.com/800/600/pediatrician,child?lock=909"
+   ],
+   "specs": {
+    "doctor": "Жумабаева А. Т.",
+    "duration": "30 мүн",
+    "exp": {
+     "kg": "12 жыл",
+     "ru": "12 лет",
+     "en": "12 years"
+    },
+    "result": {
+     "kg": "Ошол замат",
+     "ru": "Сразу",
+     "en": "Immediately"
+    },
+    "prep": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "None"
+    }
+   },
+   "tags": [
+    "балдар"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758840000000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756593600000
+    }
+   ]
+  },
+  {
+   "id": "med04",
+   "name": {
+    "kg": "МРТ (бир аймак)",
+    "ru": "МРТ (одна зона)",
+    "en": "MRI (one area)"
+   },
+   "desc": {
+    "kg": "1.5 Тесла аппаратында магниттик-резонанстык томография.",
+    "ru": "МРТ на аппарате 1.5 Тесла.",
+    "en": "MRI on a 1.5 Tesla scanner."
+   },
+   "category": "diagnostics",
+   "price": 6500,
+   "oldPrice": 7500,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/mri,scan?lock=910",
+   "gallery": [
+    "https://loremflickr.com/800/600/mri,scan?lock=910",
+    "https://loremflickr.com/800/600/mri,scan?lock=911",
+    "https://loremflickr.com/800/600/mri,scan?lock=912"
+   ],
+   "specs": {
+    "doctor": "Радиолог",
+    "duration": "30-40 мүн",
+    "exp": "—",
+    "result": {
+     "kg": "1 күн",
+     "ru": "1 день",
+     "en": "1 day"
+    },
+    "prep": {
+     "kg": "Металл буюмдарды чечүү",
+     "ru": "Снять металл",
+     "en": "Remove metal items"
+    }
+   },
+   "tags": [
+    "мрт"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1757716800000
+    }
+   ]
+  },
+  {
+   "id": "med05",
+   "name": {
+    "kg": "Ичеги-карын УЗИ",
+    "ru": "УЗИ брюшной полости",
+    "en": "Abdominal ultrasound"
+   },
+   "desc": {
+    "kg": "Боор, өт, уйку бези жана бөйрөктү текшерүү.",
+    "ru": "Печень, желчный, поджелудочная и почки.",
+    "en": "Liver, gallbladder, pancreas and kidneys."
+   },
+   "category": "diagnostics",
+   "price": 1500,
+   "oldPrice": null,
+   "stock": 30,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/ultrasound?lock=913",
+   "gallery": [
+    "https://loremflickr.com/800/600/ultrasound?lock=913",
+    "https://loremflickr.com/800/600/ultrasound?lock=914",
+    "https://loremflickr.com/800/600/ultrasound?lock=915"
+   ],
+   "specs": {
+    "doctor": "Осмонова Ж.",
+    "duration": "20 мүн",
+    "exp": {
+     "kg": "10 жыл",
+     "ru": "10 лет",
+     "en": "10 years"
+    },
+    "result": {
+     "kg": "Ошол замат",
+     "ru": "Сразу",
+     "en": "Immediately"
+    },
+    "prep": {
+     "kg": "Ач карын",
+     "ru": "Натощак",
+     "en": "Fasting"
+    }
+   },
+   "tags": [
+    "узи"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760222400000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759444800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757198400000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760740800000
+    }
+   ]
+  },
+  {
+   "id": "med06",
+   "name": {
+    "kg": "ЭКГ",
+    "ru": "ЭКГ",
+    "en": "ECG"
+   },
+   "desc": {
+    "kg": "Электрокардиограмма жана дарыгердин чечмелөөсү.",
+    "ru": "ЭКГ с расшифровкой.",
+    "en": "ECG with interpretation."
+   },
+   "category": "diagnostics",
+   "price": 900,
+   "oldPrice": null,
+   "stock": 50,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/ecg,cardio?lock=916",
+   "gallery": [
+    "https://loremflickr.com/800/600/ecg,cardio?lock=916",
+    "https://loremflickr.com/800/600/ecg,cardio?lock=917",
+    "https://loremflickr.com/800/600/ecg,cardio?lock=918"
+   ],
+   "specs": {
+    "doctor": "Кардиолог",
+    "duration": "15 мүн",
+    "exp": "—",
+    "result": {
+     "kg": "30 мүн",
+     "ru": "30 мин",
+     "en": "30 min"
+    },
+    "prep": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "None"
+    }
+   },
+   "tags": [
+    "экг"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1758840000000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758062400000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "med07",
+   "name": {
+    "kg": "Жалпы кан анализи",
+    "ru": "Общий анализ крови",
+    "en": "Complete blood count"
+   },
+   "desc": {
+    "kg": "18 көрсөткүч: гемоглобин, лейкоциттер, тромбоциттер жана башкалар.",
+    "ru": "18 показателей крови.",
+    "en": "18 blood parameters."
+   },
+   "category": "lab",
+   "price": 450,
+   "oldPrice": null,
+   "stock": 100,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/blood,test?lock=919",
+   "gallery": [
+    "https://loremflickr.com/800/600/blood,test?lock=919",
+    "https://loremflickr.com/800/600/blood,test?lock=920",
+    "https://loremflickr.com/800/600/blood,test?lock=921"
+   ],
+   "specs": {
+    "doctor": "Лаборатория",
+    "duration": "5 мүн",
+    "exp": "—",
+    "result": {
+     "kg": "1 күн",
+     "ru": "1 день",
+     "en": "1 day"
+    },
+    "prep": {
+     "kg": "Ач карын",
+     "ru": "Натощак",
+     "en": "Fasting"
+    }
+   },
+   "tags": [
+    "кан"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760222400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760913600000
+    }
+   ]
+  },
+  {
+   "id": "med08",
+   "name": {
+    "kg": "Биохимия (10 көрсөткүч)",
+    "ru": "Биохимия (10 показателей)",
+    "en": "Biochemistry (10)"
+   },
+   "desc": {
+    "kg": "Глюкоза, холестерин, боор жана бөйрөк көрсөткүчтөрү.",
+    "ru": "Глюкоза, холестерин, печёночные пробы.",
+    "en": "Glucose, cholesterol, liver and kidney tests."
+   },
+   "category": "lab",
+   "price": 1200,
+   "oldPrice": 1500,
+   "stock": 100,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/laboratory,tubes?lock=922",
+   "gallery": [
+    "https://loremflickr.com/800/600/laboratory,tubes?lock=922",
+    "https://loremflickr.com/800/600/laboratory,tubes?lock=923",
+    "https://loremflickr.com/800/600/laboratory,tubes?lock=924"
+   ],
+   "specs": {
+    "doctor": "Лаборатория",
+    "duration": "5 мүн",
+    "exp": "—",
+    "result": {
+     "kg": "1 күн",
+     "ru": "1 день",
+     "en": "1 day"
+    },
+    "prep": {
+     "kg": "Ач карын",
+     "ru": "Натощак",
+     "en": "Fasting"
+    }
+   },
+   "tags": [
+    "биохимия"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759531200000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1760827200000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759358400000
+    }
+   ]
+  },
+  {
+   "id": "med09",
+   "name": {
+    "kg": "Тиш тазалоо",
+    "ru": "Чистка зубов",
+    "en": "Teeth cleaning"
+   },
+   "desc": {
+    "kg": "Ультраүн жана Air Flow менен кесиптик гигиена.",
+    "ru": "Профгигиена ультразвуком и Air Flow.",
+    "en": "Professional cleaning with ultrasound and Air Flow."
+   },
+   "category": "dental",
+   "price": 2500,
+   "oldPrice": null,
+   "stock": 15,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dentist?lock=925",
+   "gallery": [
+    "https://loremflickr.com/800/600/dentist?lock=925",
+    "https://loremflickr.com/800/600/dentist?lock=926",
+    "https://loremflickr.com/800/600/dentist?lock=927"
+   ],
+   "specs": {
+    "doctor": "Иманов Т. Б.",
+    "duration": "60 мүн",
+    "exp": {
+     "kg": "9 жыл",
+     "ru": "9 лет",
+     "en": "9 years"
+    },
+    "result": {
+     "kg": "Ошол замат",
+     "ru": "Сразу",
+     "en": "Immediately"
+    },
+    "prep": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "None"
+    }
+   },
+   "tags": [
+    "тиш"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759444800000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759531200000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760827200000
+    }
+   ]
+  },
+  {
+   "id": "med10",
+   "name": {
+    "kg": "Тиш пломбалоо",
+    "ru": "Пломбирование зуба",
+    "en": "Dental filling"
+   },
+   "desc": {
+    "kg": "Фотополимердик пломба, анестезия кошо.",
+    "ru": "Светоотверждаемая пломба с анестезией.",
+    "en": "Light-cured filling incl. anesthesia."
+   },
+   "category": "dental",
+   "price": 4500,
+   "oldPrice": null,
+   "stock": 15,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dental,clinic?lock=928",
+   "gallery": [
+    "https://loremflickr.com/800/600/dental,clinic?lock=928",
+    "https://loremflickr.com/800/600/dental,clinic?lock=929",
+    "https://loremflickr.com/800/600/dental,clinic?lock=930"
+   ],
+   "specs": {
+    "doctor": "Иманов Т. Б.",
+    "duration": "60 мүн",
+    "exp": {
+     "kg": "9 жыл",
+     "ru": "9 лет",
+     "en": "9 years"
+    },
+    "result": {
+     "kg": "Ошол замат",
+     "ru": "Сразу",
+     "en": "Immediately"
+    },
+    "prep": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "None"
+    }
+   },
+   "tags": [
+    "тиш"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759099200000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757457600000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757889600000
+    }
+   ]
+  },
+  {
+   "id": "med11",
+   "name": {
+    "kg": "Чек-ап «Базалык»",
+    "ru": "Чек-ап «Базовый»",
+    "en": "Basic check-up"
+   },
+   "desc": {
+    "kg": "Терапевт, кан анализдери, ЭКГ жана УЗИ — бир күндө.",
+    "ru": "Терапевт, анализы, ЭКГ и УЗИ за один день.",
+    "en": "Therapist, labs, ECG and ultrasound in one day."
+   },
+   "category": "checkup",
+   "price": 9900,
+   "oldPrice": 12500,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/health,checkup?lock=931",
+   "gallery": [
+    "https://loremflickr.com/800/600/health,checkup?lock=931",
+    "https://loremflickr.com/800/600/health,checkup?lock=932",
+    "https://loremflickr.com/800/600/health,checkup?lock=933"
+   ],
+   "specs": {
+    "doctor": {
+     "kg": "Бир нече адис",
+     "ru": "Несколько врачей",
+     "en": "Several doctors"
+    },
+    "duration": "3 саат",
+    "exp": "—",
+    "result": {
+     "kg": "2 күн",
+     "ru": "2 дня",
+     "en": "2 days"
+    },
+    "prep": {
+     "kg": "Ач карын",
+     "ru": "Натощак",
+     "en": "Fasting"
+    }
+   },
+   "tags": [
+    "чек-ап"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758062400000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759185600000
+    }
+   ]
+  },
+  {
+   "id": "med12",
+   "name": {
+    "kg": "Чек-ап «Толук»",
+    "ru": "Чек-ап «Полный»",
+    "en": "Full check-up"
+   },
+   "desc": {
+    "kg": "8 адис, МРТ, 25 анализ жана жыйынтыктоочу консультация.",
+    "ru": "8 специалистов, МРТ и 25 анализов.",
+    "en": "8 specialists, MRI and 25 tests."
+   },
+   "category": "checkup",
+   "price": 24000,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/medical,team?lock=934",
+   "gallery": [
+    "https://loremflickr.com/800/600/medical,team?lock=934",
+    "https://loremflickr.com/800/600/medical,team?lock=935",
+    "https://loremflickr.com/800/600/medical,team?lock=936"
+   ],
+   "specs": {
+    "doctor": {
+     "kg": "8 адис",
+     "ru": "8 врачей",
+     "en": "8 doctors"
+    },
+    "duration": "1 күн",
+    "exp": "—",
+    "result": {
+     "kg": "3 күн",
+     "ru": "3 дня",
+     "en": "3 days"
+    },
+    "prep": {
+     "kg": "Ач карын",
+     "ru": "Натощак",
+     "en": "Fasting"
+    }
+   },
+   "tags": [
+    "чек-ап"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756075200000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759272000000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757198400000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760136000000
+    }
+   ]
+  }
+ ]
+}

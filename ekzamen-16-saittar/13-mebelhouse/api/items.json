@@ -1,0 +1,938 @@
+{
+ "site": "Mebel House",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "meb01",
+   "name": {
+    "kg": "Бурчтуу диван «Ала-Тоо»",
+    "ru": "Угловой диван «Ала-Тоо»",
+    "en": "Corner sofa Ala-Too"
+   },
+   "desc": {
+    "kg": "Ачылуучу механизмдүү чоң бурчтуу диван. Уктоочу орунга айланат.",
+    "ru": "Большой угловой диван с механизмом раскладки.",
+    "en": "Large corner sofa that unfolds into a bed."
+   },
+   "category": "living",
+   "price": 54900,
+   "oldPrice": 64900,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/sofa,grey?lock=1301",
+   "gallery": [
+    "https://loremflickr.com/800/600/sofa,grey?lock=1301",
+    "https://loremflickr.com/800/600/sofa,grey?lock=1302",
+    "https://loremflickr.com/800/600/sofa,grey?lock=1303"
+   ],
+   "specs": {
+    "size": "280×180×90 см",
+    "material": {
+     "kg": "Велюр",
+     "ru": "Велюр",
+     "en": "Velour"
+    },
+    "color": {
+     "kg": "Боз",
+     "ru": "Серый",
+     "en": "Grey"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "диван"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759531200000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1757889600000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760049600000
+    }
+   ]
+  },
+  {
+   "id": "meb02",
+   "name": {
+    "kg": "Журнал столу",
+    "ru": "Журнальный столик",
+    "en": "Coffee table"
+   },
+   "desc": {
+    "kg": "Табигый эмен жана металл буттары бар заманбап стол.",
+    "ru": "Стол из дуба на металлических ножках.",
+    "en": "Oak top with metal legs."
+   },
+   "category": "living",
+   "price": 15900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/coffee,table?lock=1304",
+   "gallery": [
+    "https://loremflickr.com/800/600/coffee,table?lock=1304",
+    "https://loremflickr.com/800/600/coffee,table?lock=1305",
+    "https://loremflickr.com/800/600/coffee,table?lock=1306"
+   ],
+   "specs": {
+    "size": "110×60×45 см",
+    "material": {
+     "kg": "Эмен",
+     "ru": "Дуб",
+     "en": "Oak"
+    },
+    "color": {
+     "kg": "Жаңгак",
+     "ru": "Орех",
+     "en": "Walnut"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    },
+    "assembly": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "Not needed"
+    }
+   },
+   "tags": [
+    "стол"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756420800000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1759531200000
+    }
+   ]
+  },
+  {
+   "id": "meb03",
+   "name": {
+    "kg": "Жумшак кресло",
+    "ru": "Мягкое кресло",
+    "en": "Soft armchair"
+   },
+   "desc": {
+    "kg": "Окуу жана эс алуу үчүн скандинавиялык стилдеги кресло.",
+    "ru": "Кресло в скандинавском стиле.",
+    "en": "Scandinavian-style armchair."
+   },
+   "category": "living",
+   "price": 22900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/armchair?lock=1307",
+   "gallery": [
+    "https://loremflickr.com/800/600/armchair?lock=1307",
+    "https://loremflickr.com/800/600/armchair?lock=1308",
+    "https://loremflickr.com/800/600/armchair?lock=1309"
+   ],
+   "specs": {
+    "size": "80×85×95 см",
+    "material": {
+     "kg": "Букле",
+     "ru": "Букле",
+     "en": "Boucle"
+    },
+    "color": {
+     "kg": "Сүт түс",
+     "ru": "Молочный",
+     "en": "Cream"
+    },
+    "country": {
+     "kg": "Түркия",
+     "ru": "Турция",
+     "en": "Turkey"
+    },
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    },
+    "assembly": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "Not needed"
+    }
+   },
+   "tags": [
+    "кресло"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1758148800000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760308800000
+    }
+   ]
+  },
+  {
+   "id": "meb04",
+   "name": {
+    "kg": "Эки кишилик керебет",
+    "ru": "Двуспальная кровать",
+    "en": "Double bed"
+   },
+   "desc": {
+    "kg": "Жумшак баш жагы жана көтөрүлүүчү механизми бар керебет.",
+    "ru": "Кровать с мягким изголовьем и подъёмным механизмом.",
+    "en": "Bed with soft headboard and storage lift."
+   },
+   "category": "bedroom",
+   "price": 42900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/bed,bedroom?lock=1310",
+   "gallery": [
+    "https://loremflickr.com/800/600/bed,bedroom?lock=1310",
+    "https://loremflickr.com/800/600/bed,bedroom?lock=1311",
+    "https://loremflickr.com/800/600/bed,bedroom?lock=1312"
+   ],
+   "specs": {
+    "size": "160×200 см",
+    "material": {
+     "kg": "ЛДСП + кездеме",
+     "ru": "ЛДСП + ткань",
+     "en": "Chipboard + fabric"
+    },
+    "color": {
+     "kg": "Көк",
+     "ru": "Синий",
+     "en": "Blue"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "керебет"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759185600000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759531200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1755988800000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759012800000
+    }
+   ]
+  },
+  {
+   "id": "meb05",
+   "name": {
+    "kg": "Ортопедиялык матрас",
+    "ru": "Ортопедический матрас",
+    "en": "Orthopedic mattress"
+   },
+   "desc": {
+    "kg": "Көз карандысыз пружиналар жана мемори-фом. Белге пайдалуу.",
+    "ru": "Независимые пружины и memory foam.",
+    "en": "Pocket springs and memory foam."
+   },
+   "category": "bedroom",
+   "price": 18900,
+   "oldPrice": 22900,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/mattress?lock=1313",
+   "gallery": [
+    "https://loremflickr.com/800/600/mattress?lock=1313",
+    "https://loremflickr.com/800/600/mattress?lock=1314",
+    "https://loremflickr.com/800/600/mattress?lock=1315"
+   ],
+   "specs": {
+    "size": "160×200×24 см",
+    "material": {
+     "kg": "Мемори-фом",
+     "ru": "Memory foam",
+     "en": "Memory foam"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Белый",
+     "en": "White"
+    },
+    "country": {
+     "kg": "Казакстан",
+     "ru": "Казахстан",
+     "en": "Kazakhstan"
+    },
+    "warranty": {
+     "kg": "5 жыл",
+     "ru": "5 лет",
+     "en": "5 years"
+    },
+    "assembly": {
+     "kg": "Керек эмес",
+     "ru": "Не нужна",
+     "en": "Not needed"
+    }
+   },
+   "tags": [
+    "матрас"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756507200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760049600000
+    }
+   ]
+  },
+  {
+   "id": "meb06",
+   "name": {
+    "kg": "Купе шкафы",
+    "ru": "Шкаф-купе",
+    "en": "Sliding wardrobe"
+   },
+   "desc": {
+    "kg": "Күзгүлүү эшиктери бар 3 эшиктүү шкаф.",
+    "ru": "Трёхдверный шкаф-купе с зеркалами.",
+    "en": "Three-door mirrored wardrobe."
+   },
+   "category": "bedroom",
+   "price": 36900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/wardrobe?lock=1316",
+   "gallery": [
+    "https://loremflickr.com/800/600/wardrobe?lock=1316",
+    "https://loremflickr.com/800/600/wardrobe?lock=1317",
+    "https://loremflickr.com/800/600/wardrobe?lock=1318"
+   ],
+   "specs": {
+    "size": "240×60×230 см",
+    "material": {
+     "kg": "ЛДСП",
+     "ru": "ЛДСП",
+     "en": "Chipboard"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Белый",
+     "en": "White"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "шкаф"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757889600000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1758580800000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759099200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1758494400000
+    }
+   ]
+  },
+  {
+   "id": "meb07",
+   "name": {
+    "kg": "Ашкана гарнитуру",
+    "ru": "Кухонный гарнитур",
+    "en": "Kitchen set"
+   },
+   "desc": {
+    "kg": "3 метрлик ашкана, акрил фасад жана кварц столешница. Өлчөм боюнча.",
+    "ru": "3-метровая кухня, акрил и кварц.",
+    "en": "3 m kitchen, acrylic fronts and quartz top."
+   },
+   "category": "kitchen",
+   "price": 89000,
+   "oldPrice": null,
+   "stock": 5,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/kitchen,cabinets?lock=1319",
+   "gallery": [
+    "https://loremflickr.com/800/600/kitchen,cabinets?lock=1319",
+    "https://loremflickr.com/800/600/kitchen,cabinets?lock=1320",
+    "https://loremflickr.com/800/600/kitchen,cabinets?lock=1321"
+   ],
+   "specs": {
+    "size": "300 см",
+    "material": {
+     "kg": "МДФ + акрил",
+     "ru": "МДФ + акрил",
+     "en": "MDF + acrylic"
+    },
+    "color": {
+     "kg": "Жашыл",
+     "ru": "Зелёный",
+     "en": "Green"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "ашкана"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757889600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759444800000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758840000000
+    }
+   ]
+  },
+  {
+   "id": "meb08",
+   "name": {
+    "kg": "Тамак столу + 4 отургуч",
+    "ru": "Обеденный стол + 4 стула",
+    "en": "Dining table + 4 chairs"
+   },
+   "desc": {
+    "kg": "Үй-бүлөлүк тамак үчүн ачылуучу стол жана жумшак отургучтар.",
+    "ru": "Раздвижной стол и мягкие стулья.",
+    "en": "Extendable table with soft chairs."
+   },
+   "category": "kitchen",
+   "price": 28900,
+   "oldPrice": 33900,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dining,table?lock=1322",
+   "gallery": [
+    "https://loremflickr.com/800/600/dining,table?lock=1322",
+    "https://loremflickr.com/800/600/dining,table?lock=1323",
+    "https://loremflickr.com/800/600/dining,table?lock=1324"
+   ],
+   "specs": {
+    "size": "140(180)×80 см",
+    "material": {
+     "kg": "Карагай",
+     "ru": "Сосна",
+     "en": "Pine"
+    },
+    "color": {
+     "kg": "Ак/эмен",
+     "ru": "Белый/дуб",
+     "en": "White/oak"
+    },
+    "country": {
+     "kg": "Малайзия",
+     "ru": "Малайзия",
+     "en": "Malaysia"
+    },
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "стол"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759704000000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756593600000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1758494400000
+    }
+   ]
+  },
+  {
+   "id": "meb09",
+   "name": {
+    "kg": "Эргономикалык кресло",
+    "ru": "Эргономичное кресло",
+    "en": "Ergonomic chair"
+   },
+   "desc": {
+    "kg": "Белди колдоочу, торчолуу кресло. Узак иштөөгө ыңгайлуу.",
+    "ru": "Сетчатое кресло с поддержкой поясницы.",
+    "en": "Mesh chair with lumbar support."
+   },
+   "category": "office",
+   "price": 19900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/office,chair?lock=1325",
+   "gallery": [
+    "https://loremflickr.com/800/600/office,chair?lock=1325",
+    "https://loremflickr.com/800/600/office,chair?lock=1326",
+    "https://loremflickr.com/800/600/office,chair?lock=1327"
+   ],
+   "specs": {
+    "size": "65×65×120 см",
+    "material": {
+     "kg": "Тор",
+     "ru": "Сетка",
+     "en": "Mesh"
+    },
+    "color": {
+     "kg": "Кара",
+     "ru": "Чёрный",
+     "en": "Black"
+    },
+    "country": {
+     "kg": "Кытай",
+     "ru": "Китай",
+     "en": "China"
+    },
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "кресло",
+    "офис"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760136000000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759185600000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757457600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1756852800000
+    }
+   ]
+  },
+  {
+   "id": "meb10",
+   "name": {
+    "kg": "Бийиктиги өзгөрүүчү стол",
+    "ru": "Стол с регулировкой высоты",
+    "en": "Standing desk"
+   },
+   "desc": {
+    "kg": "Электр мотору менен 70–120 см бийиктикке көтөрүлөт.",
+    "ru": "Электроподъём от 70 до 120 см.",
+    "en": "Electric lift from 70 to 120 cm."
+   },
+   "category": "office",
+   "price": 32900,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/standing,desk?lock=1328",
+   "gallery": [
+    "https://loremflickr.com/800/600/standing,desk?lock=1328",
+    "https://loremflickr.com/800/600/standing,desk?lock=1329",
+    "https://loremflickr.com/800/600/standing,desk?lock=1330"
+   ],
+   "specs": {
+    "size": "140×70 см",
+    "material": {
+     "kg": "МДФ + болот",
+     "ru": "МДФ + сталь",
+     "en": "MDF + steel"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Белый",
+     "en": "White"
+    },
+    "country": {
+     "kg": "Кытай",
+     "ru": "Китай",
+     "en": "China"
+    },
+    "warranty": {
+     "kg": "3 жыл",
+     "ru": "3 года",
+     "en": "3 years"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "стол"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757976000000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757025600000
+    }
+   ]
+  },
+  {
+   "id": "meb11",
+   "name": {
+    "kg": "Эки кабаттуу керебет",
+    "ru": "Двухъярусная кровать",
+    "en": "Bunk bed"
+   },
+   "desc": {
+    "kg": "Тепкичи жана шкафчалары бар балдар керебети.",
+    "ru": "Детская двухъярусная кровать с ящиками.",
+    "en": "Kids bunk bed with drawers."
+   },
+   "category": "kids",
+   "price": 24900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/bunk,bed?lock=1331",
+   "gallery": [
+    "https://loremflickr.com/800/600/bunk,bed?lock=1331",
+    "https://loremflickr.com/800/600/bunk,bed?lock=1332",
+    "https://loremflickr.com/800/600/bunk,bed?lock=1333"
+   ],
+   "specs": {
+    "size": "200×90 см",
+    "material": {
+     "kg": "Карагай",
+     "ru": "Сосна",
+     "en": "Pine"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Белый",
+     "en": "White"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "балдар"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759272000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "meb12",
+   "name": {
+    "kg": "Окуучу столу",
+    "ru": "Парта для школьника",
+    "en": "Student desk"
+   },
+   "desc": {
+    "kg": "Бийиктиги жөнгө салынуучу парта жана отургуч.",
+    "ru": "Регулируемая парта и стул.",
+    "en": "Adjustable desk and chair."
+   },
+   "category": "kids",
+   "price": 8900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/kids,desk?lock=1334",
+   "gallery": [
+    "https://loremflickr.com/800/600/kids,desk?lock=1334",
+    "https://loremflickr.com/800/600/kids,desk?lock=1335",
+    "https://loremflickr.com/800/600/kids,desk?lock=1336"
+   ],
+   "specs": {
+    "size": "80×60 см",
+    "material": {
+     "kg": "Пластик + металл",
+     "ru": "Пластик + металл",
+     "en": "Plastic + metal"
+    },
+    "color": {
+     "kg": "Көк",
+     "ru": "Голубой",
+     "en": "Blue"
+    },
+    "country": {
+     "kg": "Кытай",
+     "ru": "Китай",
+     "en": "China"
+    },
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    },
+    "assembly": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    }
+   },
+   "tags": [
+    "парта"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758580800000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760136000000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757889600000
+    }
+   ]
+  }
+ ]
+}

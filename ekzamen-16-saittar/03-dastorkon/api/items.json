@@ -1,0 +1,656 @@
+{
+ "site": "Dastorkon",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "das01",
+   "name": {
+    "kg": "Ош палоосу",
+    "ru": "Ошский плов",
+    "en": "Osh plov"
+   },
+   "desc": {
+    "kg": "Девзира күрүчү, козу эти жана сары сабиз менен казанда бышырылган палоо. Ысык нан жана ачуу-чучук кошо берилет.",
+    "ru": "Плов из девзиры с бараниной и жёлтой морковью.",
+    "en": "Devzira rice plov with lamb and yellow carrots."
+   },
+   "category": "national",
+   "price": 380,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/plov,rice?lock=301",
+   "gallery": [
+    "https://loremflickr.com/800/600/plov,rice?lock=301",
+    "https://loremflickr.com/800/600/plov,rice?lock=302",
+    "https://loremflickr.com/800/600/plov,rice?lock=303"
+   ],
+   "specs": {
+    "weight": "400 г",
+    "kcal": 720,
+    "time": "20 мүн",
+    "spicy": "🌶",
+    "serves": 1
+   },
+   "tags": [
+    "палоо",
+    "хит"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759876800000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1757544000000
+    }
+   ]
+  },
+  {
+   "id": "das02",
+   "name": {
+    "kg": "Беш бармак",
+    "ru": "Бешбармак",
+    "en": "Beshbarmak"
+   },
+   "desc": {
+    "kg": "Кол менен жасалган кесме жана жылкы эти. Сорпо менен кошо берилет.",
+    "ru": "Домашняя лапша с кониной, подаётся с бульоном.",
+    "en": "Hand-made noodles with horse meat and broth."
+   },
+   "category": "national",
+   "price": 520,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/beshbarmak,noodle?lock=304",
+   "gallery": [
+    "https://loremflickr.com/800/600/beshbarmak,noodle?lock=304",
+    "https://loremflickr.com/800/600/beshbarmak,noodle?lock=305",
+    "https://loremflickr.com/800/600/beshbarmak,noodle?lock=306"
+   ],
+   "specs": {
+    "weight": "500 г",
+    "kcal": 850,
+    "time": "25 мүн",
+    "spicy": "—",
+    "serves": 1
+   },
+   "tags": [
+    "улуттук"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758753600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758321600000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759531200000
+    }
+   ]
+  },
+  {
+   "id": "das03",
+   "name": {
+    "kg": "Куурма лагман",
+    "ru": "Жареный лагман",
+    "en": "Fried lagman"
+   },
+   "desc": {
+    "kg": "Колдо созулган кесме, уй эти жана жашылчалар. Ачуу соус менен.",
+    "ru": "Тянутая лапша с говядиной и овощами.",
+    "en": "Hand-pulled noodles with beef and vegetables."
+   },
+   "category": "national",
+   "price": 320,
+   "oldPrice": 360,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/lagman,noodles?lock=307",
+   "gallery": [
+    "https://loremflickr.com/800/600/lagman,noodles?lock=307",
+    "https://loremflickr.com/800/600/lagman,noodles?lock=308",
+    "https://loremflickr.com/800/600/lagman,noodles?lock=309"
+   ],
+   "specs": {
+    "weight": "400 г",
+    "kcal": 680,
+    "time": "15 мүн",
+    "spicy": "🌶🌶",
+    "serves": 1
+   },
+   "tags": [
+    "лагман"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757112000000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758235200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1756420800000
+    }
+   ]
+  },
+  {
+   "id": "das04",
+   "name": {
+    "kg": "Манты (5 даана)",
+    "ru": "Манты (5 шт)",
+    "en": "Manti (5 pcs)"
+   },
+   "desc": {
+    "kg": "Буга бышырылган, эт жана куйрук май салынган манты. Каймак же соус менен.",
+    "ru": "Паровые манты с мясом и курдюком.",
+    "en": "Steamed dumplings with meat."
+   },
+   "category": "national",
+   "price": 290,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/dumplings,manti?lock=310",
+   "gallery": [
+    "https://loremflickr.com/800/600/dumplings,manti?lock=310",
+    "https://loremflickr.com/800/600/dumplings,manti?lock=311",
+    "https://loremflickr.com/800/600/dumplings,manti?lock=312"
+   ],
+   "specs": {
+    "weight": "350 г",
+    "kcal": 610,
+    "time": "30 мүн",
+    "spicy": "—",
+    "serves": 1
+   },
+   "tags": [
+    "манты"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757025600000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759790400000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760049600000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759358400000
+    }
+   ]
+  },
+  {
+   "id": "das05",
+   "name": {
+    "kg": "Шорпо",
+    "ru": "Шорпо",
+    "en": "Shorpo"
+   },
+   "desc": {
+    "kg": "Кой этинен жасалган тунук шорпо, картошка жана жашылчалар менен.",
+    "ru": "Прозрачный суп из баранины с картофелем.",
+    "en": "Clear lamb soup with potatoes and vegetables."
+   },
+   "category": "soups",
+   "price": 260,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/soup,bowl?lock=313",
+   "gallery": [
+    "https://loremflickr.com/800/600/soup,bowl?lock=313",
+    "https://loremflickr.com/800/600/soup,bowl?lock=314",
+    "https://loremflickr.com/800/600/soup,bowl?lock=315"
+   ],
+   "specs": {
+    "weight": "400 мл",
+    "kcal": 320,
+    "time": "10 мүн",
+    "spicy": "—",
+    "serves": 1
+   },
+   "tags": [
+    "шорпо"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757112000000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1755902400000
+    }
+   ]
+  },
+  {
+   "id": "das06",
+   "name": {
+    "kg": "Ашлямфу",
+    "ru": "Ашлям-фу",
+    "en": "Ashlyamfu"
+   },
+   "desc": {
+    "kg": "Каракол стилиндеги салкын, ачуу-кычкыл ашлямфу. Жайкы күндөргө эң сонун.",
+    "ru": "Холодный острый ашлям-фу по-каракольски.",
+    "en": "Cold spicy Karakol-style noodle soup."
+   },
+   "category": "soups",
+   "price": 280,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/soup,noodle?lock=316",
+   "gallery": [
+    "https://loremflickr.com/800/600/soup,noodle?lock=316",
+    "https://loremflickr.com/800/600/soup,noodle?lock=317",
+    "https://loremflickr.com/800/600/soup,noodle?lock=318"
+   ],
+   "specs": {
+    "weight": "450 мл",
+    "kcal": 410,
+    "time": "10 мүн",
+    "spicy": "🌶🌶🌶",
+    "serves": 1
+   },
+   "tags": [
+    "каракол"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1756507200000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1756075200000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1757457600000
+    }
+   ]
+  },
+  {
+   "id": "das07",
+   "name": {
+    "kg": "Кой этинен шашлык",
+    "ru": "Шашлык из баранины",
+    "en": "Lamb shashlik"
+   },
+   "desc": {
+    "kg": "Көмүрдө бышырылган жумшак кой эти. Пияз жана нан менен.",
+    "ru": "Нежная баранина на углях с луком.",
+    "en": "Tender charcoal-grilled lamb with onions."
+   },
+   "category": "grill",
+   "price": 450,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/kebab,grill?lock=319",
+   "gallery": [
+    "https://loremflickr.com/800/600/kebab,grill?lock=319",
+    "https://loremflickr.com/800/600/kebab,grill?lock=320",
+    "https://loremflickr.com/800/600/kebab,grill?lock=321"
+   ],
+   "specs": {
+    "weight": "250 г",
+    "kcal": 590,
+    "time": "20 мүн",
+    "spicy": "—",
+    "serves": 1
+   },
+   "tags": [
+    "шашлык"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757371200000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759444800000
+    }
+   ]
+  },
+  {
+   "id": "das08",
+   "name": {
+    "kg": "Ассорти шашлык (4 киши)",
+    "ru": "Ассорти шашлык (на 4)",
+    "en": "Grill platter (4 ppl)"
+   },
+   "desc": {
+    "kg": "Кой, уй, тоок эти жана жашылчалар. Компания үчүн чоң табак.",
+    "ru": "Баранина, говядина, курица и овощи на компанию.",
+    "en": "Lamb, beef, chicken and veggies for a group."
+   },
+   "category": "grill",
+   "price": 1900,
+   "oldPrice": 2200,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/barbecue,meat?lock=322",
+   "gallery": [
+    "https://loremflickr.com/800/600/barbecue,meat?lock=322",
+    "https://loremflickr.com/800/600/barbecue,meat?lock=323",
+    "https://loremflickr.com/800/600/barbecue,meat?lock=324"
+   ],
+   "specs": {
+    "weight": "1.4 кг",
+    "kcal": 2800,
+    "time": "35 мүн",
+    "spicy": "🌶",
+    "serves": 4
+   },
+   "tags": [
+    "компания"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756334400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760481600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757457600000
+    }
+   ]
+  },
+  {
+   "id": "das09",
+   "name": {
+    "kg": "Тандыр самса",
+    "ru": "Самса из тандыра",
+    "en": "Tandoor samsa"
+   },
+   "desc": {
+    "kg": "Катмарлуу камыр, туурама эт жана пияз. Тандырдан ысык чыгат.",
+    "ru": "Слоёное тесто с рубленым мясом из тандыра.",
+    "en": "Flaky pastry with minced meat from the tandoor."
+   },
+   "category": "bakery",
+   "price": 120,
+   "oldPrice": null,
+   "stock": 60,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/samsa,pastry?lock=325",
+   "gallery": [
+    "https://loremflickr.com/800/600/samsa,pastry?lock=325",
+    "https://loremflickr.com/800/600/samsa,pastry?lock=326",
+    "https://loremflickr.com/800/600/samsa,pastry?lock=327"
+   ],
+   "specs": {
+    "weight": "180 г",
+    "kcal": 420,
+    "time": "5 мүн",
+    "spicy": "—",
+    "serves": 1
+   },
+   "tags": [
+    "самса"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757457600000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1758580800000
+    }
+   ]
+  },
+  {
+   "id": "das10",
+   "name": {
+    "kg": "Боорсок (порция)",
+    "ru": "Боорсок (порция)",
+    "en": "Boorsok"
+   },
+   "desc": {
+    "kg": "Майга кууралган салттуу боорсок. Чай менен эң даамдуу.",
+    "ru": "Традиционный жареный боорсок к чаю.",
+    "en": "Traditional fried dough for tea."
+   },
+   "category": "bakery",
+   "price": 90,
+   "oldPrice": null,
+   "stock": 80,
+   "rating": 4.6,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/bread,flatbread?lock=328",
+   "gallery": [
+    "https://loremflickr.com/800/600/bread,flatbread?lock=328",
+    "https://loremflickr.com/800/600/bread,flatbread?lock=329",
+    "https://loremflickr.com/800/600/bread,flatbread?lock=330"
+   ],
+   "specs": {
+    "weight": "200 г",
+    "kcal": 500,
+    "time": "5 мүн",
+    "spicy": "—",
+    "serves": 2
+   },
+   "tags": [
+    "чай"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760222400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "das11",
+   "name": {
+    "kg": "Кара чай чайнекте",
+    "ru": "Чёрный чай в чайнике",
+    "en": "Black tea pot"
+   },
+   "desc": {
+    "kg": "Сүт же лимон менен берилүүчү чайнек кара чай.",
+    "ru": "Чайник чёрного чая с молоком или лимоном.",
+    "en": "A pot of black tea with milk or lemon."
+   },
+   "category": "drinks",
+   "price": 150,
+   "oldPrice": null,
+   "stock": 100,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/tea,teapot?lock=331",
+   "gallery": [
+    "https://loremflickr.com/800/600/tea,teapot?lock=331",
+    "https://loremflickr.com/800/600/tea,teapot?lock=332",
+    "https://loremflickr.com/800/600/tea,teapot?lock=333"
+   ],
+   "specs": {
+    "weight": "800 мл",
+    "kcal": 5,
+    "time": "3 мүн",
+    "spicy": "—",
+    "serves": 3
+   },
+   "tags": [
+    "чай"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1756248000000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760913600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1757025600000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759531200000
+    }
+   ]
+  },
+  {
+   "id": "das12",
+   "name": {
+    "kg": "Максым",
+    "ru": "Максым",
+    "en": "Maksym"
+   },
+   "desc": {
+    "kg": "Арпадан жасалган салттуу кыргыз суусундугу. Муздак берилет.",
+    "ru": "Традиционный кыргызский напиток из ячменя.",
+    "en": "Traditional Kyrgyz barley drink."
+   },
+   "category": "drinks",
+   "price": 120,
+   "oldPrice": null,
+   "stock": 50,
+   "rating": 4.4,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/drink,milk?lock=334",
+   "gallery": [
+    "https://loremflickr.com/800/600/drink,milk?lock=334",
+    "https://loremflickr.com/800/600/drink,milk?lock=335",
+    "https://loremflickr.com/800/600/drink,milk?lock=336"
+   ],
+   "specs": {
+    "weight": "500 мл",
+    "kcal": 120,
+    "time": "—",
+    "spicy": "—",
+    "serves": 1
+   },
+   "tags": [
+    "улуттук"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1756248000000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758840000000
+    }
+   ]
+  }
+ ]
+}

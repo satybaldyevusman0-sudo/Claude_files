@@ -1,0 +1,743 @@
+{
+ "site": "FitZone",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "fit01",
+   "name": {
+    "kg": "1 айлык абонемент",
+    "ru": "Абонемент на 1 месяц",
+    "en": "1-month pass"
+   },
+   "desc": {
+    "kg": "Залга, кардио зонага жана топтук сабактарга чексиз кирүү. Таңкы 7ден түнкү 23кө чейин.",
+    "ru": "Безлимит в зал, кардио и групповые занятия.",
+    "en": "Unlimited gym, cardio and group classes."
+   },
+   "category": "membership",
+   "price": 3500,
+   "oldPrice": null,
+   "stock": 100,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/gym,card?lock=701",
+   "gallery": [
+    "https://loremflickr.com/800/600/gym,card?lock=701",
+    "https://loremflickr.com/800/600/gym,card?lock=702",
+    "https://loremflickr.com/800/600/gym,card?lock=703"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "30 күн",
+     "ru": "30 дней",
+     "en": "30 days"
+    },
+    "visits": {
+     "kg": "Чексиз",
+     "ru": "Безлимит",
+     "en": "Unlimited"
+    },
+    "trainer": "—",
+    "level": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "абонемент"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1755816000000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756852800000
+    }
+   ]
+  },
+  {
+   "id": "fit02",
+   "name": {
+    "kg": "Жылдык абонемент",
+    "ru": "Годовой абонемент",
+    "en": "Annual pass"
+   },
+   "desc": {
+    "kg": "Эң үнөмдүү тандоо: 12 ай + 2 жеке машыгуу жана бассейн.",
+    "ru": "Самый выгодный: 12 месяцев + 2 персональные + бассейн.",
+    "en": "Best value: 12 months + 2 PT sessions + pool."
+   },
+   "category": "membership",
+   "price": 29000,
+   "oldPrice": 42000,
+   "stock": 50,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/gym,weights?lock=704",
+   "gallery": [
+    "https://loremflickr.com/800/600/gym,weights?lock=704",
+    "https://loremflickr.com/800/600/gym,weights?lock=705",
+    "https://loremflickr.com/800/600/gym,weights?lock=706"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "12 ай",
+     "ru": "12 месяцев",
+     "en": "12 months"
+    },
+    "visits": {
+     "kg": "Чексиз",
+     "ru": "Безлимит",
+     "en": "Unlimited"
+    },
+    "trainer": {
+     "kg": "2 сабак",
+     "ru": "2 занятия",
+     "en": "2 sessions"
+    },
+    "level": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "абонемент",
+    "хит"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760913600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757889600000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1758235200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757457600000
+    }
+   ]
+  },
+  {
+   "id": "fit03",
+   "name": {
+    "kg": "Студенттик абонемент",
+    "ru": "Студенческий абонемент",
+    "en": "Student pass"
+   },
+   "desc": {
+    "kg": "Студенттер үчүн күндүзгү убакытта (7:00–16:00) арзан абонемент.",
+    "ru": "Дневной абонемент для студентов.",
+    "en": "Daytime pass for students."
+   },
+   "category": "membership",
+   "price": 2200,
+   "oldPrice": null,
+   "stock": 100,
+   "rating": 4.6,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/student,gym?lock=707",
+   "gallery": [
+    "https://loremflickr.com/800/600/student,gym?lock=707",
+    "https://loremflickr.com/800/600/student,gym?lock=708",
+    "https://loremflickr.com/800/600/student,gym?lock=709"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "30 күн",
+     "ru": "30 дней",
+     "en": "30 days"
+    },
+    "visits": {
+     "kg": "Күндүз",
+     "ru": "Дневной",
+     "en": "Daytime"
+    },
+    "trainer": "—",
+    "level": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "студент"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1760395200000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759444800000
+    }
+   ]
+  },
+  {
+   "id": "fit04",
+   "name": {
+    "kg": "Жеке машыгуу (1 сабак)",
+    "ru": "Персональная тренировка",
+    "en": "Personal session"
+   },
+   "desc": {
+    "kg": "Тренер менен 60 мүнөттүк жеке машыгуу. Сиздин максатка жараша программа.",
+    "ru": "60 минут с тренером по вашей программе.",
+    "en": "60 minutes with a trainer tailored to you."
+   },
+   "category": "personal",
+   "price": 1500,
+   "oldPrice": null,
+   "stock": 30,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/personal,trainer?lock=710",
+   "gallery": [
+    "https://loremflickr.com/800/600/personal,trainer?lock=710",
+    "https://loremflickr.com/800/600/personal,trainer?lock=711",
+    "https://loremflickr.com/800/600/personal,trainer?lock=712"
+   ],
+   "specs": {
+    "duration": "60 мүн",
+    "visits": "1",
+    "trainer": "Азамат Т.",
+    "level": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "тренер"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757025600000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759617600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758926400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758235200000
+    }
+   ]
+  },
+  {
+   "id": "fit05",
+   "name": {
+    "kg": "10 жеке машыгуу пакети",
+    "ru": "Пакет 10 персональных",
+    "en": "10 PT sessions pack"
+   },
+   "desc": {
+    "kg": "Тамактануу планы жана прогрессти көзөмөлдөө менен 10 сабак.",
+    "ru": "10 занятий с планом питания и контролем прогресса.",
+    "en": "10 sessions with meal plan and progress tracking."
+   },
+   "category": "personal",
+   "price": 12000,
+   "oldPrice": 15000,
+   "stock": 15,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/coach,fitness?lock=713",
+   "gallery": [
+    "https://loremflickr.com/800/600/coach,fitness?lock=713",
+    "https://loremflickr.com/800/600/coach,fitness?lock=714",
+    "https://loremflickr.com/800/600/coach,fitness?lock=715"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "2 ай",
+     "ru": "2 месяца",
+     "en": "2 months"
+    },
+    "visits": "10",
+    "trainer": "Айпери С.",
+    "level": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "тренер",
+    "пакет"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1757544000000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1758408000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757544000000
+    }
+   ]
+  },
+  {
+   "id": "fit06",
+   "name": {
+    "kg": "Йога сабагы",
+    "ru": "Занятие йогой",
+    "en": "Yoga class"
+   },
+   "desc": {
+    "kg": "Денени жана акылды бекемдөөчү 75 мүнөттүк топтук йога.",
+    "ru": "75 минут групповой йоги.",
+    "en": "75-minute group yoga."
+   },
+   "category": "group",
+   "price": 600,
+   "oldPrice": null,
+   "stock": 20,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/yoga,class?lock=716",
+   "gallery": [
+    "https://loremflickr.com/800/600/yoga,class?lock=716",
+    "https://loremflickr.com/800/600/yoga,class?lock=717",
+    "https://loremflickr.com/800/600/yoga,class?lock=718"
+   ],
+   "specs": {
+    "duration": "75 мүн",
+    "visits": "1",
+    "trainer": "Мээрим К.",
+    "level": {
+     "kg": "Башталгыч",
+     "ru": "Начальный",
+     "en": "Beginner"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "йога"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757630400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758408000000
+    }
+   ]
+  },
+  {
+   "id": "fit07",
+   "name": {
+    "kg": "Бокс сабагы",
+    "ru": "Занятие боксом",
+    "en": "Boxing class"
+   },
+   "desc": {
+    "kg": "Чемпион тренер менен бокс техникасы жана функционалдык машыгуу.",
+    "ru": "Техника бокса с тренером-чемпионом.",
+    "en": "Boxing technique with a champion coach."
+   },
+   "category": "group",
+   "price": 700,
+   "oldPrice": null,
+   "stock": 12,
+   "rating": 4.7,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/boxing,gloves?lock=719",
+   "gallery": [
+    "https://loremflickr.com/800/600/boxing,gloves?lock=719",
+    "https://loremflickr.com/800/600/boxing,gloves?lock=720",
+    "https://loremflickr.com/800/600/boxing,gloves?lock=721"
+   ],
+   "specs": {
+    "duration": "60 мүн",
+    "visits": "1",
+    "trainer": "Бакыт А.",
+    "level": {
+     "kg": "Орто",
+     "ru": "Средний",
+     "en": "Intermediate"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "бокс"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759272000000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759185600000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757976000000
+    }
+   ]
+  },
+  {
+   "id": "fit08",
+   "name": {
+    "kg": "Кроссфит",
+    "ru": "Кроссфит",
+    "en": "CrossFit"
+   },
+   "desc": {
+    "kg": "Интенсивдүү топтук машыгуу: күч, чыдамкайлык жана ылдамдык.",
+    "ru": "Интенсивная групповая тренировка.",
+    "en": "Intense group workout."
+   },
+   "category": "group",
+   "price": 550,
+   "oldPrice": null,
+   "stock": 15,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/crossfit?lock=722",
+   "gallery": [
+    "https://loremflickr.com/800/600/crossfit?lock=722",
+    "https://loremflickr.com/800/600/crossfit?lock=723",
+    "https://loremflickr.com/800/600/crossfit?lock=724"
+   ],
+   "specs": {
+    "duration": "50 мүн",
+    "visits": "1",
+    "trainer": "Эрлан М.",
+    "level": {
+     "kg": "Жогорку",
+     "ru": "Высокий",
+     "en": "Advanced"
+    },
+    "weight": "—"
+   },
+   "tags": [
+    "кроссфит"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758494400000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756766400000
+    }
+   ]
+  },
+  {
+   "id": "fit09",
+   "name": {
+    "kg": "Гантель топтому 20 кг",
+    "ru": "Набор гантелей 20 кг",
+    "en": "Dumbbell set 20 kg"
+   },
+   "desc": {
+    "kg": "Үйдө машыгуу үчүн чогултулуучу гантелдер.",
+    "ru": "Разборные гантели для дома.",
+    "en": "Adjustable dumbbells for home."
+   },
+   "category": "gear",
+   "price": 3200,
+   "oldPrice": 3900,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dumbbell?lock=725",
+   "gallery": [
+    "https://loremflickr.com/800/600/dumbbell?lock=725",
+    "https://loremflickr.com/800/600/dumbbell?lock=726",
+    "https://loremflickr.com/800/600/dumbbell?lock=727"
+   ],
+   "specs": {
+    "duration": "—",
+    "visits": "—",
+    "trainer": "—",
+    "level": "—",
+    "weight": "20 кг"
+   },
+   "tags": [
+    "гантель"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1756161600000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759358400000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759704000000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1756852800000
+    }
+   ]
+  },
+  {
+   "id": "fit10",
+   "name": {
+    "kg": "Йога килемчеси",
+    "ru": "Коврик для йоги",
+    "en": "Yoga mat"
+   },
+   "desc": {
+    "kg": "Тайгаланбаган, 6 мм калыңдыктагы экологиялык килемче.",
+    "ru": "Нескользящий эко-коврик 6 мм.",
+    "en": "Non-slip 6mm eco mat."
+   },
+   "category": "gear",
+   "price": 1800,
+   "oldPrice": null,
+   "stock": 35,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/yoga,mat?lock=728",
+   "gallery": [
+    "https://loremflickr.com/800/600/yoga,mat?lock=728",
+    "https://loremflickr.com/800/600/yoga,mat?lock=729",
+    "https://loremflickr.com/800/600/yoga,mat?lock=730"
+   ],
+   "specs": {
+    "duration": "—",
+    "visits": "—",
+    "trainer": "—",
+    "level": "—",
+    "weight": "1 кг"
+   },
+   "tags": [
+    "йога"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759358400000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759790400000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757803200000
+    }
+   ]
+  },
+  {
+   "id": "fit11",
+   "name": {
+    "kg": "Протеин Whey 1 кг",
+    "ru": "Протеин Whey 1 кг",
+    "en": "Whey protein 1 kg"
+   },
+   "desc": {
+    "kg": "Булчуңдарды калыбына келтирүү үчүн сапаттуу сары суу протеини. Шоколад даамы.",
+    "ru": "Качественный сывороточный протеин, шоколад.",
+    "en": "Quality whey protein, chocolate flavor."
+   },
+   "category": "nutrition",
+   "price": 4500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/protein,powder?lock=731",
+   "gallery": [
+    "https://loremflickr.com/800/600/protein,powder?lock=731",
+    "https://loremflickr.com/800/600/protein,powder?lock=732",
+    "https://loremflickr.com/800/600/protein,powder?lock=733"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "33 порция",
+     "ru": "33 порции",
+     "en": "33 servings"
+    },
+    "visits": "—",
+    "trainer": "—",
+    "level": "—",
+    "weight": "1 кг"
+   },
+   "tags": [
+    "протеин"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757630400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759790400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759358400000
+    }
+   ]
+  },
+  {
+   "id": "fit12",
+   "name": {
+    "kg": "Протеин батончик",
+    "ru": "Протеиновый батончик",
+    "en": "Protein bar"
+   },
+   "desc": {
+    "kg": "20 г протеин, шекерсиз. Машыгуудан кийин тез тамак.",
+    "ru": "20 г белка без сахара.",
+    "en": "20 g protein, sugar-free."
+   },
+   "category": "nutrition",
+   "price": 250,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.3,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/protein,bar?lock=734",
+   "gallery": [
+    "https://loremflickr.com/800/600/protein,bar?lock=734",
+    "https://loremflickr.com/800/600/protein,bar?lock=735",
+    "https://loremflickr.com/800/600/protein,bar?lock=736"
+   ],
+   "specs": {
+    "duration": "—",
+    "visits": "—",
+    "trainer": "—",
+    "level": "—",
+    "weight": "60 г"
+   },
+   "tags": [
+    "батончик"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757544000000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760568000000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757544000000
+    }
+   ]
+  }
+ ]
+}

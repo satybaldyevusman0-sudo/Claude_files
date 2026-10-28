@@ -1,0 +1,857 @@
+{
+ "site": "Bilim Academy",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "bil01",
+   "name": {
+    "kg": "Frontend Developer (React)",
+    "ru": "Frontend-разработчик (React)",
+    "en": "Frontend Developer (React)"
+   },
+   "desc": {
+    "kg": "HTML, CSS, JavaScript жана React — нөлдөн портфолиого чейин. 5 реалдуу долбоор жасайсыз.",
+    "ru": "HTML, CSS, JS и React с нуля до портфолио.",
+    "en": "HTML, CSS, JS and React from zero to portfolio."
+   },
+   "category": "it",
+   "price": 45000,
+   "oldPrice": 55000,
+   "stock": 20,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/javascript,code?lock=1101",
+   "gallery": [
+    "https://loremflickr.com/800/600/javascript,code?lock=1101",
+    "https://loremflickr.com/800/600/javascript,code?lock=1102",
+    "https://loremflickr.com/800/600/javascript,code?lock=1103"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "6 ай",
+     "ru": "6 месяцев",
+     "en": "6 months"
+    },
+    "format": {
+     "kg": "Онлайн + офлайн",
+     "ru": "Онлайн + офлайн",
+     "en": "Hybrid"
+    },
+    "level": {
+     "kg": "Нөлдөн",
+     "ru": "С нуля",
+     "en": "Beginner"
+    },
+    "teacher": "Нурсултан А.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 72
+   },
+   "tags": [
+    "react",
+    "frontend"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756766400000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758494400000
+    }
+   ]
+  },
+  {
+   "id": "bil02",
+   "name": {
+    "kg": "Python жана Data Science",
+    "ru": "Python и Data Science",
+    "en": "Python & Data Science"
+   },
+   "desc": {
+    "kg": "Python, Pandas жана машиналык окутуунун негиздери.",
+    "ru": "Python, Pandas и основы машинного обучения.",
+    "en": "Python, Pandas and ML basics."
+   },
+   "category": "it",
+   "price": 42000,
+   "oldPrice": null,
+   "stock": 20,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/python,programming?lock=1104",
+   "gallery": [
+    "https://loremflickr.com/800/600/python,programming?lock=1104",
+    "https://loremflickr.com/800/600/python,programming?lock=1105",
+    "https://loremflickr.com/800/600/python,programming?lock=1106"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "5 ай",
+     "ru": "5 месяцев",
+     "en": "5 months"
+    },
+    "format": {
+     "kg": "Онлайн",
+     "ru": "Онлайн",
+     "en": "Online"
+    },
+    "level": {
+     "kg": "Нөлдөн",
+     "ru": "С нуля",
+     "en": "Beginner"
+    },
+    "teacher": "Айбек Ж.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 60
+   },
+   "tags": [
+    "python",
+    "ai"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760481600000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757284800000
+    }
+   ]
+  },
+  {
+   "id": "bil03",
+   "name": {
+    "kg": "Flutter: мобилдик колдонмолор",
+    "ru": "Flutter: мобильные приложения",
+    "en": "Flutter mobile apps"
+   },
+   "desc": {
+    "kg": "Android жана iOS үчүн бир коддон колдонмо жасоо.",
+    "ru": "Приложения для Android и iOS на одном коде.",
+    "en": "Build Android and iOS apps from one codebase."
+   },
+   "category": "it",
+   "price": 38000,
+   "oldPrice": null,
+   "stock": 15,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/mobile,app?lock=1107",
+   "gallery": [
+    "https://loremflickr.com/800/600/mobile,app?lock=1107",
+    "https://loremflickr.com/800/600/mobile,app?lock=1108",
+    "https://loremflickr.com/800/600/mobile,app?lock=1109"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "4 ай",
+     "ru": "4 месяца",
+     "en": "4 months"
+    },
+    "format": {
+     "kg": "Офлайн",
+     "ru": "Офлайн",
+     "en": "Offline"
+    },
+    "level": {
+     "kg": "Орто",
+     "ru": "Средний",
+     "en": "Intermediate"
+    },
+    "teacher": "Тимур К.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 48
+   },
+   "tags": [
+    "flutter"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760136000000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759444800000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758321600000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1756161600000
+    }
+   ]
+  },
+  {
+   "id": "bil04",
+   "name": {
+    "kg": "UI/UX дизайн (Figma)",
+    "ru": "UI/UX дизайн (Figma)",
+    "en": "UI/UX design (Figma)"
+   },
+   "desc": {
+    "kg": "Сайт жана колдонмо дизайны, прототиптөө жана колдонуучу изилдөөсү.",
+    "ru": "Дизайн сайтов и приложений, прототипирование.",
+    "en": "Web and app design, prototyping and research."
+   },
+   "category": "design",
+   "price": 32000,
+   "oldPrice": 36000,
+   "stock": 18,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/design,figma?lock=1110",
+   "gallery": [
+    "https://loremflickr.com/800/600/design,figma?lock=1110",
+    "https://loremflickr.com/800/600/design,figma?lock=1111",
+    "https://loremflickr.com/800/600/design,figma?lock=1112"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "3 ай",
+     "ru": "3 месяца",
+     "en": "3 months"
+    },
+    "format": {
+     "kg": "Онлайн",
+     "ru": "Онлайн",
+     "en": "Online"
+    },
+    "level": {
+     "kg": "Нөлдөн",
+     "ru": "С нуля",
+     "en": "Beginner"
+    },
+    "teacher": "Айгерим Т.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 36
+   },
+   "tags": [
+    "figma",
+    "ux"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757457600000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760308800000
+    }
+   ]
+  },
+  {
+   "id": "bil05",
+   "name": {
+    "kg": "Графикалык дизайн",
+    "ru": "Графический дизайн",
+    "en": "Graphic design"
+   },
+   "desc": {
+    "kg": "Photoshop, Illustrator жана брендинг негиздери.",
+    "ru": "Photoshop, Illustrator и брендинг.",
+    "en": "Photoshop, Illustrator and branding."
+   },
+   "category": "design",
+   "price": 26000,
+   "oldPrice": null,
+   "stock": 18,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/graphic,design?lock=1113",
+   "gallery": [
+    "https://loremflickr.com/800/600/graphic,design?lock=1113",
+    "https://loremflickr.com/800/600/graphic,design?lock=1114",
+    "https://loremflickr.com/800/600/graphic,design?lock=1115"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "3 ай",
+     "ru": "3 месяца",
+     "en": "3 months"
+    },
+    "format": {
+     "kg": "Офлайн",
+     "ru": "Офлайн",
+     "en": "Offline"
+    },
+    "level": {
+     "kg": "Нөлдөн",
+     "ru": "С нуля",
+     "en": "Beginner"
+    },
+    "teacher": "Мээрим Ж.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 36
+   },
+   "tags": [
+    "photoshop"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760913600000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759704000000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759617600000
+    }
+   ]
+  },
+  {
+   "id": "bil06",
+   "name": {
+    "kg": "Англис тили (A1–B1)",
+    "ru": "Английский (A1–B1)",
+    "en": "English (A1–B1)"
+   },
+   "desc": {
+    "kg": "Сүйлөшүүгө басым жасалган топтук сабактар, айына 12 сабак.",
+    "ru": "Разговорный английский в группе, 12 уроков в месяц.",
+    "en": "Conversational group lessons, 12 per month."
+   },
+   "category": "lang",
+   "price": 9000,
+   "oldPrice": null,
+   "stock": 40,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/english,book?lock=1116",
+   "gallery": [
+    "https://loremflickr.com/800/600/english,book?lock=1116",
+    "https://loremflickr.com/800/600/english,book?lock=1117",
+    "https://loremflickr.com/800/600/english,book?lock=1118"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "1 ай",
+     "ru": "1 месяц",
+     "en": "1 month"
+    },
+    "format": {
+     "kg": "Офлайн",
+     "ru": "Офлайн",
+     "en": "Offline"
+    },
+    "level": "A1–B1",
+    "teacher": "Sarah L.",
+    "cert": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    },
+    "lessons": 12
+   },
+   "tags": [
+    "англис"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760827200000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757025600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1755902400000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758926400000
+    }
+   ]
+  },
+  {
+   "id": "bil07",
+   "name": {
+    "kg": "IELTS даярдоо",
+    "ru": "Подготовка к IELTS",
+    "en": "IELTS preparation"
+   },
+   "desc": {
+    "kg": "6.5+ балл үчүн интенсивдүү даярдоо, сынамык экзамендер менен.",
+    "ru": "Интенсив на 6.5+ с пробными экзаменами.",
+    "en": "Intensive prep for 6.5+ with mock exams."
+   },
+   "category": "lang",
+   "price": 28000,
+   "oldPrice": 32000,
+   "stock": 12,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/ielts,exam?lock=1119",
+   "gallery": [
+    "https://loremflickr.com/800/600/ielts,exam?lock=1119",
+    "https://loremflickr.com/800/600/ielts,exam?lock=1120",
+    "https://loremflickr.com/800/600/ielts,exam?lock=1121"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "2 ай",
+     "ru": "2 месяца",
+     "en": "2 months"
+    },
+    "format": {
+     "kg": "Онлайн + офлайн",
+     "ru": "Онлайн + офлайн",
+     "en": "Hybrid"
+    },
+    "level": "B1+",
+    "teacher": "John M.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 32
+   },
+   "tags": [
+    "ielts"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758148800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759704000000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1758235200000
+    }
+   ]
+  },
+  {
+   "id": "bil08",
+   "name": {
+    "kg": "Корей тили",
+    "ru": "Корейский язык",
+    "en": "Korean language"
+   },
+   "desc": {
+    "kg": "TOPIK экзаменине даярдоо жана сүйлөшүү.",
+    "ru": "Подготовка к TOPIK и разговорная практика.",
+    "en": "TOPIK prep and speaking practice."
+   },
+   "category": "lang",
+   "price": 8500,
+   "oldPrice": null,
+   "stock": 20,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/korean,language?lock=1122",
+   "gallery": [
+    "https://loremflickr.com/800/600/korean,language?lock=1122",
+    "https://loremflickr.com/800/600/korean,language?lock=1123",
+    "https://loremflickr.com/800/600/korean,language?lock=1124"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "1 ай",
+     "ru": "1 месяц",
+     "en": "1 month"
+    },
+    "format": {
+     "kg": "Офлайн",
+     "ru": "Офлайн",
+     "en": "Offline"
+    },
+    "level": {
+     "kg": "Нөлдөн",
+     "ru": "С нуля",
+     "en": "Beginner"
+    },
+    "teacher": "Kim J.",
+    "cert": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    },
+    "lessons": 12
+   },
+   "tags": [
+    "корей"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757630400000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759444800000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1757112000000
+    }
+   ]
+  },
+  {
+   "id": "bil09",
+   "name": {
+    "kg": "SMM жана таргет",
+    "ru": "SMM и таргет",
+    "en": "SMM & targeting"
+   },
+   "desc": {
+    "kg": "Instagram жана TikTok аркылуу бизнести өнүктүрүү.",
+    "ru": "Продвижение бизнеса в Instagram и TikTok.",
+    "en": "Grow business on Instagram and TikTok."
+   },
+   "category": "business",
+   "price": 18000,
+   "oldPrice": null,
+   "stock": 25,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/marketing,smm?lock=1125",
+   "gallery": [
+    "https://loremflickr.com/800/600/marketing,smm?lock=1125",
+    "https://loremflickr.com/800/600/marketing,smm?lock=1126",
+    "https://loremflickr.com/800/600/marketing,smm?lock=1127"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "2 ай",
+     "ru": "2 месяца",
+     "en": "2 months"
+    },
+    "format": {
+     "kg": "Онлайн",
+     "ru": "Онлайн",
+     "en": "Online"
+    },
+    "level": {
+     "kg": "Нөлдөн",
+     "ru": "С нуля",
+     "en": "Beginner"
+    },
+    "teacher": "Бегимай Н.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 20
+   },
+   "tags": [
+    "smm"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757630400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757544000000
+    }
+   ]
+  },
+  {
+   "id": "bil10",
+   "name": {
+    "kg": "1С: Бухгалтерия",
+    "ru": "1С: Бухгалтерия",
+    "en": "1C Accounting"
+   },
+   "desc": {
+    "kg": "Практикалык бухгалтердик эсеп жана 1С программасы.",
+    "ru": "Практический бухучёт и 1С.",
+    "en": "Practical accounting and 1C."
+   },
+   "category": "business",
+   "price": 15000,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.4,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/accounting?lock=1128",
+   "gallery": [
+    "https://loremflickr.com/800/600/accounting?lock=1128",
+    "https://loremflickr.com/800/600/accounting?lock=1129",
+    "https://loremflickr.com/800/600/accounting?lock=1130"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "2 ай",
+     "ru": "2 месяца",
+     "en": "2 months"
+    },
+    "format": {
+     "kg": "Офлайн",
+     "ru": "Офлайн",
+     "en": "Offline"
+    },
+    "level": {
+     "kg": "Нөлдөн",
+     "ru": "С нуля",
+     "en": "Beginner"
+    },
+    "teacher": "Гүлмира С.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 24
+   },
+   "tags": [
+    "1с"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760136000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1758062400000
+    }
+   ]
+  },
+  {
+   "id": "bil11",
+   "name": {
+    "kg": "ОРТ даярдоо",
+    "ru": "Подготовка к ОРТ",
+    "en": "ORT preparation"
+   },
+   "desc": {
+    "kg": "Математика, кыргыз тили жана логика боюнча ОРТго даярдоо.",
+    "ru": "Подготовка к ОРТ: математика и логика.",
+    "en": "National test prep: math and logic."
+   },
+   "category": "school",
+   "price": 6000,
+   "oldPrice": null,
+   "stock": 50,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/math,school?lock=1131",
+   "gallery": [
+    "https://loremflickr.com/800/600/math,school?lock=1131",
+    "https://loremflickr.com/800/600/math,school?lock=1132",
+    "https://loremflickr.com/800/600/math,school?lock=1133"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "1 ай",
+     "ru": "1 месяц",
+     "en": "1 month"
+    },
+    "format": {
+     "kg": "Офлайн",
+     "ru": "Офлайн",
+     "en": "Offline"
+    },
+    "level": {
+     "kg": "10–11 класс",
+     "ru": "10–11 класс",
+     "en": "Grades 10–11"
+    },
+    "teacher": "Эрмек С.",
+    "cert": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    },
+    "lessons": 16
+   },
+   "tags": [
+    "орт"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757457600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1760568000000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759963200000
+    }
+   ]
+  },
+  {
+   "id": "bil12",
+   "name": {
+    "kg": "Балдар үчүн робототехника",
+    "ru": "Робототехника для детей",
+    "en": "Robotics for kids"
+   },
+   "desc": {
+    "kg": "LEGO жана Arduino менен 8–14 жаштагы балдар үчүн.",
+    "ru": "LEGO и Arduino для детей 8–14 лет.",
+    "en": "LEGO and Arduino for ages 8–14."
+   },
+   "category": "school",
+   "price": 5500,
+   "oldPrice": null,
+   "stock": 15,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/robotics,kids?lock=1134",
+   "gallery": [
+    "https://loremflickr.com/800/600/robotics,kids?lock=1134",
+    "https://loremflickr.com/800/600/robotics,kids?lock=1135",
+    "https://loremflickr.com/800/600/robotics,kids?lock=1136"
+   ],
+   "specs": {
+    "duration": {
+     "kg": "1 ай",
+     "ru": "1 месяц",
+     "en": "1 month"
+    },
+    "format": {
+     "kg": "Офлайн",
+     "ru": "Офлайн",
+     "en": "Offline"
+    },
+    "level": "8–14",
+    "teacher": "Азамат Б.",
+    "cert": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "lessons": 8
+   },
+   "tags": [
+    "робот",
+    "балдар"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759444800000
+    }
+   ]
+  }
+ ]
+}

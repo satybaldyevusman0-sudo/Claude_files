@@ -1,0 +1,727 @@
+{
+ "site": "Pet Dostum",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "pet01",
+   "name": {
+    "kg": "Royal Canin иттер үчүн 4 кг",
+    "ru": "Royal Canin для собак 4 кг",
+    "en": "Royal Canin dog 4 kg"
+   },
+   "desc": {
+    "kg": "Орто тукумдагы чоң иттер үчүн толук рацион. Сиңимдүү жана ден соолукка пайдалуу.",
+    "ru": "Полнорационный корм для взрослых собак средних пород.",
+    "en": "Complete food for adult medium dogs."
+   },
+   "category": "dogs",
+   "price": 4900,
+   "oldPrice": 5600,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dog,food?lock=1401",
+   "gallery": [
+    "https://loremflickr.com/800/600/dog,food?lock=1401",
+    "https://loremflickr.com/800/600/dog,food?lock=1402",
+    "https://loremflickr.com/800/600/dog,food?lock=1403"
+   ],
+   "specs": {
+    "brand": "Royal Canin",
+    "weight": "4 кг",
+    "age": {
+     "kg": "Чоң",
+     "ru": "Взрослые",
+     "en": "Adult"
+    },
+    "size": {
+     "kg": "Орто",
+     "ru": "Средние",
+     "en": "Medium"
+    },
+    "duration": "—"
+   },
+   "tags": [
+    "тоют",
+    "ит"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758321600000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756334400000
+    }
+   ]
+  },
+  {
+   "id": "pet02",
+   "name": {
+    "kg": "Ит оюнчугу — топ",
+    "ru": "Игрушка-мяч для собак",
+    "en": "Dog ball toy"
+   },
+   "desc": {
+    "kg": "Резина топ, тиштерди тазалайт. Сууда калкыйт.",
+    "ru": "Резиновый мяч, чистит зубы, плавает.",
+    "en": "Rubber ball, cleans teeth, floats."
+   },
+   "category": "dogs",
+   "price": 1200,
+   "oldPrice": null,
+   "stock": 40,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dog,toy?lock=1404",
+   "gallery": [
+    "https://loremflickr.com/800/600/dog,toy?lock=1404",
+    "https://loremflickr.com/800/600/dog,toy?lock=1405",
+    "https://loremflickr.com/800/600/dog,toy?lock=1406"
+   ],
+   "specs": {
+    "brand": "Kong",
+    "weight": "150 г",
+    "age": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "size": "M",
+    "duration": "—"
+   },
+   "tags": [
+    "оюнчук"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759012800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756852800000
+    }
+   ]
+  },
+  {
+   "id": "pet03",
+   "name": {
+    "kg": "Жарык чыгаруучу каргы",
+    "ru": "Светящийся ошейник",
+    "en": "LED collar"
+   },
+   "desc": {
+    "kg": "Түнкү сейилдөөдө коопсуздук үчүн USB кубаттуу каргы.",
+    "ru": "USB-ошейник для ночных прогулок.",
+    "en": "USB collar for night walks."
+   },
+   "category": "dogs",
+   "price": 2500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/dog,collar?lock=1407",
+   "gallery": [
+    "https://loremflickr.com/800/600/dog,collar?lock=1407",
+    "https://loremflickr.com/800/600/dog,collar?lock=1408",
+    "https://loremflickr.com/800/600/dog,collar?lock=1409"
+   ],
+   "specs": {
+    "brand": "PetSafe",
+    "weight": "50 г",
+    "age": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "size": "S–XL",
+    "duration": "—"
+   },
+   "tags": [
+    "каргы"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757198400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757544000000
+    }
+   ]
+  },
+  {
+   "id": "pet04",
+   "name": {
+    "kg": "Purina Pro Plan мышыктар үчүн 3 кг",
+    "ru": "Purina Pro Plan для кошек 3 кг",
+    "en": "Purina Pro Plan cat 3 kg"
+   },
+   "desc": {
+    "kg": "Стерилизацияланган мышыктар үчүн, лосось менен.",
+    "ru": "Для стерилизованных кошек, с лососем.",
+    "en": "For sterilized cats, with salmon."
+   },
+   "category": "cats",
+   "price": 3900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/cat,food?lock=1410",
+   "gallery": [
+    "https://loremflickr.com/800/600/cat,food?lock=1410",
+    "https://loremflickr.com/800/600/cat,food?lock=1411",
+    "https://loremflickr.com/800/600/cat,food?lock=1412"
+   ],
+   "specs": {
+    "brand": "Purina",
+    "weight": "3 кг",
+    "age": {
+     "kg": "Чоң",
+     "ru": "Взрослые",
+     "en": "Adult"
+    },
+    "size": "—",
+    "duration": "—"
+   },
+   "tags": [
+    "тоют",
+    "мышык"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758321600000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759876800000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758840000000
+    }
+   ]
+  },
+  {
+   "id": "pet05",
+   "name": {
+    "kg": "Мышык үчүн тырмагыч үй",
+    "ru": "Когтеточка-домик",
+    "en": "Cat tree house"
+   },
+   "desc": {
+    "kg": "3 кабаттуу тырмагыч, үйчө жана оюнчуктар.",
+    "ru": "Трёхъярусная когтеточка с домиком.",
+    "en": "Three-level scratching tree with house."
+   },
+   "category": "cats",
+   "price": 6500,
+   "oldPrice": 7900,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/cat,tree?lock=1413",
+   "gallery": [
+    "https://loremflickr.com/800/600/cat,tree?lock=1413",
+    "https://loremflickr.com/800/600/cat,tree?lock=1414",
+    "https://loremflickr.com/800/600/cat,tree?lock=1415"
+   ],
+   "specs": {
+    "brand": "Trixie",
+    "weight": "9 кг",
+    "age": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "size": "120 см",
+    "duration": "—"
+   },
+   "tags": [
+    "мышык"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760481600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760136000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757112000000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757025600000
+    }
+   ]
+  },
+  {
+   "id": "pet06",
+   "name": {
+    "kg": "Силикагель кум 5 л",
+    "ru": "Силикагелевый наполнитель 5 л",
+    "en": "Silica litter 5 L"
+   },
+   "desc": {
+    "kg": "Жытты сиңирүүчү, бир айга жетет.",
+    "ru": "Поглощает запах, хватает на месяц.",
+    "en": "Odor control, lasts a month."
+   },
+   "category": "cats",
+   "price": 890,
+   "oldPrice": null,
+   "stock": 60,
+   "rating": 4.4,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/cat,litter?lock=1416",
+   "gallery": [
+    "https://loremflickr.com/800/600/cat,litter?lock=1416",
+    "https://loremflickr.com/800/600/cat,litter?lock=1417",
+    "https://loremflickr.com/800/600/cat,litter?lock=1418"
+   ],
+   "specs": {
+    "brand": "N1",
+    "weight": "2.2 кг",
+    "age": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "size": "5 л",
+    "duration": {
+     "kg": "1 ай",
+     "ru": "1 месяц",
+     "en": "1 month"
+    }
+   },
+   "tags": [
+    "кум"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758926400000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760654400000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756161600000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760136000000
+    }
+   ]
+  },
+  {
+   "id": "pet07",
+   "name": {
+    "kg": "Аквариум 60 л топтому",
+    "ru": "Аквариум 60 л комплект",
+    "en": "Aquarium 60 L set"
+   },
+   "desc": {
+    "kg": "Фильтр, жарык жана жылыткыч менен толук топтом.",
+    "ru": "Полный комплект с фильтром и подсветкой.",
+    "en": "Full set with filter and light."
+   },
+   "category": "birds",
+   "price": 5500,
+   "oldPrice": null,
+   "stock": 8,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/aquarium,fish?lock=1419",
+   "gallery": [
+    "https://loremflickr.com/800/600/aquarium,fish?lock=1419",
+    "https://loremflickr.com/800/600/aquarium,fish?lock=1420",
+    "https://loremflickr.com/800/600/aquarium,fish?lock=1421"
+   ],
+   "specs": {
+    "brand": "Aquael",
+    "weight": "12 кг",
+    "age": "—",
+    "size": "60 л",
+    "duration": "—"
+   },
+   "tags": [
+    "аквариум"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757198400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1755902400000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "pet08",
+   "name": {
+    "kg": "Тоту куш үчүн капас",
+    "ru": "Клетка для попугая",
+    "en": "Parrot cage"
+   },
+   "desc": {
+    "kg": "Кенен капас, тамак-аш идиштери жана тепкичтер менен.",
+    "ru": "Просторная клетка с кормушками.",
+    "en": "Spacious cage with feeders."
+   },
+   "category": "birds",
+   "price": 3200,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/parrot,cage?lock=1422",
+   "gallery": [
+    "https://loremflickr.com/800/600/parrot,cage?lock=1422",
+    "https://loremflickr.com/800/600/parrot,cage?lock=1423",
+    "https://loremflickr.com/800/600/parrot,cage?lock=1424"
+   ],
+   "specs": {
+    "brand": "Ferplast",
+    "weight": "4 кг",
+    "age": "—",
+    "size": "50×30×60 см",
+    "duration": "—"
+   },
+   "tags": [
+    "тоту"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1757284800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760568000000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760827200000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756248000000
+    }
+   ]
+  },
+  {
+   "id": "pet09",
+   "name": {
+    "kg": "Ветеринар кабылдоосу",
+    "ru": "Приём ветеринара",
+    "en": "Vet consultation"
+   },
+   "desc": {
+    "kg": "Жалпы текшерүү, салмак өлчөө жана кеңеш.",
+    "ru": "Осмотр, взвешивание и консультация.",
+    "en": "Exam, weighing and advice."
+   },
+   "category": "vet",
+   "price": 900,
+   "oldPrice": null,
+   "stock": 30,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/vet,clinic?lock=1425",
+   "gallery": [
+    "https://loremflickr.com/800/600/vet,clinic?lock=1425",
+    "https://loremflickr.com/800/600/vet,clinic?lock=1426",
+    "https://loremflickr.com/800/600/vet,clinic?lock=1427"
+   ],
+   "specs": {
+    "brand": "—",
+    "weight": "—",
+    "age": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "size": "—",
+    "duration": "30 мүн"
+   },
+   "tags": [
+    "ветеринар"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760049600000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1757112000000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1756334400000
+    }
+   ]
+  },
+  {
+   "id": "pet10",
+   "name": {
+    "kg": "Комплекстүү эмдөө",
+    "ru": "Комплексная прививка",
+    "en": "Complex vaccination"
+   },
+   "desc": {
+    "kg": "Кутурма жана инфекцияларга каршы эмдөө, ветеринардык паспорт менен.",
+    "ru": "Прививка от бешенства и инфекций с ветпаспортом.",
+    "en": "Rabies and infection vaccine with vet passport."
+   },
+   "category": "vet",
+   "price": 1800,
+   "oldPrice": null,
+   "stock": 30,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/vaccine,dog?lock=1428",
+   "gallery": [
+    "https://loremflickr.com/800/600/vaccine,dog?lock=1428",
+    "https://loremflickr.com/800/600/vaccine,dog?lock=1429",
+    "https://loremflickr.com/800/600/vaccine,dog?lock=1430"
+   ],
+   "specs": {
+    "brand": "Nobivac",
+    "weight": "—",
+    "age": {
+     "kg": "2 айдан",
+     "ru": "С 2 мес",
+     "en": "From 2 mo"
+    },
+    "size": "—",
+    "duration": "20 мүн"
+   },
+   "tags": [
+    "эмдөө"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760654400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758580800000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "pet11",
+   "name": {
+    "kg": "Ит груминги",
+    "ru": "Груминг собаки",
+    "en": "Dog grooming"
+   },
+   "desc": {
+    "kg": "Жуунтуу, кургатуу, кыркуу жана тырмак алуу.",
+    "ru": "Мытьё, сушка, стрижка и когти.",
+    "en": "Bath, dry, haircut and nails."
+   },
+   "category": "grooming",
+   "price": 2500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/dog,grooming?lock=1431",
+   "gallery": [
+    "https://loremflickr.com/800/600/dog,grooming?lock=1431",
+    "https://loremflickr.com/800/600/dog,grooming?lock=1432",
+    "https://loremflickr.com/800/600/dog,grooming?lock=1433"
+   ],
+   "specs": {
+    "brand": "—",
+    "weight": "—",
+    "age": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "size": {
+     "kg": "Орто",
+     "ru": "Средние",
+     "en": "Medium"
+    },
+    "duration": "2 саат"
+   },
+   "tags": [
+    "груминг"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759444800000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759358400000
+    }
+   ]
+  },
+  {
+   "id": "pet12",
+   "name": {
+    "kg": "Мышык груминги",
+    "ru": "Груминг кошки",
+    "en": "Cat grooming"
+   },
+   "desc": {
+    "kg": "Жүндү тароо, жуунтуу жана тырмактарды кыркуу.",
+    "ru": "Вычёсывание, мытьё и стрижка когтей.",
+    "en": "Brushing, bath and nail trim."
+   },
+   "category": "grooming",
+   "price": 1800,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/cat,grooming?lock=1434",
+   "gallery": [
+    "https://loremflickr.com/800/600/cat,grooming?lock=1434",
+    "https://loremflickr.com/800/600/cat,grooming?lock=1435",
+    "https://loremflickr.com/800/600/cat,grooming?lock=1436"
+   ],
+   "specs": {
+    "brand": "—",
+    "weight": "—",
+    "age": {
+     "kg": "Баары",
+     "ru": "Все",
+     "en": "All"
+    },
+    "size": "—",
+    "duration": "1.5 саат"
+   },
+   "tags": [
+    "груминг"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759963200000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759444800000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759704000000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758321600000
+    }
+   ]
+  }
+ ]
+}

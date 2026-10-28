@@ -1,0 +1,849 @@
+{
+ "site": "Moda.kg",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "mod01",
+   "name": {
+    "kg": "Кашемир пальто",
+    "ru": "Кашемировое пальто",
+    "en": "Cashmere coat"
+   },
+   "desc": {
+    "kg": "Жумшак кашемирден тигилген классикалык пальто. Күз жана жаз үчүн эң сонун тандоо.",
+    "ru": "Классическое пальто из мягкого кашемира.",
+    "en": "Classic coat made of soft cashmere."
+   },
+   "category": "women",
+   "price": 7900,
+   "oldPrice": 10500,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/coat,woman?lock=601",
+   "gallery": [
+    "https://loremflickr.com/800/600/coat,woman?lock=601",
+    "https://loremflickr.com/800/600/coat,woman?lock=602",
+    "https://loremflickr.com/800/600/coat,woman?lock=603"
+   ],
+   "specs": {
+    "size": "S, M, L",
+    "material": {
+     "kg": "Кашемир 70%",
+     "ru": "Кашемир 70%",
+     "en": "Cashmere 70%"
+    },
+    "color": {
+     "kg": "Беж",
+     "ru": "Бежевый",
+     "en": "Beige"
+    },
+    "country": {
+     "kg": "Түркия",
+     "ru": "Турция",
+     "en": "Turkey"
+    },
+    "season": {
+     "kg": "Күз",
+     "ru": "Осень",
+     "en": "Autumn"
+    }
+   },
+   "tags": [
+    "пальто"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758321600000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757284800000
+    }
+   ]
+  },
+  {
+   "id": "mod02",
+   "name": {
+    "kg": "Оюмдуу көйнөк",
+    "ru": "Платье с орнаментом",
+    "en": "Ornament dress"
+   },
+   "desc": {
+    "kg": "Кыргыз оюмдары саймаланган заманбап көйнөк. Майрамдарга жана тойлорго.",
+    "ru": "Современное платье с кыргызской вышивкой.",
+    "en": "Modern dress with Kyrgyz embroidery."
+   },
+   "category": "women",
+   "price": 4500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/dress,fashion?lock=604",
+   "gallery": [
+    "https://loremflickr.com/800/600/dress,fashion?lock=604",
+    "https://loremflickr.com/800/600/dress,fashion?lock=605",
+    "https://loremflickr.com/800/600/dress,fashion?lock=606"
+   ],
+   "specs": {
+    "size": "XS – XL",
+    "material": {
+     "kg": "Атлас",
+     "ru": "Атлас",
+     "en": "Satin"
+    },
+    "color": {
+     "kg": "Бордо",
+     "ru": "Бордовый",
+     "en": "Burgundy"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "season": {
+     "kg": "Бардык",
+     "ru": "Всесезон",
+     "en": "All"
+    }
+   },
+   "tags": [
+    "улуттук",
+    "көйнөк"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1756248000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759099200000
+    }
+   ]
+  },
+  {
+   "id": "mod03",
+   "name": {
+    "kg": "Токулган свитер",
+    "ru": "Вязаный свитер",
+    "en": "Knitted sweater"
+   },
+   "desc": {
+    "kg": "Жылуу жана жумшак свитер, кой жүнүнөн. Кыш үчүн мыкты.",
+    "ru": "Тёплый мягкий свитер из овечьей шерсти.",
+    "en": "Warm soft wool sweater."
+   },
+   "category": "women",
+   "price": 2900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/sweater,knit?lock=607",
+   "gallery": [
+    "https://loremflickr.com/800/600/sweater,knit?lock=607",
+    "https://loremflickr.com/800/600/sweater,knit?lock=608",
+    "https://loremflickr.com/800/600/sweater,knit?lock=609"
+   ],
+   "specs": {
+    "size": "S – L",
+    "material": {
+     "kg": "Жүн",
+     "ru": "Шерсть",
+     "en": "Wool"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Молочный",
+     "en": "Cream"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "season": {
+     "kg": "Кыш",
+     "ru": "Зима",
+     "en": "Winter"
+    }
+   },
+   "tags": [
+    "жүн"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758667200000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758235200000
+    }
+   ]
+  },
+  {
+   "id": "mod04",
+   "name": {
+    "kg": "Классикалык костюм",
+    "ru": "Классический костюм",
+    "en": "Classic suit"
+   },
+   "desc": {
+    "kg": "Иш жана расмий иш-чаралар үчүн эки бөлүктөн турган костюм.",
+    "ru": "Костюм-двойка для работы и мероприятий.",
+    "en": "Two-piece suit for work and events."
+   },
+   "category": "men",
+   "price": 5900,
+   "oldPrice": 7200,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/suit,man?lock=610",
+   "gallery": [
+    "https://loremflickr.com/800/600/suit,man?lock=610",
+    "https://loremflickr.com/800/600/suit,man?lock=611",
+    "https://loremflickr.com/800/600/suit,man?lock=612"
+   ],
+   "specs": {
+    "size": "46 – 56",
+    "material": {
+     "kg": "Жүн аралаш",
+     "ru": "Шерсть-микс",
+     "en": "Wool blend"
+    },
+    "color": {
+     "kg": "Кара көк",
+     "ru": "Тёмно-синий",
+     "en": "Navy"
+    },
+    "country": {
+     "kg": "Түркия",
+     "ru": "Турция",
+     "en": "Turkey"
+    },
+    "season": {
+     "kg": "Бардык",
+     "ru": "Всесезон",
+     "en": "All"
+    }
+   },
+   "tags": [
+    "костюм"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757889600000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757371200000
+    }
+   ]
+  },
+  {
+   "id": "mod05",
+   "name": {
+    "kg": "Кышкы куртка",
+    "ru": "Зимняя куртка",
+    "en": "Winter jacket"
+   },
+   "desc": {
+    "kg": "Каз мамыгы толтурулган жылуу куртка, -25°C чейин.",
+    "ru": "Тёплая пуховая куртка до -25°C.",
+    "en": "Warm down jacket up to -25°C."
+   },
+   "category": "men",
+   "price": 8900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/jacket,winter?lock=613",
+   "gallery": [
+    "https://loremflickr.com/800/600/jacket,winter?lock=613",
+    "https://loremflickr.com/800/600/jacket,winter?lock=614",
+    "https://loremflickr.com/800/600/jacket,winter?lock=615"
+   ],
+   "specs": {
+    "size": "M – XXL",
+    "material": {
+     "kg": "Каз мамыгы",
+     "ru": "Гусиный пух",
+     "en": "Goose down"
+    },
+    "color": {
+     "kg": "Кара",
+     "ru": "Чёрный",
+     "en": "Black"
+    },
+    "country": {
+     "kg": "Кытай",
+     "ru": "Китай",
+     "en": "China"
+    },
+    "season": {
+     "kg": "Кыш",
+     "ru": "Зима",
+     "en": "Winter"
+    }
+   },
+   "tags": [
+    "куртка"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757457600000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756766400000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756075200000
+    }
+   ]
+  },
+  {
+   "id": "mod06",
+   "name": {
+    "kg": "Пахта футболка",
+    "ru": "Хлопковая футболка",
+    "en": "Cotton T-shirt"
+   },
+   "desc": {
+    "kg": "100% пахта, «Ала-Тоо» принти менен. Күнүмдүк кийүү үчүн.",
+    "ru": "100% хлопок с принтом «Ала-Тоо».",
+    "en": "100% cotton with Ala-Too print."
+   },
+   "category": "men",
+   "price": 1500,
+   "oldPrice": null,
+   "stock": 50,
+   "rating": 4.4,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/tshirt,man?lock=616",
+   "gallery": [
+    "https://loremflickr.com/800/600/tshirt,man?lock=616",
+    "https://loremflickr.com/800/600/tshirt,man?lock=617",
+    "https://loremflickr.com/800/600/tshirt,man?lock=618"
+   ],
+   "specs": {
+    "size": "S – XXL",
+    "material": {
+     "kg": "Пахта",
+     "ru": "Хлопок",
+     "en": "Cotton"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Белый",
+     "en": "White"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "season": {
+     "kg": "Жай",
+     "ru": "Лето",
+     "en": "Summer"
+    }
+   },
+   "tags": [
+    "футболка"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760568000000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758580800000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1758926400000
+    }
+   ]
+  },
+  {
+   "id": "mod07",
+   "name": {
+    "kg": "Балдар комбинезону",
+    "ru": "Детский комбинезон",
+    "en": "Kids jumpsuit"
+   },
+   "desc": {
+    "kg": "Сууга чыдамдуу, жылуу комбинезон 2-6 жаштагы балдар үчүн.",
+    "ru": "Тёплый непромокаемый комбинезон для 2-6 лет.",
+    "en": "Warm waterproof jumpsuit for ages 2-6."
+   },
+   "category": "kids",
+   "price": 2200,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/kids,clothes?lock=619",
+   "gallery": [
+    "https://loremflickr.com/800/600/kids,clothes?lock=619",
+    "https://loremflickr.com/800/600/kids,clothes?lock=620",
+    "https://loremflickr.com/800/600/kids,clothes?lock=621"
+   ],
+   "specs": {
+    "size": "92 – 122",
+    "material": {
+     "kg": "Полиэстер",
+     "ru": "Полиэстер",
+     "en": "Polyester"
+    },
+    "color": {
+     "kg": "Сары",
+     "ru": "Жёлтый",
+     "en": "Yellow"
+    },
+    "country": {
+     "kg": "Кытай",
+     "ru": "Китай",
+     "en": "China"
+    },
+    "season": {
+     "kg": "Кыш",
+     "ru": "Зима",
+     "en": "Winter"
+    }
+   },
+   "tags": [
+    "балдар"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756593600000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "mod08",
+   "name": {
+    "kg": "Мектеп формасы",
+    "ru": "Школьная форма",
+    "en": "School uniform"
+   },
+   "desc": {
+    "kg": "Классикалык мектеп формасы: пиджак жана шым/юбка.",
+    "ru": "Классическая школьная форма.",
+    "en": "Classic school uniform set."
+   },
+   "category": "kids",
+   "price": 1800,
+   "oldPrice": 2300,
+   "stock": 10,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/school,uniform?lock=622",
+   "gallery": [
+    "https://loremflickr.com/800/600/school,uniform?lock=622",
+    "https://loremflickr.com/800/600/school,uniform?lock=623",
+    "https://loremflickr.com/800/600/school,uniform?lock=624"
+   ],
+   "specs": {
+    "size": "122 – 164",
+    "material": {
+     "kg": "Габардин",
+     "ru": "Габардин",
+     "en": "Gabardine"
+    },
+    "color": {
+     "kg": "Кара көк",
+     "ru": "Тёмно-синий",
+     "en": "Navy"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "season": {
+     "kg": "Бардык",
+     "ru": "Всесезон",
+     "en": "All"
+    }
+   },
+   "tags": [
+    "мектеп"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759099200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759876800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757371200000
+    }
+   ]
+  },
+  {
+   "id": "mod09",
+   "name": {
+    "kg": "Чуркоо кроссовкасы",
+    "ru": "Беговые кроссовки",
+    "en": "Running sneakers"
+   },
+   "desc": {
+    "kg": "Жеңил жана амортизациялуу кроссовка спорт жана күнүмдүк кийүү үчүн.",
+    "ru": "Лёгкие кроссовки с амортизацией.",
+    "en": "Light cushioned sneakers."
+   },
+   "category": "shoes",
+   "price": 6500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/sneakers?lock=625",
+   "gallery": [
+    "https://loremflickr.com/800/600/sneakers?lock=625",
+    "https://loremflickr.com/800/600/sneakers?lock=626",
+    "https://loremflickr.com/800/600/sneakers?lock=627"
+   ],
+   "specs": {
+    "size": "36 – 45",
+    "material": {
+     "kg": "Текстиль",
+     "ru": "Текстиль",
+     "en": "Textile"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Белый",
+     "en": "White"
+    },
+    "country": {
+     "kg": "Вьетнам",
+     "ru": "Вьетнам",
+     "en": "Vietnam"
+    },
+    "season": {
+     "kg": "Бардык",
+     "ru": "Всесезон",
+     "en": "All"
+    }
+   },
+   "tags": [
+    "кроссовка"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758148800000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760654400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760049600000
+    }
+   ]
+  },
+  {
+   "id": "mod10",
+   "name": {
+    "kg": "Булгаары өтүк",
+    "ru": "Кожаные ботинки",
+    "en": "Leather boots"
+   },
+   "desc": {
+    "kg": "Табигый булгаарыдан жасалган кышкы өтүк, ичи жүн.",
+    "ru": "Зимние ботинки из натуральной кожи с мехом.",
+    "en": "Winter leather boots with fur lining."
+   },
+   "category": "shoes",
+   "price": 7900,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/boots,leather?lock=628",
+   "gallery": [
+    "https://loremflickr.com/800/600/boots,leather?lock=628",
+    "https://loremflickr.com/800/600/boots,leather?lock=629",
+    "https://loremflickr.com/800/600/boots,leather?lock=630"
+   ],
+   "specs": {
+    "size": "39 – 45",
+    "material": {
+     "kg": "Булгаары",
+     "ru": "Кожа",
+     "en": "Leather"
+    },
+    "color": {
+     "kg": "Күрөң",
+     "ru": "Коричневый",
+     "en": "Brown"
+    },
+    "country": {
+     "kg": "Түркия",
+     "ru": "Турция",
+     "en": "Turkey"
+    },
+    "season": {
+     "kg": "Кыш",
+     "ru": "Зима",
+     "en": "Winter"
+    }
+   },
+   "tags": [
+    "өтүк"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760654400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759099200000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1755816000000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "mod11",
+   "name": {
+    "kg": "Булгаары сумка",
+    "ru": "Кожаная сумка",
+    "en": "Leather handbag"
+   },
+   "desc": {
+    "kg": "Күнүмдүк колдонуу үчүн ыңгайлуу аялдар сумкасы.",
+    "ru": "Удобная женская сумка на каждый день.",
+    "en": "Everyday women's handbag."
+   },
+   "category": "acc",
+   "price": 3900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/handbag?lock=631",
+   "gallery": [
+    "https://loremflickr.com/800/600/handbag?lock=631",
+    "https://loremflickr.com/800/600/handbag?lock=632",
+    "https://loremflickr.com/800/600/handbag?lock=633"
+   ],
+   "specs": {
+    "size": "30×22 см",
+    "material": {
+     "kg": "Булгаары",
+     "ru": "Кожа",
+     "en": "Leather"
+    },
+    "color": {
+     "kg": "Кара",
+     "ru": "Чёрный",
+     "en": "Black"
+    },
+    "country": {
+     "kg": "Италия",
+     "ru": "Италия",
+     "en": "Italy"
+    },
+    "season": {
+     "kg": "Бардык",
+     "ru": "Всесезон",
+     "en": "All"
+    }
+   },
+   "tags": [
+    "сумка"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756680000000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758494400000
+    }
+   ]
+  },
+  {
+   "id": "mod12",
+   "name": {
+    "kg": "Ак калпак (сувенир)",
+    "ru": "Ак-калпак (сувенир)",
+    "en": "Ak-kalpak hat"
+   },
+   "desc": {
+    "kg": "Кийизден жасалган салттуу кыргыз калпагы. Белек үчүн эң сонун.",
+    "ru": "Традиционная войлочная шапка — отличный подарок.",
+    "en": "Traditional felt hat — a great gift."
+   },
+   "category": "acc",
+   "price": 2500,
+   "oldPrice": null,
+   "stock": 25,
+   "rating": 5.0,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/felt,hat?lock=634",
+   "gallery": [
+    "https://loremflickr.com/800/600/felt,hat?lock=634",
+    "https://loremflickr.com/800/600/felt,hat?lock=635",
+    "https://loremflickr.com/800/600/felt,hat?lock=636"
+   ],
+   "specs": {
+    "size": "56 – 60",
+    "material": {
+     "kg": "Кийиз",
+     "ru": "Войлок",
+     "en": "Felt"
+    },
+    "color": {
+     "kg": "Ак",
+     "ru": "Белый",
+     "en": "White"
+    },
+    "country": {
+     "kg": "Кыргызстан",
+     "ru": "Кыргызстан",
+     "en": "Kyrgyzstan"
+    },
+    "season": {
+     "kg": "Бардык",
+     "ru": "Всесезон",
+     "en": "All"
+    }
+   },
+   "tags": [
+    "калпак",
+    "улуттук"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759358400000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759185600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757889600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759617600000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,753 @@
+{
+ "site": "KinoTime",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "kin01",
+   "name": {
+    "kg": "Тоо бүркүтү",
+    "ru": "Горный орёл",
+    "en": "Mountain Eagle"
+   },
+   "desc": {
+    "kg": "Ала-Тоо тоолорунда куткаруучулар тобунун баатырдык окуясы. Чоң экранда таң калтырган трюктар жана көз жоосун алган пейзаждар.",
+    "ru": "Героическая история спасателей в горах Ала-Тоо. Захватывающие трюки и пейзажи.",
+    "en": "A heroic story of rescuers in the Ala-Too mountains. Stunning stunts and landscapes."
+   },
+   "category": "action",
+   "price": 450,
+   "oldPrice": 550,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/action,movie?lock=101",
+   "gallery": [
+    "https://loremflickr.com/800/600/action,movie?lock=101",
+    "https://loremflickr.com/800/600/action,movie?lock=102",
+    "https://loremflickr.com/800/600/action,movie?lock=103"
+   ],
+   "specs": {
+    "duration": "2 с 10 мүн",
+    "year": "2026",
+    "age": "12+",
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "director": "А. Осмонов",
+    "hall": "IMAX"
+   },
+   "tags": [
+    "экшн",
+    "премьера",
+    "imax"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1755816000000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760654400000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757630400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758235200000
+    }
+   ]
+  },
+  {
+   "id": "kin02",
+   "name": {
+    "kg": "Түнкү жарыш",
+    "ru": "Ночная гонка",
+    "en": "Night Race"
+   },
+   "desc": {
+    "kg": "Шаардын түнкү көчөлөрүндөгү ылдамдык жана достук тууралуу динамикалуу фильм. Ар бир мүнөтү адреналинге толгон.",
+    "ru": "Динамичный фильм о скорости и дружбе на ночных улицах.",
+    "en": "A dynamic film about speed and friendship on night streets."
+   },
+   "category": "action",
+   "price": 420,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/car,race?lock=104",
+   "gallery": [
+    "https://loremflickr.com/800/600/car,race?lock=104",
+    "https://loremflickr.com/800/600/car,race?lock=105",
+    "https://loremflickr.com/800/600/car,race?lock=106"
+   ],
+   "specs": {
+    "duration": "1 с 55 мүн",
+    "year": "2025",
+    "age": "16+",
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "director": "D. Miller",
+    "hall": "3"
+   },
+   "tags": [
+    "экшн",
+    "машина"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758494400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1759876800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758494400000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "kin03",
+   "name": {
+    "kg": "Тойдон кийин",
+    "ru": "После тоя",
+    "en": "After the Toi"
+   },
+   "desc": {
+    "kg": "Кыргыз тоюндагы күлкүлүү окуялар жана туугандардын кызыктуу мамилелери. Бүт үй-бүлө менен көрүүгө ылайыктуу.",
+    "ru": "Смешные истории на кыргызском тое и забавные отношения родственников.",
+    "en": "Funny stories at a Kyrgyz celebration and amusing relatives."
+   },
+   "category": "comedy",
+   "price": 380,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/family,funny?lock=107",
+   "gallery": [
+    "https://loremflickr.com/800/600/family,funny?lock=107",
+    "https://loremflickr.com/800/600/family,funny?lock=108",
+    "https://loremflickr.com/800/600/family,funny?lock=109"
+   ],
+   "specs": {
+    "duration": "1 с 40 мүн",
+    "year": "2026",
+    "age": "6+",
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "director": "Б. Жумабаев",
+    "hall": "2"
+   },
+   "tags": [
+    "комедия",
+    "үй-бүлө"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757457600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759790400000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1758408000000
+    }
+   ]
+  },
+  {
+   "id": "kin04",
+   "name": {
+    "kg": "Офистеги сюрприз",
+    "ru": "Сюрприз в офисе",
+    "en": "Office Surprise"
+   },
+   "desc": {
+    "kg": "Жумушта болгон күтүлбөгөн окуялар тууралуу жеңил комедия. Кечки эс алуу үчүн мыкты тандоо.",
+    "ru": "Лёгкая комедия о неожиданных событиях на работе.",
+    "en": "A light comedy about unexpected events at work."
+   },
+   "category": "comedy",
+   "price": 350,
+   "oldPrice": 420,
+   "stock": 10,
+   "rating": 4.2,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/office,laugh?lock=110",
+   "gallery": [
+    "https://loremflickr.com/800/600/office,laugh?lock=110",
+    "https://loremflickr.com/800/600/office,laugh?lock=111",
+    "https://loremflickr.com/800/600/office,laugh?lock=112"
+   ],
+   "specs": {
+    "duration": "1 с 35 мүн",
+    "year": "2025",
+    "age": "12+",
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "director": "К. Иванова",
+    "hall": "4"
+   },
+   "tags": [
+    "комедия"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757371200000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759099200000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1756593600000
+    }
+   ]
+  },
+  {
+   "id": "kin05",
+   "name": {
+    "kg": "Апамдын үйү",
+    "ru": "Мамин дом",
+    "en": "Mother's House"
+   },
+   "desc": {
+    "kg": "Шаардан айылга кайткан уулдун жүрөк козгогон окуясы. Үй-бүлө, мекен жана сагыныч тууралуу терең драма.",
+    "ru": "Трогательная история сына, вернувшегося из города в село.",
+    "en": "A touching story of a son returning from the city to his village."
+   },
+   "category": "drama",
+   "price": 400,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/mountain,village?lock=113",
+   "gallery": [
+    "https://loremflickr.com/800/600/mountain,village?lock=113",
+    "https://loremflickr.com/800/600/mountain,village?lock=114",
+    "https://loremflickr.com/800/600/mountain,village?lock=115"
+   ],
+   "specs": {
+    "duration": "2 с 05 мүн",
+    "year": "2025",
+    "age": "12+",
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "director": "Э. Абдыкалыков",
+    "hall": "1"
+   },
+   "tags": [
+    "драма",
+    "кыргыз кино"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760568000000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756161600000
+    }
+   ]
+  },
+  {
+   "id": "kin06",
+   "name": {
+    "kg": "Акыркы нота",
+    "ru": "Последняя нота",
+    "en": "The Last Note"
+   },
+   "desc": {
+    "kg": "Жаш скрипкачынын чоң сахнага жеткен жолу. Музыка жана эрк тууралуу шыктандыруучу фильм.",
+    "ru": "Путь юной скрипачки к большой сцене.",
+    "en": "A young violinist's path to the big stage."
+   },
+   "category": "drama",
+   "price": 420,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/violin,music?lock=116",
+   "gallery": [
+    "https://loremflickr.com/800/600/violin,music?lock=116",
+    "https://loremflickr.com/800/600/violin,music?lock=117",
+    "https://loremflickr.com/800/600/violin,music?lock=118"
+   ],
+   "specs": {
+    "duration": "2 с 15 мүн",
+    "year": "2024",
+    "age": "6+",
+    "lang": {
+     "kg": "Англисче (субтитр)",
+     "ru": "Английский (субтитры)",
+     "en": "English (subs)"
+    },
+    "director": "L. Rossi",
+    "hall": "VIP"
+   },
+   "tags": [
+    "драма",
+    "музыка"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760395200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758926400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759531200000
+    }
+   ]
+  },
+  {
+   "id": "kin07",
+   "name": {
+    "kg": "Кичинекей Манас",
+    "ru": "Маленький Манас",
+    "en": "Little Manas"
+   },
+   "desc": {
+    "kg": "Балдар үчүн эпостун мотивдериндеги түстүү мультфильм. Достук, эрдик жана мекенди сүйүү тууралуу.",
+    "ru": "Красочный мультфильм по мотивам эпоса для детей.",
+    "en": "A colorful cartoon inspired by the epic for kids."
+   },
+   "category": "animation",
+   "price": 320,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/cartoon,kids?lock=119",
+   "gallery": [
+    "https://loremflickr.com/800/600/cartoon,kids?lock=119",
+    "https://loremflickr.com/800/600/cartoon,kids?lock=120",
+    "https://loremflickr.com/800/600/cartoon,kids?lock=121"
+   ],
+   "specs": {
+    "duration": "1 с 25 мүн",
+    "year": "2026",
+    "age": "0+",
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "director": "Н. Асанова",
+    "hall": "2"
+   },
+   "tags": [
+    "мультфильм",
+    "балдар"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758580800000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760568000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757198400000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757803200000
+    }
+   ]
+  },
+  {
+   "id": "kin08",
+   "name": {
+    "kg": "Токойдун достору",
+    "ru": "Друзья леса",
+    "en": "Forest Friends"
+   },
+   "desc": {
+    "kg": "Токойдогу айбанаттардын көңүлдүү укмуштуу окуялары. Кичинекей көрүүчүлөр үчүн ырлар жана күлкү.",
+    "ru": "Весёлые приключения лесных зверей.",
+    "en": "Fun adventures of forest animals."
+   },
+   "category": "animation",
+   "price": 320,
+   "oldPrice": 380,
+   "stock": 10,
+   "rating": 4.4,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/animal,forest?lock=122",
+   "gallery": [
+    "https://loremflickr.com/800/600/animal,forest?lock=122",
+    "https://loremflickr.com/800/600/animal,forest?lock=123",
+    "https://loremflickr.com/800/600/animal,forest?lock=124"
+   ],
+   "specs": {
+    "duration": "1 с 30 мүн",
+    "year": "2025",
+    "age": "0+",
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "director": "P. Grant",
+    "hall": "5"
+   },
+   "tags": [
+    "мультфильм"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756248000000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1756161600000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758062400000
+    }
+   ]
+  },
+  {
+   "id": "kin09",
+   "name": {
+    "kg": "Жылдыздар жолу",
+    "ru": "Звёздный путь",
+    "en": "Star Path"
+   },
+   "desc": {
+    "kg": "Алыскы галактикага саякаттаган экипаждын окуясы. IMAX форматындагы эң сонун визуалдык эффекттер.",
+    "ru": "История экипажа в далёкой галактике. Потрясающие эффекты в IMAX.",
+    "en": "A crew's journey to a distant galaxy. Amazing IMAX visuals."
+   },
+   "category": "scifi",
+   "price": 550,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/space,galaxy?lock=125",
+   "gallery": [
+    "https://loremflickr.com/800/600/space,galaxy?lock=125",
+    "https://loremflickr.com/800/600/space,galaxy?lock=126",
+    "https://loremflickr.com/800/600/space,galaxy?lock=127"
+   ],
+   "specs": {
+    "duration": "2 с 40 мүн",
+    "year": "2026",
+    "age": "12+",
+    "lang": {
+     "kg": "Англисче (дубляж)",
+     "ru": "Английский (дубляж)",
+     "en": "English (dub)"
+    },
+    "director": "J. Nolan",
+    "hall": "IMAX"
+   },
+   "tags": [
+    "фантастика",
+    "космос",
+    "imax"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760568000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1756075200000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757198400000
+    }
+   ]
+  },
+  {
+   "id": "kin10",
+   "name": {
+    "kg": "Робот жана бала",
+    "ru": "Робот и мальчик",
+    "en": "Robot and Boy"
+   },
+   "desc": {
+    "kg": "Келечектеги Бишкекте робот менен баланын достугу. Технология жана адамгерчилик тууралуу.",
+    "ru": "Дружба робота и мальчика в Бишкеке будущего.",
+    "en": "Friendship of a robot and a boy in future Bishkek."
+   },
+   "category": "scifi",
+   "price": 480,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/robot,future?lock=128",
+   "gallery": [
+    "https://loremflickr.com/800/600/robot,future?lock=128",
+    "https://loremflickr.com/800/600/robot,future?lock=129",
+    "https://loremflickr.com/800/600/robot,future?lock=130"
+   ],
+   "specs": {
+    "duration": "1 с 50 мүн",
+    "year": "2025",
+    "age": "6+",
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "director": "Т. Мамытов",
+    "hall": "3"
+   },
+   "tags": [
+    "фантастика",
+    "робот"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756507200000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760222400000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756852800000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1756075200000
+    }
+   ]
+  },
+  {
+   "id": "kin11",
+   "name": {
+    "kg": "VIP сеанс: Түнкү шаар",
+    "ru": "VIP сеанс: Ночной город",
+    "en": "VIP: Night City"
+   },
+   "desc": {
+    "kg": "Детектив-экшн VIP залда: диван-креслолор, плед жана попкорн кошо берилет.",
+    "ru": "Детектив-экшн в VIP зале: кресла-диваны, плед и попкорн.",
+    "en": "Detective action in VIP hall: sofas, blanket and popcorn included."
+   },
+   "category": "action",
+   "price": 600,
+   "oldPrice": null,
+   "stock": 4,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/cinema,vip?lock=131",
+   "gallery": [
+    "https://loremflickr.com/800/600/cinema,vip?lock=131",
+    "https://loremflickr.com/800/600/cinema,vip?lock=132",
+    "https://loremflickr.com/800/600/cinema,vip?lock=133"
+   ],
+   "specs": {
+    "duration": "2 с 00 мүн",
+    "year": "2026",
+    "age": "18+",
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "director": "S. Park",
+    "hall": "VIP"
+   },
+   "tags": [
+    "vip",
+    "детектив"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756075200000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1758840000000
+    }
+   ]
+  },
+  {
+   "id": "kin12",
+   "name": {
+    "kg": "Попкорн комбо + кино",
+    "ru": "Попкорн комбо + кино",
+    "en": "Popcorn combo + movie"
+   },
+   "desc": {
+    "kg": "Каалаган фильмге билет, чоң попкорн жана суусундук. Достор менен эс алуу үчүн үнөмдүү пакет.",
+    "ru": "Билет на любой фильм, большой попкорн и напиток.",
+    "en": "Ticket for any movie, large popcorn and a drink."
+   },
+   "category": "comedy",
+   "price": 300,
+   "oldPrice": 450,
+   "stock": 0,
+   "rating": 4.3,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/popcorn?lock=134",
+   "gallery": [
+    "https://loremflickr.com/800/600/popcorn?lock=134",
+    "https://loremflickr.com/800/600/popcorn?lock=135",
+    "https://loremflickr.com/800/600/popcorn?lock=136"
+   ],
+   "specs": {
+    "duration": "—",
+    "year": "2026",
+    "age": "0+",
+    "lang": "—",
+    "director": "—",
+    "hall": "1-5"
+   },
+   "tags": [
+    "комбо",
+    "акция"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757889600000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760654400000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,783 @@
+{
+ "site": "Ticket.kg",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "tic01",
+   "name": {
+    "kg": "Гүлжигит Сатыбеков: жеке концерт",
+    "ru": "Гулжигит Сатыбеков: сольный концерт",
+    "en": "Guljigit Satybekov live"
+   },
+   "desc": {
+    "kg": "Белгилүү ырчынын жаңы программасы. Эң сүйүктүү ырлар жана жаңы хиттер.",
+    "ru": "Новая программа известного певца.",
+    "en": "New show by the popular singer."
+   },
+   "category": "concert",
+   "price": 3500,
+   "oldPrice": 4000,
+   "stock": 120,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/concert,singer?lock=1501",
+   "gallery": [
+    "https://loremflickr.com/800/600/concert,singer?lock=1501",
+    "https://loremflickr.com/800/600/concert,singer?lock=1502",
+    "https://loremflickr.com/800/600/concert,singer?lock=1503"
+   ],
+   "specs": {
+    "date": "15.11.2026",
+    "venue": {
+     "kg": "Филармония",
+     "ru": "Филармония",
+     "en": "Philharmonic"
+    },
+    "start": "19:00",
+    "age": "6+",
+    "zone": {
+     "kg": "Партер",
+     "ru": "Партер",
+     "en": "Stalls"
+    }
+   },
+   "tags": [
+    "концерт",
+    "кыргыз эстрада"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758062400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757544000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757371200000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1758580800000
+    }
+   ]
+  },
+  {
+   "id": "tic02",
+   "name": {
+    "kg": "Jazz Night Bishkek",
+    "ru": "Jazz Night Bishkek",
+    "en": "Jazz Night Bishkek"
+   },
+   "desc": {
+    "kg": "Жергиликтүү жана Казакстандык джаз топторунун кечеси.",
+    "ru": "Вечер джаза местных и казахстанских групп.",
+    "en": "An evening of local and Kazakh jazz bands."
+   },
+   "category": "concert",
+   "price": 2500,
+   "oldPrice": null,
+   "stock": 80,
+   "rating": 4.7,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/jazz,band?lock=1504",
+   "gallery": [
+    "https://loremflickr.com/800/600/jazz,band?lock=1504",
+    "https://loremflickr.com/800/600/jazz,band?lock=1505",
+    "https://loremflickr.com/800/600/jazz,band?lock=1506"
+   ],
+   "specs": {
+    "date": "22.11.2026",
+    "venue": "Steppe Hall",
+    "start": "20:00",
+    "age": "16+",
+    "zone": {
+     "kg": "Столдор",
+     "ru": "Столики",
+     "en": "Tables"
+    }
+   },
+   "tags": [
+    "джаз"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758926400000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1755902400000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760395200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759704000000
+    }
+   ]
+  },
+  {
+   "id": "tic03",
+   "name": {
+    "kg": "Рок фестиваль «Тоо үнү»",
+    "ru": "Рок-фестиваль «Голос гор»",
+    "en": "Rock fest \"Voice of Mountains\""
+   },
+   "desc": {
+    "kg": "Стадиондогу чоң рок кече: 8 топ, жарык шоу.",
+    "ru": "Большой рок-концерт на стадионе: 8 групп.",
+    "en": "Big stadium rock show: 8 bands."
+   },
+   "category": "concert",
+   "price": 6000,
+   "oldPrice": null,
+   "stock": 300,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/stadium,concert?lock=1507",
+   "gallery": [
+    "https://loremflickr.com/800/600/stadium,concert?lock=1507",
+    "https://loremflickr.com/800/600/stadium,concert?lock=1508",
+    "https://loremflickr.com/800/600/stadium,concert?lock=1509"
+   ],
+   "specs": {
+    "date": "05.12.2026",
+    "venue": {
+     "kg": "Спартак стадиону",
+     "ru": "Стадион Спартак",
+     "en": "Spartak stadium"
+    },
+    "start": "18:00",
+    "age": "12+",
+    "zone": {
+     "kg": "Фан-зона",
+     "ru": "Фан-зона",
+     "en": "Fan zone"
+    }
+   },
+   "tags": [
+    "рок"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758235200000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756939200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1756420800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757716800000
+    }
+   ]
+  },
+  {
+   "id": "tic04",
+   "name": {
+    "kg": "«Аккуу көлү» балети",
+    "ru": "Балет «Лебединое озеро»",
+    "en": "Swan Lake ballet"
+   },
+   "desc": {
+    "kg": "Чайковскийдин классикалык балети Опера жана балет театрында.",
+    "ru": "Классический балет Чайковского.",
+    "en": "Tchaikovsky's classic ballet."
+   },
+   "category": "theatre",
+   "price": 1500,
+   "oldPrice": null,
+   "stock": 60,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/ballet,dance?lock=1510",
+   "gallery": [
+    "https://loremflickr.com/800/600/ballet,dance?lock=1510",
+    "https://loremflickr.com/800/600/ballet,dance?lock=1511",
+    "https://loremflickr.com/800/600/ballet,dance?lock=1512"
+   ],
+   "specs": {
+    "date": "20.11.2026",
+    "venue": {
+     "kg": "Опера жана балет театры",
+     "ru": "Театр оперы и балета",
+     "en": "Opera & Ballet Theatre"
+    },
+    "start": "18:00",
+    "age": "6+",
+    "zone": {
+     "kg": "Бельэтаж",
+     "ru": "Бельэтаж",
+     "en": "Dress circle"
+    }
+   },
+   "tags": [
+    "балет"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760568000000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758408000000
+    }
+   ]
+  },
+  {
+   "id": "tic05",
+   "name": {
+    "kg": "«Кыямат» спектакли",
+    "ru": "Спектакль «Плаха»",
+    "en": "\"The Scaffold\" play"
+   },
+   "desc": {
+    "kg": "Айтматовдун романы боюнча драмалык спектакль.",
+    "ru": "Драма по роману Айтматова.",
+    "en": "Drama based on Aitmatov's novel."
+   },
+   "category": "theatre",
+   "price": 1000,
+   "oldPrice": null,
+   "stock": 50,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/theatre,drama?lock=1513",
+   "gallery": [
+    "https://loremflickr.com/800/600/theatre,drama?lock=1513",
+    "https://loremflickr.com/800/600/theatre,drama?lock=1514",
+    "https://loremflickr.com/800/600/theatre,drama?lock=1515"
+   ],
+   "specs": {
+    "date": "28.11.2026",
+    "venue": {
+     "kg": "Улуттук драма театры",
+     "ru": "Национальный драмтеатр",
+     "en": "National Drama Theatre"
+    },
+    "start": "17:00",
+    "age": "14+",
+    "zone": {
+     "kg": "Партер",
+     "ru": "Партер",
+     "en": "Stalls"
+    }
+   },
+   "tags": [
+    "драма",
+    "айтматов"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759790400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1755816000000
+    }
+   ]
+  },
+  {
+   "id": "tic06",
+   "name": {
+    "kg": "Stand-up кечеси",
+    "ru": "Стендап-вечер",
+    "en": "Stand-up night"
+   },
+   "desc": {
+    "kg": "Жаш комиктердин күлкүлүү чыгуулары.",
+    "ru": "Выступления молодых комиков.",
+    "en": "Young comedians on stage."
+   },
+   "category": "theatre",
+   "price": 800,
+   "oldPrice": 1000,
+   "stock": 70,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/comedy,stage?lock=1516",
+   "gallery": [
+    "https://loremflickr.com/800/600/comedy,stage?lock=1516",
+    "https://loremflickr.com/800/600/comedy,stage?lock=1517",
+    "https://loremflickr.com/800/600/comedy,stage?lock=1518"
+   ],
+   "specs": {
+    "date": "14.11.2026",
+    "venue": "Ololo Haus",
+    "start": "20:00",
+    "age": "18+",
+    "zone": {
+     "kg": "Жалпы",
+     "ru": "Общая",
+     "en": "General"
+    }
+   },
+   "tags": [
+    "стендап"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760654400000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758148800000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760654400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760481600000
+    }
+   ]
+  },
+  {
+   "id": "tic07",
+   "name": {
+    "kg": "Футбол: Кыргызстан — Иран",
+    "ru": "Футбол: Кыргызстан — Иран",
+    "en": "Football: Kyrgyzstan vs Iran"
+   },
+   "desc": {
+    "kg": "Улуттук курама команданын тандоо оюну. Колдоп барыңыз!",
+    "ru": "Отборочный матч сборной. Поддержите!",
+    "en": "National team qualifier. Come support!"
+   },
+   "category": "sport",
+   "price": 1200,
+   "oldPrice": null,
+   "stock": 500,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/football,stadium?lock=1519",
+   "gallery": [
+    "https://loremflickr.com/800/600/football,stadium?lock=1519",
+    "https://loremflickr.com/800/600/football,stadium?lock=1520",
+    "https://loremflickr.com/800/600/football,stadium?lock=1521"
+   ],
+   "specs": {
+    "date": "18.11.2026",
+    "venue": {
+     "kg": "Дөлөн Өмүрзаков стадиону",
+     "ru": "Стадион им. Омурзакова",
+     "en": "Omurzakov stadium"
+    },
+    "start": "19:00",
+    "age": "0+",
+    "zone": {
+     "kg": "Батыш трибуна",
+     "ru": "Западная трибуна",
+     "en": "West stand"
+    }
+   },
+   "tags": [
+    "футбол"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756680000000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757976000000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757630400000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759444800000
+    }
+   ]
+  },
+  {
+   "id": "tic08",
+   "name": {
+    "kg": "MMA турнири «Кыргыз Баатыр»",
+    "ru": "Турнир MMA «Кыргыз Баатыр»",
+    "en": "MMA \"Kyrgyz Baatyr\""
+   },
+   "desc": {
+    "kg": "Мыкты кыргыз жана чет элдик мушкерлердин беттешүүлөрү.",
+    "ru": "Бои лучших кыргызских и зарубежных бойцов.",
+    "en": "Top Kyrgyz and foreign fighters."
+   },
+   "category": "sport",
+   "price": 2000,
+   "oldPrice": null,
+   "stock": 150,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/wrestling,fight?lock=1522",
+   "gallery": [
+    "https://loremflickr.com/800/600/wrestling,fight?lock=1522",
+    "https://loremflickr.com/800/600/wrestling,fight?lock=1523",
+    "https://loremflickr.com/800/600/wrestling,fight?lock=1524"
+   ],
+   "specs": {
+    "date": "30.11.2026",
+    "venue": {
+     "kg": "Кожомкул спорт сарайы",
+     "ru": "Дворец спорта Кожомкула",
+     "en": "Kojomkul Sports Palace"
+    },
+    "start": "18:00",
+    "age": "16+",
+    "zone": {
+     "kg": "VIP",
+     "ru": "VIP",
+     "en": "VIP"
+    }
+   },
+   "tags": [
+    "mma"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757889600000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759531200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760481600000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "tic09",
+   "name": {
+    "kg": "Цирк шоусу",
+    "ru": "Цирковое шоу",
+    "en": "Circus show"
+   },
+   "desc": {
+    "kg": "Акробаттар, клоундар жана сыйкырчылар. Бүт үй-бүлө үчүн.",
+    "ru": "Акробаты, клоуны и фокусники.",
+    "en": "Acrobats, clowns and magicians."
+   },
+   "category": "kids",
+   "price": 600,
+   "oldPrice": null,
+   "stock": 200,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/circus?lock=1525",
+   "gallery": [
+    "https://loremflickr.com/800/600/circus?lock=1525",
+    "https://loremflickr.com/800/600/circus?lock=1526",
+    "https://loremflickr.com/800/600/circus?lock=1527"
+   ],
+   "specs": {
+    "date": "23.11.2026",
+    "venue": {
+     "kg": "Мамлекеттик цирк",
+     "ru": "Госцирк",
+     "en": "State Circus"
+    },
+    "start": "12:00",
+    "age": "0+",
+    "zone": {
+     "kg": "Жалпы",
+     "ru": "Общая",
+     "en": "General"
+    }
+   },
+   "tags": [
+    "цирк",
+    "балдар"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756075200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758667200000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756334400000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757544000000
+    }
+   ]
+  },
+  {
+   "id": "tic10",
+   "name": {
+    "kg": "Куурчак театры: «Жоомарт»",
+    "ru": "Кукольный театр: «Жоомарт»",
+    "en": "Puppet show \"Joomart\""
+   },
+   "desc": {
+    "kg": "Кыргыз жомогу боюнча куурчак спектакли.",
+    "ru": "Кукольный спектакль по кыргызской сказке.",
+    "en": "Puppet show based on a Kyrgyz tale."
+   },
+   "category": "kids",
+   "price": 500,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/puppet,theatre?lock=1528",
+   "gallery": [
+    "https://loremflickr.com/800/600/puppet,theatre?lock=1528",
+    "https://loremflickr.com/800/600/puppet,theatre?lock=1529",
+    "https://loremflickr.com/800/600/puppet,theatre?lock=1530"
+   ],
+   "specs": {
+    "date": "16.11.2026",
+    "venue": {
+     "kg": "Куурчак театры",
+     "ru": "Театр кукол",
+     "en": "Puppet Theatre"
+    },
+    "start": "11:00",
+    "age": "3+",
+    "zone": {
+     "kg": "Жалпы",
+     "ru": "Общая",
+     "en": "General"
+    }
+   },
+   "tags": [
+    "куурчак"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1760913600000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757112000000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759704000000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1758494400000
+    }
+   ]
+  },
+  {
+   "id": "tic11",
+   "name": {
+    "kg": "Этно-фестиваль «Көчмөндөр»",
+    "ru": "Этнофестиваль «Кочевники»",
+    "en": "Nomad ethno festival"
+   },
+   "desc": {
+    "kg": "Көк-бөрү, боз үйлөр, улуттук тамак жана музыка Ысык-Көлдө.",
+    "ru": "Кок-бору, юрты, нацкухня и музыка на Иссык-Куле.",
+    "en": "Kok-boru, yurts, food and music at Issyk-Kul."
+   },
+   "category": "festival",
+   "price": 4500,
+   "oldPrice": 5500,
+   "stock": 400,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/festival,nomad?lock=1531",
+   "gallery": [
+    "https://loremflickr.com/800/600/festival,nomad?lock=1531",
+    "https://loremflickr.com/800/600/festival,nomad?lock=1532",
+    "https://loremflickr.com/800/600/festival,nomad?lock=1533"
+   ],
+   "specs": {
+    "date": "12.07.2027",
+    "venue": {
+     "kg": "Кырчын жайлоосу",
+     "ru": "Ущелье Кырчын",
+     "en": "Kyrchyn valley"
+    },
+    "start": "10:00",
+    "age": "0+",
+    "zone": {
+     "kg": "2 күндүк",
+     "ru": "2 дня",
+     "en": "2-day pass"
+    }
+   },
+   "tags": [
+    "этно",
+    "фестиваль"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759790400000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1758840000000
+    }
+   ]
+  },
+  {
+   "id": "tic12",
+   "name": {
+    "kg": "Food Fest Bishkek",
+    "ru": "Food Fest Bishkek",
+    "en": "Food Fest Bishkek"
+   },
+   "desc": {
+    "kg": "50+ ресторандын даамдары, мастер-класстар жана жандуу музыка.",
+    "ru": "Блюда 50+ ресторанов и живая музыка.",
+    "en": "Food from 50+ restaurants and live music."
+   },
+   "category": "festival",
+   "price": 3000,
+   "oldPrice": null,
+   "stock": 250,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/food,festival?lock=1534",
+   "gallery": [
+    "https://loremflickr.com/800/600/food,festival?lock=1534",
+    "https://loremflickr.com/800/600/food,festival?lock=1535",
+    "https://loremflickr.com/800/600/food,festival?lock=1536"
+   ],
+   "specs": {
+    "date": "06.12.2026",
+    "venue": {
+     "kg": "Ата-Түрк паркы",
+     "ru": "Парк Ататюрк",
+     "en": "Ataturk Park"
+    },
+    "start": "12:00",
+    "age": "0+",
+    "zone": {
+     "kg": "Жалпы",
+     "ru": "Общая",
+     "en": "General"
+    }
+   },
+   "tags": [
+    "тамак"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1756507200000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760481600000
+    }
+   ]
+  }
+ ]
+}

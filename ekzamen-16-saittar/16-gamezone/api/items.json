@@ -1,0 +1,739 @@
+{
+ "site": "GameZone",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "gam01",
+   "name": {
+    "kg": "PlayStation 5 Slim",
+    "ru": "PlayStation 5 Slim",
+    "en": "PlayStation 5 Slim"
+   },
+   "desc": {
+    "kg": "Жаңы ичке PS5, 1 ТБ SSD жана DualSense джойстиги.",
+    "ru": "Новая тонкая PS5 с SSD 1 ТБ.",
+    "en": "New slim PS5 with 1 TB SSD."
+   },
+   "category": "consoles",
+   "price": 62900,
+   "oldPrice": 69900,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/playstation,console?lock=1601",
+   "gallery": [
+    "https://loremflickr.com/800/600/playstation,console?lock=1601",
+    "https://loremflickr.com/800/600/playstation,console?lock=1602",
+    "https://loremflickr.com/800/600/playstation,console?lock=1603"
+   ],
+   "specs": {
+    "platform": "PS5",
+    "genre": "—",
+    "age": "—",
+    "storage": "1 TB",
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    }
+   },
+   "tags": [
+    "ps5",
+    "sony"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759358400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760049600000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759185600000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757112000000
+    }
+   ]
+  },
+  {
+   "id": "gam02",
+   "name": {
+    "kg": "Xbox Series X",
+    "ru": "Xbox Series X",
+    "en": "Xbox Series X"
+   },
+   "desc": {
+    "kg": "4K оюндар 120 FPS чейин, Game Pass менен.",
+    "ru": "4K до 120 FPS, с Game Pass.",
+    "en": "4K up to 120 FPS, Game Pass ready."
+   },
+   "category": "consoles",
+   "price": 54900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/xbox,controller?lock=1604",
+   "gallery": [
+    "https://loremflickr.com/800/600/xbox,controller?lock=1604",
+    "https://loremflickr.com/800/600/xbox,controller?lock=1605",
+    "https://loremflickr.com/800/600/xbox,controller?lock=1606"
+   ],
+   "specs": {
+    "platform": "Xbox",
+    "genre": "—",
+    "age": "—",
+    "storage": "1 TB",
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    }
+   },
+   "tags": [
+    "xbox"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759876800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1758840000000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760049600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757976000000
+    }
+   ]
+  },
+  {
+   "id": "gam03",
+   "name": {
+    "kg": "Nintendo Switch OLED",
+    "ru": "Nintendo Switch OLED",
+    "en": "Nintendo Switch OLED"
+   },
+   "desc": {
+    "kg": "Колго алып жүрүүчү консол, 7\" OLED экран.",
+    "ru": "Портативная консоль с OLED 7\".",
+    "en": "Portable console with 7\" OLED."
+   },
+   "category": "consoles",
+   "price": 33900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/nintendo,switch?lock=1607",
+   "gallery": [
+    "https://loremflickr.com/800/600/nintendo,switch?lock=1607",
+    "https://loremflickr.com/800/600/nintendo,switch?lock=1608",
+    "https://loremflickr.com/800/600/nintendo,switch?lock=1609"
+   ],
+   "specs": {
+    "platform": "Switch",
+    "genre": "—",
+    "age": "—",
+    "storage": "64 GB",
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    }
+   },
+   "tags": [
+    "nintendo"
+   ],
+   "reviews": [
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757716800000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760395200000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1758667200000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759444800000
+    }
+   ]
+  },
+  {
+   "id": "gam04",
+   "name": {
+    "kg": "EA Sports FC 26",
+    "ru": "EA Sports FC 26",
+    "en": "EA Sports FC 26"
+   },
+   "desc": {
+    "kg": "Эң популярдуу футбол симулятору. Достор менен ойноңуз!",
+    "ru": "Самый популярный футбольный симулятор.",
+    "en": "The most popular football game."
+   },
+   "category": "games",
+   "price": 5900,
+   "oldPrice": null,
+   "stock": 30,
+   "rating": 4.5,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/football,game?lock=1610",
+   "gallery": [
+    "https://loremflickr.com/800/600/football,game?lock=1610",
+    "https://loremflickr.com/800/600/football,game?lock=1611",
+    "https://loremflickr.com/800/600/football,game?lock=1612"
+   ],
+   "specs": {
+    "platform": "PS5 / Xbox",
+    "genre": {
+     "kg": "Спорт",
+     "ru": "Спорт",
+     "en": "Sports"
+    },
+    "age": "3+",
+    "storage": "—",
+    "warranty": "—"
+   },
+   "tags": [
+    "футбол"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759272000000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1760740800000
+    }
+   ]
+  },
+  {
+   "id": "gam05",
+   "name": {
+    "kg": "Ghost of Yōtei",
+    "ru": "Ghost of Yōtei",
+    "en": "Ghost of Yōtei"
+   },
+   "desc": {
+    "kg": "Самурайлар доорундагы ачык дүйнө укмуштуу окуясы.",
+    "ru": "Приключение в открытом мире эпохи самураев.",
+    "en": "Open-world samurai adventure."
+   },
+   "category": "games",
+   "price": 6900,
+   "oldPrice": null,
+   "stock": 15,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/adventure,game?lock=1613",
+   "gallery": [
+    "https://loremflickr.com/800/600/adventure,game?lock=1613",
+    "https://loremflickr.com/800/600/adventure,game?lock=1614",
+    "https://loremflickr.com/800/600/adventure,game?lock=1615"
+   ],
+   "specs": {
+    "platform": "PS5",
+    "genre": {
+     "kg": "Укмуштуу окуя",
+     "ru": "Приключения",
+     "en": "Adventure"
+    },
+    "age": "18+",
+    "storage": "—",
+    "warranty": "—"
+   },
+   "tags": [
+    "ps5"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757457600000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "gam06",
+   "name": {
+    "kg": "Gran Turismo 7",
+    "ru": "Gran Turismo 7",
+    "en": "Gran Turismo 7"
+   },
+   "desc": {
+    "kg": "Реалисттик жарыш симулятору, 400дөн ашык машина.",
+    "ru": "Реалистичный гоночный симулятор, 400+ машин.",
+    "en": "Realistic racing sim, 400+ cars."
+   },
+   "category": "games",
+   "price": 4500,
+   "oldPrice": 5500,
+   "stock": 20,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/racing,game?lock=1616",
+   "gallery": [
+    "https://loremflickr.com/800/600/racing,game?lock=1616",
+    "https://loremflickr.com/800/600/racing,game?lock=1617",
+    "https://loremflickr.com/800/600/racing,game?lock=1618"
+   ],
+   "specs": {
+    "platform": "PS5",
+    "genre": {
+     "kg": "Жарыш",
+     "ru": "Гонки",
+     "en": "Racing"
+    },
+    "age": "3+",
+    "storage": "—",
+    "warranty": "—"
+   },
+   "tags": [
+    "жарыш"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760481600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758580800000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757976000000
+    }
+   ]
+  },
+  {
+   "id": "gam07",
+   "name": {
+    "kg": "Механикалык клавиатура RGB",
+    "ru": "Механическая клавиатура RGB",
+    "en": "Mechanical RGB keyboard"
+   },
+   "desc": {
+    "kg": "Hot-swap которгучтар жана RGB жарыгы.",
+    "ru": "Hot-swap свитчи и RGB подсветка.",
+    "en": "Hot-swap switches with RGB."
+   },
+   "category": "pc",
+   "price": 7900,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/gaming,keyboard?lock=1619",
+   "gallery": [
+    "https://loremflickr.com/800/600/gaming,keyboard?lock=1619",
+    "https://loremflickr.com/800/600/gaming,keyboard?lock=1620",
+    "https://loremflickr.com/800/600/gaming,keyboard?lock=1621"
+   ],
+   "specs": {
+    "platform": "PC",
+    "genre": "—",
+    "age": "—",
+    "storage": "—",
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    }
+   },
+   "tags": [
+    "клавиатура"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756852800000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756852800000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756161600000
+    }
+   ]
+  },
+  {
+   "id": "gam08",
+   "name": {
+    "kg": "Оюн чычканы 26K DPI",
+    "ru": "Игровая мышь 26K DPI",
+    "en": "Gaming mouse 26K DPI"
+   },
+   "desc": {
+    "kg": "Жеңил (60 г) зымсыз чычкан, эспорт үчүн.",
+    "ru": "Лёгкая (60 г) беспроводная мышь.",
+    "en": "Light 60 g wireless mouse."
+   },
+   "category": "pc",
+   "price": 4900,
+   "oldPrice": null,
+   "stock": 25,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/gaming,mouse?lock=1622",
+   "gallery": [
+    "https://loremflickr.com/800/600/gaming,mouse?lock=1622",
+    "https://loremflickr.com/800/600/gaming,mouse?lock=1623",
+    "https://loremflickr.com/800/600/gaming,mouse?lock=1624"
+   ],
+   "specs": {
+    "platform": "PC",
+    "genre": "—",
+    "age": "—",
+    "storage": "—",
+    "warranty": {
+     "kg": "2 жыл",
+     "ru": "2 года",
+     "en": "2 years"
+    }
+   },
+   "tags": [
+    "чычкан"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1755988800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756939200000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1758926400000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "gam09",
+   "name": {
+    "kg": "7.1 оюн кулакчыны",
+    "ru": "Игровая гарнитура 7.1",
+    "en": "7.1 gaming headset"
+   },
+   "desc": {
+    "kg": "Мейкиндик үнү жана ызы-чууну басуучу микрофон.",
+    "ru": "Объёмный звук и шумоподавляющий микрофон.",
+    "en": "Surround sound and noise-cancelling mic."
+   },
+   "category": "pc",
+   "price": 9900,
+   "oldPrice": 11900,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/gaming,headset?lock=1625",
+   "gallery": [
+    "https://loremflickr.com/800/600/gaming,headset?lock=1625",
+    "https://loremflickr.com/800/600/gaming,headset?lock=1626",
+    "https://loremflickr.com/800/600/gaming,headset?lock=1627"
+   ],
+   "specs": {
+    "platform": "PC / PS5",
+    "genre": "—",
+    "age": "—",
+    "storage": "—",
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    }
+   },
+   "tags": [
+    "кулакчын"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758062400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1755902400000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756852800000
+    }
+   ]
+  },
+  {
+   "id": "gam10",
+   "name": {
+    "kg": "Киберклуб: 1 саат (Стандарт)",
+    "ru": "Киберклуб: 1 час (Стандарт)",
+    "en": "Club: 1 hour (Standard)"
+   },
+   "desc": {
+    "kg": "RTX 4060 компьютери, 165 Гц монитор.",
+    "ru": "ПК с RTX 4060 и монитор 165 Гц.",
+    "en": "RTX 4060 PC with 165Hz monitor."
+   },
+   "category": "club",
+   "price": 150,
+   "oldPrice": null,
+   "stock": 40,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/esports,arena?lock=1628",
+   "gallery": [
+    "https://loremflickr.com/800/600/esports,arena?lock=1628",
+    "https://loremflickr.com/800/600/esports,arena?lock=1629",
+    "https://loremflickr.com/800/600/esports,arena?lock=1630"
+   ],
+   "specs": {
+    "platform": "PC",
+    "genre": "—",
+    "age": "12+",
+    "storage": "—",
+    "warranty": "—"
+   },
+   "tags": [
+    "клуб"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756593600000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760481600000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760481600000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758926400000
+    }
+   ]
+  },
+  {
+   "id": "gam11",
+   "name": {
+    "kg": "Киберклуб: 1 саат (VIP / PS5)",
+    "ru": "Киберклуб: 1 час (VIP / PS5)",
+    "en": "Club: 1 hour (VIP / PS5)"
+   },
+   "desc": {
+    "kg": "Жеке бөлмө, PS5, 65\" телевизор жана диван.",
+    "ru": "Отдельная комната, PS5, ТВ 65\" и диван.",
+    "en": "Private room, PS5, 65\" TV and sofa."
+   },
+   "category": "club",
+   "price": 400,
+   "oldPrice": null,
+   "stock": 6,
+   "rating": 4.9,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/vip,gaming?lock=1631",
+   "gallery": [
+    "https://loremflickr.com/800/600/vip,gaming?lock=1631",
+    "https://loremflickr.com/800/600/vip,gaming?lock=1632",
+    "https://loremflickr.com/800/600/vip,gaming?lock=1633"
+   ],
+   "specs": {
+    "platform": "PS5",
+    "genre": "—",
+    "age": "6+",
+    "storage": "—",
+    "warranty": "—"
+   },
+   "tags": [
+    "vip",
+    "ps5"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759099200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1758148800000
+    }
+   ]
+  },
+  {
+   "id": "gam12",
+   "name": {
+    "kg": "Meta Quest 3 512GB",
+    "ru": "Meta Quest 3 512GB",
+    "en": "Meta Quest 3 512GB"
+   },
+   "desc": {
+    "kg": "Аралаш реалдуулук шлеми, компьютерсиз иштейт.",
+    "ru": "Шлем смешанной реальности без ПК.",
+    "en": "Standalone mixed reality headset."
+   },
+   "category": "vr",
+   "price": 59900,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/virtual,reality?lock=1634",
+   "gallery": [
+    "https://loremflickr.com/800/600/virtual,reality?lock=1634",
+    "https://loremflickr.com/800/600/virtual,reality?lock=1635",
+    "https://loremflickr.com/800/600/virtual,reality?lock=1636"
+   ],
+   "specs": {
+    "platform": "VR",
+    "genre": "—",
+    "age": "13+",
+    "storage": "512 GB",
+    "warranty": {
+     "kg": "1 жыл",
+     "ru": "1 год",
+     "en": "1 year"
+    }
+   },
+   "tags": [
+    "vr"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759185600000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1758148800000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759444800000
+    }
+   ]
+  }
+ ]
+}

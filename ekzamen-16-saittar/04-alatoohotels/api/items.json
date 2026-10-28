@@ -1,0 +1,878 @@
+{
+ "site": "Ala-Too Hotels",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "ala01",
+   "name": {
+    "kg": "Raduga Resort, Чолпон-Ата",
+    "ru": "Raduga Resort, Чолпон-Ата",
+    "en": "Raduga Resort, Cholpon-Ata"
+   },
+   "desc": {
+    "kg": "Көлдүн жээгиндеги 4 жылдыздуу курорт: жеке пляж, ысытылган бассейн жана SPA. Үй-бүлө менен эс алууга идеалдуу.",
+    "ru": "4* курорт на берегу: свой пляж, бассейн и SPA.",
+    "en": "4* lakeside resort: private beach, pool and SPA."
+   },
+   "category": "issykkul",
+   "price": 6500,
+   "oldPrice": 7800,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/resort,pool?lock=401",
+   "gallery": [
+    "https://loremflickr.com/800/600/resort,pool?lock=401",
+    "https://loremflickr.com/800/600/resort,pool?lock=402",
+    "https://loremflickr.com/800/600/resort,pool?lock=403"
+   ],
+   "specs": {
+    "stars": "★★★★",
+    "rooms": {
+     "kg": "Стандарт / Люкс",
+     "ru": "Стандарт / Люкс",
+     "en": "Standard / Suite"
+    },
+    "guests": 3,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    },
+    "pool": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    }
+   },
+   "tags": [
+    "пляж",
+    "spa"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758062400000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1757630400000
+    }
+   ]
+  },
+  {
+   "id": "ala02",
+   "name": {
+    "kg": "Аврора пансионаты",
+    "ru": "Пансионат Аврора",
+    "en": "Avrora resort"
+   },
+   "desc": {
+    "kg": "Ысык-Көлдүн түндүк жээгиндеги белгилүү пансионат. Чоң аймак, бак жана балдар аянтчасы.",
+    "ru": "Известный пансионат с большим парком и детской площадкой.",
+    "en": "Famous resort with a large park and playground."
+   },
+   "category": "issykkul",
+   "price": 4200,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.5,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/beach,hotel?lock=404",
+   "gallery": [
+    "https://loremflickr.com/800/600/beach,hotel?lock=404",
+    "https://loremflickr.com/800/600/beach,hotel?lock=405",
+    "https://loremflickr.com/800/600/beach,hotel?lock=406"
+   ],
+   "specs": {
+    "stars": "★★★",
+    "rooms": {
+     "kg": "Стандарт",
+     "ru": "Стандарт",
+     "en": "Standard"
+    },
+    "guests": 2,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "үй-бүлө"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1758753600000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1756075200000
+    }
+   ]
+  },
+  {
+   "id": "ala03",
+   "name": {
+    "kg": "Боз үй лагери, Тамга",
+    "ru": "Юрточный лагерь, Тамга",
+    "en": "Yurt camp, Tamga"
+   },
+   "desc": {
+    "kg": "Түштүк жээктеги боз үйлөрдө түнөө, улуттук тамактар жана ат минүү.",
+    "ru": "Ночёвка в юртах, национальная кухня и конные прогулки.",
+    "en": "Stay in yurts, national food and horse riding."
+   },
+   "category": "issykkul",
+   "price": 3200,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/yurt,camp?lock=407",
+   "gallery": [
+    "https://loremflickr.com/800/600/yurt,camp?lock=407",
+    "https://loremflickr.com/800/600/yurt,camp?lock=408",
+    "https://loremflickr.com/800/600/yurt,camp?lock=409"
+   ],
+   "specs": {
+    "stars": "—",
+    "rooms": {
+     "kg": "Боз үй",
+     "ru": "Юрта",
+     "en": "Yurt"
+    },
+    "guests": 4,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "боз үй",
+    "этно"
+   ],
+   "reviews": [
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1757976000000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757284800000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760136000000
+    }
+   ]
+  },
+  {
+   "id": "ala04",
+   "name": {
+    "kg": "Grand Bishkek Hotel",
+    "ru": "Grand Bishkek Hotel",
+    "en": "Grand Bishkek Hotel"
+   },
+   "desc": {
+    "kg": "Шаардын борборундагы 5 жылдыздуу отель. Панорамалык ресторан, фитнес жана конференц-зал.",
+    "ru": "5* отель в центре с панорамным рестораном.",
+    "en": "5* downtown hotel with panoramic restaurant."
+   },
+   "category": "bishkek",
+   "price": 9500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/luxury,hotel?lock=410",
+   "gallery": [
+    "https://loremflickr.com/800/600/luxury,hotel?lock=410",
+    "https://loremflickr.com/800/600/luxury,hotel?lock=411",
+    "https://loremflickr.com/800/600/luxury,hotel?lock=412"
+   ],
+   "specs": {
+    "stars": "★★★★★",
+    "rooms": {
+     "kg": "Делюкс / Президенттик",
+     "ru": "Делюкс / Президентский",
+     "en": "Deluxe / Presidential"
+    },
+    "guests": 2,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    },
+    "pool": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    }
+   },
+   "tags": [
+    "люкс",
+    "бизнес"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758667200000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1760740800000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1755816000000
+    },
+    {
+     "author": "Бегимай Н.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759790400000
+    }
+   ]
+  },
+  {
+   "id": "ala05",
+   "name": {
+    "kg": "Бутик-отель «Эркиндик»",
+    "ru": "Бутик-отель «Эркиндик»",
+    "en": "Erkindik Boutique"
+   },
+   "desc": {
+    "kg": "Эркиндик бульварындагы уютту бутик-отель. Дизайндык бөлмөлөр жана кофейня.",
+    "ru": "Уютный бутик-отель на бульваре Эркиндик.",
+    "en": "Cozy boutique hotel on Erkindik boulevard."
+   },
+   "category": "bishkek",
+   "price": 3800,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/boutique,hotel?lock=413",
+   "gallery": [
+    "https://loremflickr.com/800/600/boutique,hotel?lock=413",
+    "https://loremflickr.com/800/600/boutique,hotel?lock=414",
+    "https://loremflickr.com/800/600/boutique,hotel?lock=415"
+   ],
+   "specs": {
+    "stars": "★★★★",
+    "rooms": {
+     "kg": "Стандарт",
+     "ru": "Стандарт",
+     "en": "Standard"
+    },
+    "guests": 2,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "бутик"
+   ],
+   "reviews": [
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1760395200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1756766400000
+    }
+   ]
+  },
+  {
+   "id": "ala06",
+   "name": {
+    "kg": "Nomad Hostel",
+    "ru": "Nomad Hostel",
+    "en": "Nomad Hostel"
+   },
+   "desc": {
+    "kg": "Саякатчылар үчүн арзан жана таза хостел. Жалпы ашкана жана экскурсиялар.",
+    "ru": "Недорогой и чистый хостел для путешественников.",
+    "en": "Cheap and clean hostel for travelers."
+   },
+   "category": "bishkek",
+   "price": 1500,
+   "oldPrice": null,
+   "stock": 20,
+   "rating": 4.3,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/hostel,bunk?lock=416",
+   "gallery": [
+    "https://loremflickr.com/800/600/hostel,bunk?lock=416",
+    "https://loremflickr.com/800/600/hostel,bunk?lock=417",
+    "https://loremflickr.com/800/600/hostel,bunk?lock=418"
+   ],
+   "specs": {
+    "stars": "—",
+    "rooms": {
+     "kg": "Жатакана",
+     "ru": "Общий номер",
+     "en": "Dorm"
+    },
+    "guests": 1,
+    "breakfast": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    },
+    "wifi": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "арзан"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1757889600000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758148800000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759358400000
+    }
+   ]
+  },
+  {
+   "id": "ala07",
+   "name": {
+    "kg": "Ала-Арча шале",
+    "ru": "Шале Ала-Арча",
+    "en": "Ala-Archa chalet"
+   },
+   "desc": {
+    "kg": "Улуттук парктын жанындагы жыгач шале. Камин, сауна жана тоо көрүнүшү.",
+    "ru": "Деревянное шале у нацпарка с камином и сауной.",
+    "en": "Wooden chalet near the national park with fireplace."
+   },
+   "category": "mountain",
+   "price": 5500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/chalet,mountain?lock=419",
+   "gallery": [
+    "https://loremflickr.com/800/600/chalet,mountain?lock=419",
+    "https://loremflickr.com/800/600/chalet,mountain?lock=420",
+    "https://loremflickr.com/800/600/chalet,mountain?lock=421"
+   ],
+   "specs": {
+    "stars": "★★★★",
+    "rooms": {
+     "kg": "Коттедж",
+     "ru": "Коттедж",
+     "en": "Cottage"
+    },
+    "guests": 6,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "тоо",
+    "сауна"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "ala08",
+   "name": {
+    "kg": "Каракол лыжа базасы",
+    "ru": "Горнолыжная база Каракол",
+    "en": "Karakol ski base"
+   },
+   "desc": {
+    "kg": "Кышкы эс алуу: лыжа трассалары, ижара жана инструкторлор.",
+    "ru": "Зимний отдых: трассы, прокат и инструкторы.",
+    "en": "Winter fun: slopes, rentals and instructors."
+   },
+   "category": "mountain",
+   "price": 4800,
+   "oldPrice": 5600,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/ski,resort?lock=422",
+   "gallery": [
+    "https://loremflickr.com/800/600/ski,resort?lock=422",
+    "https://loremflickr.com/800/600/ski,resort?lock=423",
+    "https://loremflickr.com/800/600/ski,resort?lock=424"
+   ],
+   "specs": {
+    "stars": "★★★",
+    "rooms": {
+     "kg": "Стандарт",
+     "ru": "Стандарт",
+     "en": "Standard"
+    },
+    "guests": 2,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "лыжа",
+    "кыш"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759617600000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759531200000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "ala09",
+   "name": {
+    "kg": "Чоң-Кемин гостевой үйү",
+    "ru": "Гостевой дом Чон-Кемин",
+    "en": "Chon-Kemin guesthouse"
+   },
+   "desc": {
+    "kg": "Тоо капчыгайындагы үй-бүлөлүк гостевой үй. Рафтинг жана ат минүү.",
+    "ru": "Семейный гостевой дом в ущелье. Рафтинг и конные прогулки.",
+    "en": "Family guesthouse in a gorge. Rafting and riding."
+   },
+   "category": "mountain",
+   "price": 3500,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/forest,lodge?lock=425",
+   "gallery": [
+    "https://loremflickr.com/800/600/forest,lodge?lock=425",
+    "https://loremflickr.com/800/600/forest,lodge?lock=426",
+    "https://loremflickr.com/800/600/forest,lodge?lock=427"
+   ],
+   "specs": {
+    "stars": "★★★",
+    "rooms": {
+     "kg": "Үй-бүлөлүк",
+     "ru": "Семейный",
+     "en": "Family"
+    },
+    "guests": 4,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "рафтинг"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760913600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760308800000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1759012800000
+    }
+   ]
+  },
+  {
+   "id": "ala10",
+   "name": {
+    "kg": "Ош Палас",
+    "ru": "Ош Палас",
+    "en": "Osh Palace"
+   },
+   "desc": {
+    "kg": "Сулайман-Тоонун жанындагы ыңгайлуу отель. Түштүк борборунун жүрөгүндө.",
+    "ru": "Удобный отель у Сулайман-Тоо.",
+    "en": "Comfortable hotel near Sulaiman-Too."
+   },
+   "category": "south",
+   "price": 3000,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.4,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/city,hotel?lock=428",
+   "gallery": [
+    "https://loremflickr.com/800/600/city,hotel?lock=428",
+    "https://loremflickr.com/800/600/city,hotel?lock=429",
+    "https://loremflickr.com/800/600/city,hotel?lock=430"
+   ],
+   "specs": {
+    "stars": "★★★",
+    "rooms": {
+     "kg": "Стандарт",
+     "ru": "Стандарт",
+     "en": "Standard"
+    },
+    "guests": 2,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "ош"
+   ],
+   "reviews": [
+    {
+     "author": "Мирлан К.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1757198400000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759358400000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759358400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1760827200000
+    }
+   ]
+  },
+  {
+   "id": "ala11",
+   "name": {
+    "kg": "Арстанбап эко-үй",
+    "ru": "Эко-дом Арстанбап",
+    "en": "Arslanbob eco-house"
+   },
+   "desc": {
+    "kg": "Дүйнөдөгү эң чоң жаңгак токоюндагы эко-үй. Шаркыратмага сейилдөө.",
+    "ru": "Эко-дом в крупнейшем ореховом лесу мира.",
+    "en": "Eco-house in the world's largest walnut forest."
+   },
+   "category": "south",
+   "price": 4000,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/walnut,forest?lock=431",
+   "gallery": [
+    "https://loremflickr.com/800/600/walnut,forest?lock=431",
+    "https://loremflickr.com/800/600/walnut,forest?lock=432",
+    "https://loremflickr.com/800/600/walnut,forest?lock=433"
+   ],
+   "specs": {
+    "stars": "—",
+    "rooms": {
+     "kg": "Коттедж",
+     "ru": "Коттедж",
+     "en": "Cottage"
+    },
+    "guests": 5,
+    "breakfast": {
+     "kg": "Бар",
+     "ru": "Есть",
+     "en": "Yes"
+    },
+    "wifi": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    },
+    "pool": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    }
+   },
+   "tags": [
+    "эко",
+    "жаңгак"
+   ],
+   "reviews": [
+    {
+     "author": "Бегимай Н.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1760481600000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1760481600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1760395200000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1758667200000
+    }
+   ]
+  },
+  {
+   "id": "ala12",
+   "name": {
+    "kg": "Жеке вилла, Бостери",
+    "ru": "Частная вилла, Бостери",
+    "en": "Private villa, Bosteri"
+   },
+   "desc": {
+    "kg": "Жеке бассейни бар 4 бөлмөлүү вилла. 8 кишиге чейин.",
+    "ru": "Вилла на 4 спальни с личным бассейном.",
+    "en": "4-bedroom villa with private pool."
+   },
+   "category": "issykkul",
+   "price": 12000,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/villa,lake?lock=434",
+   "gallery": [
+    "https://loremflickr.com/800/600/villa,lake?lock=434",
+    "https://loremflickr.com/800/600/villa,lake?lock=435",
+    "https://loremflickr.com/800/600/villa,lake?lock=436"
+   ],
+   "specs": {
+    "stars": "★★★★★",
+    "rooms": {
+     "kg": "Вилла",
+     "ru": "Вилла",
+     "en": "Villa"
+    },
+    "guests": 8,
+    "breakfast": {
+     "kg": "Жок",
+     "ru": "Нет",
+     "en": "No"
+    },
+    "wifi": {
+     "kg": "Акысыз",
+     "ru": "Бесплатно",
+     "en": "Free"
+    },
+    "pool": {
+     "kg": "Жеке",
+     "ru": "Личный",
+     "en": "Private"
+    }
+   },
+   "tags": [
+    "вилла",
+    "люкс"
+   ],
+   "reviews": [
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758667200000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758321600000
+    }
+   ]
+  }
+ ]
+}
