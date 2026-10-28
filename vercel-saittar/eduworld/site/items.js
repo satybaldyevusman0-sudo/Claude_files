@@ -251,7 +251,7 @@ export default [
   {
     "buyable": true,
     "popular": 5,
-    "id": "",
+    "id": "cybersecurity-basics",
     "title": "Киберкоопсуздук негиздери",
     "category": "it",
     "price": 8500,

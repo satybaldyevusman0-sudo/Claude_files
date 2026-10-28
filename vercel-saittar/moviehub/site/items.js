@@ -917,7 +917,7 @@ export default [
   {
     "buyable": true,
     "popular": 14,
-    "id": "",
+    "id": "kurmanjan-datka",
     "title": "Курманжан Датка",
     "category": "kyrgyz",
     "price": 250,
@@ -965,7 +965,7 @@ export default [
   {
     "buyable": true,
     "popular": 10,
-    "id": "-2",
+    "id": "kentavr",
     "title": "Кентавр",
     "category": "kyrgyz",
     "price": 220,
@@ -1013,7 +1013,7 @@ export default [
   {
     "buyable": true,
     "popular": 9,
-    "id": "-",
+    "id": "svet-ake",
     "title": "Свет-аке",
     "category": "kyrgyz",
     "price": 200,
@@ -1061,7 +1061,7 @@ export default [
   {
     "buyable": true,
     "popular": 8,
-    "id": "-2-2",
+    "id": "beshkempir",
     "title": "Бешкемпир",
     "category": "kyrgyz",
     "price": 200,

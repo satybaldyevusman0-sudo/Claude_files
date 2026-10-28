@@ -754,8 +754,8 @@ export default [
   {
     "buyable": true,
     "popular": 3,
-    "id": "headphones",
-    "title": "Headphones",
+    "id": "sony-wh-1000xm5",
+    "title": "Sony WH-1000XM5",
     "category": "audio",
     "brand": "Sony",
     "price": 32900,
@@ -788,7 +788,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Headphones",
+    "wiki": "Sony WH-1000XM5",
     "image": "https://loremflickr.com/800/600/headphones?lock=5792",
     "gallery": [
       "https://loremflickr.com/800/600/headphones?lock=5793",
