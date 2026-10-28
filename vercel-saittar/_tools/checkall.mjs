@@ -13,7 +13,7 @@ for (const base of sites) {
     const items = it.items || [];
     out.wiki = `${items.filter((x) => /wikimedia|wikipedia/.test(x.image)).length}/${items.length}`;
     let bad = 0;
-    await Promise.all(items.map(async (x) => { try { const h = await fetch(x.image, { method: 'HEAD', headers: { 'User-Agent': 'Mozilla/5.0' } }); if (!h.ok) bad++; } catch { bad++; } }));
+    if (process.env.IMG) await Promise.all(items.map(async (x) => { try { const h = await fetch(x.image, { method: 'HEAD', headers: { 'User-Agent': 'Mozilla/5.0' } }); if (!h.ok) bad++; } catch { bad++; } }));
     out.broken = bad;
     const h = await (await fetch(base + '/api/health')).json();
     out.db = h.storage;
