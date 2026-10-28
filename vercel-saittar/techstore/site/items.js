@@ -38,7 +38,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "iPhone 17 Pro",
+    "wiki": "IPhone 16 Pro",
     "image": "https://loremflickr.com/800/600/smartphone?lock=3340",
     "gallery": [
       "https://loremflickr.com/800/600/smartphone?lock=3341",
@@ -304,7 +304,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Pixel 9",
+    "wiki": "Google Pixel",
     "image": "https://loremflickr.com/800/600/smartphone?lock=4641",
     "gallery": [
       "https://loremflickr.com/800/600/smartphone?lock=4642",
@@ -754,12 +754,12 @@ export default [
   {
     "buyable": true,
     "popular": 3,
-    "id": "sony-wh-1000xm5",
-    "title": "Sony WH-1000XM5",
+    "id": "headphones",
+    "title": "Headphones",
     "category": "audio",
     "brand": "Sony",
     "price": 32900,
-    "stock": 5,
+    "stock": 7,
     "desc": {
       "ky": "Дүйнөдөгү эң мыкты ызы-чуу басуучу кулакчын.",
       "ru": "Одни из лучших шумоподавляющих наушников.",
@@ -788,11 +788,11 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Sony WH-1000XM5",
-    "image": "https://loremflickr.com/800/600/headphones?lock=4800",
+    "wiki": "Headphones",
+    "image": "https://loremflickr.com/800/600/headphones?lock=5792",
     "gallery": [
-      "https://loremflickr.com/800/600/headphones?lock=4801",
-      "https://loremflickr.com/800/600/headphones?lock=4802"
+      "https://loremflickr.com/800/600/headphones?lock=5793",
+      "https://loremflickr.com/800/600/headphones?lock=5794"
     ]
   },
   {

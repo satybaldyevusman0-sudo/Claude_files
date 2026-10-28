@@ -626,7 +626,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Xbox Series X and Series S",
+    "wiki": "logo:Xbox Series X and Series S",
     "image": "https://loremflickr.com/800/600/console,gaming?lock=5873",
     "gallery": [
       "https://loremflickr.com/800/600/console,gaming?lock=5874",
@@ -1000,7 +1000,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Mobile Legends: Bang Bang",
+    "wiki": "logo:Mobile Legends: Bang Bang",
     "image": "https://loremflickr.com/800/600/smartphone,game?lock=5142",
     "gallery": [
       "https://loremflickr.com/800/600/smartphone,game?lock=5143",

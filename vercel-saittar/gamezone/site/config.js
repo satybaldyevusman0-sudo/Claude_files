@@ -123,7 +123,7 @@ export default {
         "en": "Consoles"
       },
       "icon": "🕹️",
-      "wiki": "Xbox Series X and Series S",
+      "wiki": "logo:Xbox Series X and Series S",
       "tags": "console,gaming"
     },
     {

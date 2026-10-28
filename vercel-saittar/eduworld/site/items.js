@@ -97,7 +97,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "React (software)",
+    "wiki": "logo:React (software)",
     "image": "https://loremflickr.com/800/600/programming,laptop?lock=6829",
     "gallery": [
       "https://loremflickr.com/800/600/programming,laptop?lock=6830",
@@ -193,7 +193,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Java (programming language)",
+    "wiki": "Server room",
     "image": "https://loremflickr.com/800/600/programming,laptop?lock=6508",
     "gallery": [
       "https://loremflickr.com/800/600/programming,laptop?lock=6509",
@@ -441,7 +441,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Korean language",
+    "wiki": "Gyeongbokgung",
     "image": "https://loremflickr.com/800/600/language,books?lock=113",
     "gallery": [
       "https://loremflickr.com/800/600/language,books?lock=114",
@@ -545,7 +545,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Standard Chinese",
+    "wiki": "Chinese calligraphy",
     "image": "https://loremflickr.com/800/600/language,books?lock=4389",
     "gallery": [
       "https://loremflickr.com/800/600/language,books?lock=4390",
@@ -897,7 +897,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Accounting",
+    "wiki": "Calculator",
     "image": "https://loremflickr.com/800/600/business,office?lock=5983",
     "gallery": [
       "https://loremflickr.com/800/600/business,office?lock=5984",
@@ -949,7 +949,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Startup company",
+    "wiki": "Coworking",
     "image": "https://loremflickr.com/800/600/business,office?lock=6616",
     "gallery": [
       "https://loremflickr.com/800/600/business,office?lock=6617",
@@ -1305,7 +1305,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Technical University of Munich",
+    "wiki": "Brandenburg Gate",
     "image": "https://loremflickr.com/800/600/university,campus?lock=1690",
     "gallery": [
       "https://loremflickr.com/800/600/university,campus?lock=1691",

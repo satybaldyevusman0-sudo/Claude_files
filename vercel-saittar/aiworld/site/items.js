@@ -813,7 +813,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Business process automation",
+    "wiki": "Industrial robot",
     "image": "https://loremflickr.com/800/600/classroom,technology?lock=6851",
     "gallery": [
       "https://loremflickr.com/800/600/classroom,technology?lock=6852",
@@ -1252,7 +1252,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Consultant",
+    "wiki": "Business meeting",
     "image": "https://loremflickr.com/800/600/business,technology?lock=4754",
     "gallery": [
       "https://loremflickr.com/800/600/business,technology?lock=4755",

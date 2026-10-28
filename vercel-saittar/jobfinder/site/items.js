@@ -47,7 +47,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Front-end web development",
+    "wiki": "Programmer",
     "image": "https://loremflickr.com/800/600/office,computer?lock=4692",
     "gallery": [
       "https://loremflickr.com/800/600/office,computer?lock=4693",
@@ -209,7 +209,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "User experience design",
+    "wiki": "Web design",
     "image": "https://loremflickr.com/800/600/office,computer?lock=7774",
     "gallery": [
       "https://loremflickr.com/800/600/office,computer?lock=7775",

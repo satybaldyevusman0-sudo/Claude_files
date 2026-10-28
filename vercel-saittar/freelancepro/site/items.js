@@ -329,7 +329,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Logo",
+    "wiki": "Graphic design",
     "image": "https://loremflickr.com/800/600/design,illustration?lock=1267",
     "gallery": [
       "https://loremflickr.com/800/600/design,illustration?lock=1268",
@@ -665,7 +665,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Search engine optimization",
+    "wiki": "Web analytics",
     "image": "https://loremflickr.com/800/600/marketing,phone?lock=656",
     "gallery": [
       "https://loremflickr.com/800/600/marketing,phone?lock=657",
@@ -1203,7 +1203,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Bookkeeping",
+    "wiki": "Calculator",
     "image": "https://loremflickr.com/800/600/business,meeting?lock=8216",
     "gallery": [
       "https://loremflickr.com/800/600/business,meeting?lock=8217",
