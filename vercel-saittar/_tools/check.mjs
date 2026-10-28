@@ -1,0 +1,21 @@
+// node check.mjs https://site.vercel.app
+const base = process.argv[2];
+const r = await fetch(base + '/');
+const html = await r.text();
+const js = html.match(/src="(\/assets\/[^"]+\.js)"/)?.[1];
+const jr = js ? await fetch(base + js) : null;
+console.log('PAGE', r.status, html.includes('id="root"') ? 'root-ok' : 'NO-ROOT', 'JS', jr?.status, jr ? (await jr.text()).length : 0);
+const t0 = Date.now();
+const it = await (await fetch(base + '/api/items?limit=60')).json();
+console.log('ITEMS', it.total, 'in', Date.now() - t0, 'ms');
+const items = it.items || [];
+const wiki = items.filter((x) => /wikimedia|wikipedia/.test(x.image));
+console.log('WIKI images', wiki.length, '/', items.length);
+const miss = items.filter((x) => !/wikimedia|wikipedia/.test(x.image)).map((x) => x.id);
+if (miss.length) console.log('NO-WIKI:', miss.join(', '));
+let bad = 0;
+await Promise.all(items.map(async (x) => { try { const h = await fetch(x.image, { method: 'HEAD', headers: { 'User-Agent': 'Mozilla/5.0' } }); if (!h.ok) { bad++; console.log('IMG', h.status, x.id, x.image); } } catch (e) { bad++; console.log('IMG ERR', x.id); } }));
+console.log('BROKEN images', bad);
+for (const x of items.slice(0, 40)) console.log(' -', x.id, '=>', decodeURIComponent(x.image.split('/').pop()).slice(0, 70));
+const h = await (await fetch(base + '/api/health')).json();
+console.log('HEALTH', JSON.stringify(h).slice(0, 300));
