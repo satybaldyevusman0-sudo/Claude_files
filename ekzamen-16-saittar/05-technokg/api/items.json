@@ -1,6 +1,6 @@
 {
  "site": "Techno.kg",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/iphone?lock=501",
-   "gallery": [
-    "https://loremflickr.com/800/600/iphone?lock=501",
-    "https://loremflickr.com/800/600/iphone?lock=502",
-    "https://loremflickr.com/800/600/iphone?lock=503"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Apple",
     "screen": "6.3\" OLED 120Hz",
@@ -60,6 +56,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1758321600000
     }
+   ],
+   "wiki": [
+    "iPhone 16 Pro"
    ]
   },
   {
@@ -80,12 +79,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/samsung,phone?lock=504",
-   "gallery": [
-    "https://loremflickr.com/800/600/samsung,phone?lock=504",
-    "https://loremflickr.com/800/600/samsung,phone?lock=505",
-    "https://loremflickr.com/800/600/samsung,phone?lock=506"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Samsung",
     "screen": "6.2\" AMOLED",
@@ -125,6 +120,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1757716800000
     }
+   ],
+   "wiki": [
+    "Samsung Galaxy S25"
    ]
   },
   {
@@ -145,12 +143,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/xiaomi,phone?lock=507",
-   "gallery": [
-    "https://loremflickr.com/800/600/xiaomi,phone?lock=507",
-    "https://loremflickr.com/800/600/xiaomi,phone?lock=508",
-    "https://loremflickr.com/800/600/xiaomi,phone?lock=509"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Xiaomi",
     "screen": "6.67\" AMOLED",
@@ -196,6 +190,11 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Redmi Note 14",
+    "Redmi Note 13",
+    "Redmi"
    ]
   },
   {
@@ -216,12 +215,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/macbook?lock=510",
-   "gallery": [
-    "https://loremflickr.com/800/600/macbook?lock=510",
-    "https://loremflickr.com/800/600/macbook?lock=511",
-    "https://loremflickr.com/800/600/macbook?lock=512"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Apple",
     "screen": "13.6\" Retina",
@@ -255,6 +250,10 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "MacBook Air (Apple silicon)",
+    "MacBook Air"
    ]
   },
   {
@@ -275,12 +274,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/laptop,gaming?lock=513",
-   "gallery": [
-    "https://loremflickr.com/800/600/laptop,gaming?lock=513",
-    "https://loremflickr.com/800/600/laptop,gaming?lock=514",
-    "https://loremflickr.com/800/600/laptop,gaming?lock=515"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "ASUS",
     "screen": "15.6\" 144Hz",
@@ -320,6 +315,11 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1759963200000
     }
+   ],
+   "wiki": [
+    "Asus TUF Gaming",
+    "Gaming laptop",
+    "Laptop"
    ]
   },
   {
@@ -340,12 +340,8 @@
    "stock": 10,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/laptop,office?lock=516",
-   "gallery": [
-    "https://loremflickr.com/800/600/laptop,office?lock=516",
-    "https://loremflickr.com/800/600/laptop,office?lock=517",
-    "https://loremflickr.com/800/600/laptop,office?lock=518"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Lenovo",
     "screen": "14\" IPS",
@@ -391,6 +387,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1757544000000
     }
+   ],
+   "wiki": [
+    "Lenovo IdeaPad",
+    "Laptop"
    ]
   },
   {
@@ -411,12 +411,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/airpods,earbuds?lock=519",
-   "gallery": [
-    "https://loremflickr.com/800/600/airpods,earbuds?lock=519",
-    "https://loremflickr.com/800/600/airpods,earbuds?lock=520",
-    "https://loremflickr.com/800/600/airpods,earbuds?lock=521"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Apple",
     "screen": "—",
@@ -461,6 +457,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1760568000000
     }
+   ],
+   "wiki": [
+    "AirPods Pro"
    ]
   },
   {
@@ -481,12 +480,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/headphones?lock=522",
-   "gallery": [
-    "https://loremflickr.com/800/600/headphones?lock=522",
-    "https://loremflickr.com/800/600/headphones?lock=523",
-    "https://loremflickr.com/800/600/headphones?lock=524"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Sony",
     "screen": "—",
@@ -526,6 +521,11 @@
      "text": "Great quality and friendly support!",
      "date": 1757457600000
     }
+   ],
+   "wiki": [
+    "Sony WH-1000XM5",
+    "Sony WH-1000XM4",
+    "Headphones"
    ]
   },
   {
@@ -546,12 +546,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/smartwatch,apple?lock=525",
-   "gallery": [
-    "https://loremflickr.com/800/600/smartwatch,apple?lock=525",
-    "https://loremflickr.com/800/600/smartwatch,apple?lock=526",
-    "https://loremflickr.com/800/600/smartwatch,apple?lock=527"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Apple",
     "screen": "46 mm OLED",
@@ -596,6 +592,10 @@
      "text": "Great quality and friendly support!",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Apple Watch Series 10",
+    "Apple Watch"
    ]
   },
   {
@@ -616,12 +616,8 @@
    "stock": 40,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/fitness,band?lock=528",
-   "gallery": [
-    "https://loremflickr.com/800/600/fitness,band?lock=528",
-    "https://loremflickr.com/800/600/fitness,band?lock=529",
-    "https://loremflickr.com/800/600/fitness,band?lock=530"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Xiaomi",
     "screen": "1.62\" AMOLED",
@@ -666,6 +662,10 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1760395200000
     }
+   ],
+   "wiki": [
+    "Xiaomi Mi Band",
+    "Activity tracker"
    ]
   },
   {
@@ -686,12 +686,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/television,living?lock=531",
-   "gallery": [
-    "https://loremflickr.com/800/600/television,living?lock=531",
-    "https://loremflickr.com/800/600/television,living?lock=532",
-    "https://loremflickr.com/800/600/television,living?lock=533"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Samsung",
     "screen": "55\" 4K 120Hz",
@@ -736,6 +732,10 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1755902400000
     }
+   ],
+   "wiki": [
+    "QLED",
+    "Smart TV"
    ]
   },
   {
@@ -756,12 +756,8 @@
    "stock": 0,
    "rating": 4.4,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/tv,screen?lock=534",
-   "gallery": [
-    "https://loremflickr.com/800/600/tv,screen?lock=534",
-    "https://loremflickr.com/800/600/tv,screen?lock=535",
-    "https://loremflickr.com/800/600/tv,screen?lock=536"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Xiaomi",
     "screen": "43\" 4K",
@@ -807,6 +803,10 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1756075200000
     }
+   ],
+   "wiki": [
+    "Smart TV",
+    "Television set"
    ]
   }
  ]

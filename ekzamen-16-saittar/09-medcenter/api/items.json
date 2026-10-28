@@ -1,6 +1,6 @@
 {
  "site": "MedCenter",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 30,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/doctor,therapist?lock=901",
-   "gallery": [
-    "https://loremflickr.com/800/600/doctor,therapist?lock=901",
-    "https://loremflickr.com/800/600/doctor,therapist?lock=902",
-    "https://loremflickr.com/800/600/doctor,therapist?lock=903"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Асанова Г. К.",
     "duration": "30 мүн",
@@ -62,6 +58,10 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1760913600000
     }
+   ],
+   "wiki": [
+    "General practitioner",
+    "Physician"
    ]
   },
   {
@@ -82,12 +82,8 @@
    "stock": 20,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/cardiology,heart?lock=904",
-   "gallery": [
-    "https://loremflickr.com/800/600/cardiology,heart?lock=904",
-    "https://loremflickr.com/800/600/cardiology,heart?lock=905",
-    "https://loremflickr.com/800/600/cardiology,heart?lock=906"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Токтосунов Б. А.",
     "duration": "40 мүн",
@@ -135,6 +131,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1757889600000
     }
+   ],
+   "wiki": [
+    "Cardiology"
    ]
   },
   {
@@ -155,12 +154,8 @@
    "stock": 25,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/pediatrician,child?lock=907",
-   "gallery": [
-    "https://loremflickr.com/800/600/pediatrician,child?lock=907",
-    "https://loremflickr.com/800/600/pediatrician,child?lock=908",
-    "https://loremflickr.com/800/600/pediatrician,child?lock=909"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Жумабаева А. Т.",
     "duration": "30 мүн",
@@ -196,6 +191,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1756593600000
     }
+   ],
+   "wiki": [
+    "Pediatrics"
    ]
   },
   {
@@ -216,12 +214,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/mri,scan?lock=910",
-   "gallery": [
-    "https://loremflickr.com/800/600/mri,scan?lock=910",
-    "https://loremflickr.com/800/600/mri,scan?lock=911",
-    "https://loremflickr.com/800/600/mri,scan?lock=912"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Радиолог",
     "duration": "30-40 мүн",
@@ -253,6 +247,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1757716800000
     }
+   ],
+   "wiki": [
+    "Magnetic resonance imaging"
    ]
   },
   {
@@ -273,12 +270,8 @@
    "stock": 30,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/ultrasound?lock=913",
-   "gallery": [
-    "https://loremflickr.com/800/600/ultrasound?lock=913",
-    "https://loremflickr.com/800/600/ultrasound?lock=914",
-    "https://loremflickr.com/800/600/ultrasound?lock=915"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Осмонова Ж.",
     "duration": "20 мүн",
@@ -326,6 +319,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1760740800000
     }
+   ],
+   "wiki": [
+    "Medical ultrasound"
    ]
   },
   {
@@ -346,12 +342,8 @@
    "stock": 50,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/ecg,cardio?lock=916",
-   "gallery": [
-    "https://loremflickr.com/800/600/ecg,cardio?lock=916",
-    "https://loremflickr.com/800/600/ecg,cardio?lock=917",
-    "https://loremflickr.com/800/600/ecg,cardio?lock=918"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Кардиолог",
     "duration": "15 мүн",
@@ -389,6 +381,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1759876800000
     }
+   ],
+   "wiki": [
+    "Electrocardiography"
    ]
   },
   {
@@ -409,12 +404,8 @@
    "stock": 100,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/blood,test?lock=919",
-   "gallery": [
-    "https://loremflickr.com/800/600/blood,test?lock=919",
-    "https://loremflickr.com/800/600/blood,test?lock=920",
-    "https://loremflickr.com/800/600/blood,test?lock=921"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Лаборатория",
     "duration": "5 мүн",
@@ -446,6 +437,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1760913600000
     }
+   ],
+   "wiki": [
+    "Complete blood count",
+    "Blood test"
    ]
   },
   {
@@ -466,12 +461,8 @@
    "stock": 100,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/laboratory,tubes?lock=922",
-   "gallery": [
-    "https://loremflickr.com/800/600/laboratory,tubes?lock=922",
-    "https://loremflickr.com/800/600/laboratory,tubes?lock=923",
-    "https://loremflickr.com/800/600/laboratory,tubes?lock=924"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Лаборатория",
     "duration": "5 мүн",
@@ -509,6 +500,10 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1759358400000
     }
+   ],
+   "wiki": [
+    "Medical laboratory",
+    "Clinical chemistry"
    ]
   },
   {
@@ -529,12 +524,8 @@
    "stock": 15,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/dentist?lock=925",
-   "gallery": [
-    "https://loremflickr.com/800/600/dentist?lock=925",
-    "https://loremflickr.com/800/600/dentist?lock=926",
-    "https://loremflickr.com/800/600/dentist?lock=927"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Иманов Т. Б.",
     "duration": "60 мүн",
@@ -576,6 +567,10 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1760827200000
     }
+   ],
+   "wiki": [
+    "Dental hygienist",
+    "Oral hygiene"
    ]
   },
   {
@@ -596,12 +591,8 @@
    "stock": 15,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/dental,clinic?lock=928",
-   "gallery": [
-    "https://loremflickr.com/800/600/dental,clinic?lock=928",
-    "https://loremflickr.com/800/600/dental,clinic?lock=929",
-    "https://loremflickr.com/800/600/dental,clinic?lock=930"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": "Иманов Т. Б.",
     "duration": "60 мүн",
@@ -643,6 +634,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1757889600000
     }
+   ],
+   "wiki": [
+    "Dental restoration",
+    "Dentistry"
    ]
   },
   {
@@ -663,12 +658,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/health,checkup?lock=931",
-   "gallery": [
-    "https://loremflickr.com/800/600/health,checkup?lock=931",
-    "https://loremflickr.com/800/600/health,checkup?lock=932",
-    "https://loremflickr.com/800/600/health,checkup?lock=933"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": {
      "kg": "Бир нече адис",
@@ -704,6 +695,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1759185600000
     }
+   ],
+   "wiki": [
+    "Physical examination"
    ]
   },
   {
@@ -724,12 +718,8 @@
    "stock": 0,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/medical,team?lock=934",
-   "gallery": [
-    "https://loremflickr.com/800/600/medical,team?lock=934",
-    "https://loremflickr.com/800/600/medical,team?lock=935",
-    "https://loremflickr.com/800/600/medical,team?lock=936"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "doctor": {
      "kg": "8 адис",
@@ -777,6 +767,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1760136000000
     }
+   ],
+   "wiki": [
+    "Hospital"
    ]
   }
  ]

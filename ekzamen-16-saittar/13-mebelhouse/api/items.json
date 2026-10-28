@@ -1,6 +1,6 @@
 {
  "site": "Mebel House",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/sofa,grey?lock=1301",
-   "gallery": [
-    "https://loremflickr.com/800/600/sofa,grey?lock=1301",
-    "https://loremflickr.com/800/600/sofa,grey?lock=1302",
-    "https://loremflickr.com/800/600/sofa,grey?lock=1303"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "280×180×90 см",
     "material": {
@@ -83,6 +79,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1760049600000
     }
+   ],
+   "wiki": [
+    "Couch"
    ]
   },
   {
@@ -103,12 +102,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/coffee,table?lock=1304",
-   "gallery": [
-    "https://loremflickr.com/800/600/coffee,table?lock=1304",
-    "https://loremflickr.com/800/600/coffee,table?lock=1305",
-    "https://loremflickr.com/800/600/coffee,table?lock=1306"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "110×60×45 см",
     "material": {
@@ -153,6 +148,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1759531200000
     }
+   ],
+   "wiki": [
+    "Coffee table"
    ]
   },
   {
@@ -173,12 +171,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/armchair?lock=1307",
-   "gallery": [
-    "https://loremflickr.com/800/600/armchair?lock=1307",
-    "https://loremflickr.com/800/600/armchair?lock=1308",
-    "https://loremflickr.com/800/600/armchair?lock=1309"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "80×85×95 см",
     "material": {
@@ -229,6 +223,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1760308800000
     }
+   ],
+   "wiki": [
+    "Armchair",
+    "Club chair"
    ]
   },
   {
@@ -249,12 +247,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/bed,bedroom?lock=1310",
-   "gallery": [
-    "https://loremflickr.com/800/600/bed,bedroom?lock=1310",
-    "https://loremflickr.com/800/600/bed,bedroom?lock=1311",
-    "https://loremflickr.com/800/600/bed,bedroom?lock=1312"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "160×200 см",
     "material": {
@@ -311,6 +305,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1759012800000
     }
+   ],
+   "wiki": [
+    "Bed"
    ]
   },
   {
@@ -331,12 +328,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/mattress?lock=1313",
-   "gallery": [
-    "https://loremflickr.com/800/600/mattress?lock=1313",
-    "https://loremflickr.com/800/600/mattress?lock=1314",
-    "https://loremflickr.com/800/600/mattress?lock=1315"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "160×200×24 см",
     "material": {
@@ -381,6 +374,9 @@
      "text": "Great quality and friendly support!",
      "date": 1760049600000
     }
+   ],
+   "wiki": [
+    "Mattress"
    ]
   },
   {
@@ -401,12 +397,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/wardrobe?lock=1316",
-   "gallery": [
-    "https://loremflickr.com/800/600/wardrobe?lock=1316",
-    "https://loremflickr.com/800/600/wardrobe?lock=1317",
-    "https://loremflickr.com/800/600/wardrobe?lock=1318"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "240×60×230 см",
     "material": {
@@ -463,6 +455,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1758494400000
     }
+   ],
+   "wiki": [
+    "Wardrobe"
    ]
   },
   {
@@ -483,12 +478,8 @@
    "stock": 5,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/kitchen,cabinets?lock=1319",
-   "gallery": [
-    "https://loremflickr.com/800/600/kitchen,cabinets?lock=1319",
-    "https://loremflickr.com/800/600/kitchen,cabinets?lock=1320",
-    "https://loremflickr.com/800/600/kitchen,cabinets?lock=1321"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "300 см",
     "material": {
@@ -545,6 +536,10 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1758840000000
     }
+   ],
+   "wiki": [
+    "Kitchen cabinet",
+    "Kitchen"
    ]
   },
   {
@@ -565,12 +560,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/dining,table?lock=1322",
-   "gallery": [
-    "https://loremflickr.com/800/600/dining,table?lock=1322",
-    "https://loremflickr.com/800/600/dining,table?lock=1323",
-    "https://loremflickr.com/800/600/dining,table?lock=1324"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "140(180)×80 см",
     "material": {
@@ -627,6 +618,10 @@
      "text": "Great quality and friendly support!",
      "date": 1758494400000
     }
+   ],
+   "wiki": [
+    "Dining room",
+    "Table (furniture)"
    ]
   },
   {
@@ -647,12 +642,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/office,chair?lock=1325",
-   "gallery": [
-    "https://loremflickr.com/800/600/office,chair?lock=1325",
-    "https://loremflickr.com/800/600/office,chair?lock=1326",
-    "https://loremflickr.com/800/600/office,chair?lock=1327"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "65×65×120 см",
     "material": {
@@ -710,6 +701,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1756852800000
     }
+   ],
+   "wiki": [
+    "Office chair"
    ]
   },
   {
@@ -730,12 +724,8 @@
    "stock": 0,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/standing,desk?lock=1328",
-   "gallery": [
-    "https://loremflickr.com/800/600/standing,desk?lock=1328",
-    "https://loremflickr.com/800/600/standing,desk?lock=1329",
-    "https://loremflickr.com/800/600/standing,desk?lock=1330"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "140×70 см",
     "material": {
@@ -786,6 +776,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1757025600000
     }
+   ],
+   "wiki": [
+    "Standing desk"
    ]
   },
   {
@@ -806,12 +799,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/bunk,bed?lock=1331",
-   "gallery": [
-    "https://loremflickr.com/800/600/bunk,bed?lock=1331",
-    "https://loremflickr.com/800/600/bunk,bed?lock=1332",
-    "https://loremflickr.com/800/600/bunk,bed?lock=1333"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "200×90 см",
     "material": {
@@ -856,6 +845,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Bunk bed"
    ]
   },
   {
@@ -876,12 +868,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/kids,desk?lock=1334",
-   "gallery": [
-    "https://loremflickr.com/800/600/kids,desk?lock=1334",
-    "https://loremflickr.com/800/600/kids,desk?lock=1335",
-    "https://loremflickr.com/800/600/kids,desk?lock=1336"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "80×60 см",
     "material": {
@@ -932,6 +920,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1757889600000
     }
+   ],
+   "wiki": [
+    "Desk"
    ]
   }
  ]

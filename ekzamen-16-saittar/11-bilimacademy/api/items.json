@@ -1,6 +1,6 @@
 {
  "site": "Bilim Academy",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 20,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/javascript,code?lock=1101",
-   "gallery": [
-    "https://loremflickr.com/800/600/javascript,code?lock=1101",
-    "https://loremflickr.com/800/600/javascript,code?lock=1102",
-    "https://loremflickr.com/800/600/javascript,code?lock=1103"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "6 ай",
@@ -68,6 +64,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1758494400000
     }
+   ],
+   "wiki": [
+    "React (software)"
    ]
   },
   {
@@ -88,12 +87,8 @@
    "stock": 20,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/python,programming?lock=1104",
-   "gallery": [
-    "https://loremflickr.com/800/600/python,programming?lock=1104",
-    "https://loremflickr.com/800/600/python,programming?lock=1105",
-    "https://loremflickr.com/800/600/python,programming?lock=1106"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "5 ай",
@@ -135,6 +130,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1757284800000
     }
+   ],
+   "wiki": [
+    "Python (programming language)"
    ]
   },
   {
@@ -155,12 +153,8 @@
    "stock": 15,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/mobile,app?lock=1107",
-   "gallery": [
-    "https://loremflickr.com/800/600/mobile,app?lock=1107",
-    "https://loremflickr.com/800/600/mobile,app?lock=1108",
-    "https://loremflickr.com/800/600/mobile,app?lock=1109"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "4 ай",
@@ -213,6 +207,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1756161600000
     }
+   ],
+   "wiki": [
+    "Flutter (software)"
    ]
   },
   {
@@ -233,12 +230,8 @@
    "stock": 18,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/design,figma?lock=1110",
-   "gallery": [
-    "https://loremflickr.com/800/600/design,figma?lock=1110",
-    "https://loremflickr.com/800/600/design,figma?lock=1111",
-    "https://loremflickr.com/800/600/design,figma?lock=1112"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "3 ай",
@@ -286,6 +279,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1760308800000
     }
+   ],
+   "wiki": [
+    "Figma"
    ]
   },
   {
@@ -306,12 +302,8 @@
    "stock": 18,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/graphic,design?lock=1113",
-   "gallery": [
-    "https://loremflickr.com/800/600/graphic,design?lock=1113",
-    "https://loremflickr.com/800/600/graphic,design?lock=1114",
-    "https://loremflickr.com/800/600/graphic,design?lock=1115"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "3 ай",
@@ -358,6 +350,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1759617600000
     }
+   ],
+   "wiki": [
+    "Graphic design"
    ]
   },
   {
@@ -378,12 +373,8 @@
    "stock": 40,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/english,book?lock=1116",
-   "gallery": [
-    "https://loremflickr.com/800/600/english,book?lock=1116",
-    "https://loremflickr.com/800/600/english,book?lock=1117",
-    "https://loremflickr.com/800/600/english,book?lock=1118"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "1 ай",
@@ -432,6 +423,10 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1758926400000
     }
+   ],
+   "wiki": [
+    "Classroom",
+    "Language education"
    ]
   },
   {
@@ -452,12 +447,8 @@
    "stock": 12,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/ielts,exam?lock=1119",
-   "gallery": [
-    "https://loremflickr.com/800/600/ielts,exam?lock=1119",
-    "https://loremflickr.com/800/600/ielts,exam?lock=1120",
-    "https://loremflickr.com/800/600/ielts,exam?lock=1121"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "2 ай",
@@ -506,6 +497,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1758235200000
     }
+   ],
+   "wiki": [
+    "International English Language Testing System"
    ]
   },
   {
@@ -526,12 +520,8 @@
    "stock": 20,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/korean,language?lock=1122",
-   "gallery": [
-    "https://loremflickr.com/800/600/korean,language?lock=1122",
-    "https://loremflickr.com/800/600/korean,language?lock=1123",
-    "https://loremflickr.com/800/600/korean,language?lock=1124"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "1 ай",
@@ -578,6 +568,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1757112000000
     }
+   ],
+   "wiki": [
+    "Hangul"
    ]
   },
   {
@@ -598,12 +591,8 @@
    "stock": 25,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/marketing,smm?lock=1125",
-   "gallery": [
-    "https://loremflickr.com/800/600/marketing,smm?lock=1125",
-    "https://loremflickr.com/800/600/marketing,smm?lock=1126",
-    "https://loremflickr.com/800/600/marketing,smm?lock=1127"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "2 ай",
@@ -644,6 +633,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1757544000000
     }
+   ],
+   "wiki": [
+    "Social media marketing"
    ]
   },
   {
@@ -664,12 +656,8 @@
    "stock": 0,
    "rating": 4.4,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/accounting?lock=1128",
-   "gallery": [
-    "https://loremflickr.com/800/600/accounting?lock=1128",
-    "https://loremflickr.com/800/600/accounting?lock=1129",
-    "https://loremflickr.com/800/600/accounting?lock=1130"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "2 ай",
@@ -710,6 +698,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1758062400000
     }
+   ],
+   "wiki": [
+    "1C Company"
    ]
   },
   {
@@ -730,12 +721,8 @@
    "stock": 50,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/math,school?lock=1131",
-   "gallery": [
-    "https://loremflickr.com/800/600/math,school?lock=1131",
-    "https://loremflickr.com/800/600/math,school?lock=1132",
-    "https://loremflickr.com/800/600/math,school?lock=1133"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "1 ай",
@@ -782,6 +769,10 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1759963200000
     }
+   ],
+   "wiki": [
+    "Standardized test",
+    "Mathematics"
    ]
   },
   {
@@ -802,12 +793,8 @@
    "stock": 15,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/robotics,kids?lock=1134",
-   "gallery": [
-    "https://loremflickr.com/800/600/robotics,kids?lock=1134",
-    "https://loremflickr.com/800/600/robotics,kids?lock=1135",
-    "https://loremflickr.com/800/600/robotics,kids?lock=1136"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "1 ай",
@@ -851,6 +838,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Lego Mindstorms",
+    "Arduino"
    ]
   }
  ]

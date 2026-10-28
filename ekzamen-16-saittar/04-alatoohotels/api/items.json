@@ -1,6 +1,6 @@
 {
  "site": "Ala-Too Hotels",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/resort,pool?lock=401",
-   "gallery": [
-    "https://loremflickr.com/800/600/resort,pool?lock=401",
-    "https://loremflickr.com/800/600/resort,pool?lock=402",
-    "https://loremflickr.com/800/600/resort,pool?lock=403"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★★",
     "rooms": {
@@ -68,6 +64,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1757630400000
     }
+   ],
+   "wiki": [
+    "Cholpon-Ata"
    ]
   },
   {
@@ -88,12 +87,8 @@
    "stock": 10,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/beach,hotel?lock=404",
-   "gallery": [
-    "https://loremflickr.com/800/600/beach,hotel?lock=404",
-    "https://loremflickr.com/800/600/beach,hotel?lock=405",
-    "https://loremflickr.com/800/600/beach,hotel?lock=406"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★",
     "rooms": {
@@ -134,6 +129,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1756075200000
     }
+   ],
+   "wiki": [
+    "Issyk-Kul"
    ]
   },
   {
@@ -154,12 +152,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/yurt,camp?lock=407",
-   "gallery": [
-    "https://loremflickr.com/800/600/yurt,camp?lock=407",
-    "https://loremflickr.com/800/600/yurt,camp?lock=408",
-    "https://loremflickr.com/800/600/yurt,camp?lock=409"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "—",
     "rooms": {
@@ -213,6 +207,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1760136000000
     }
+   ],
+   "wiki": [
+    "Yurt"
    ]
   },
   {
@@ -233,12 +230,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/luxury,hotel?lock=410",
-   "gallery": [
-    "https://loremflickr.com/800/600/luxury,hotel?lock=410",
-    "https://loremflickr.com/800/600/luxury,hotel?lock=411",
-    "https://loremflickr.com/800/600/luxury,hotel?lock=412"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★★★",
     "rooms": {
@@ -292,6 +285,9 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1759790400000
     }
+   ],
+   "wiki": [
+    "Bishkek"
    ]
   },
   {
@@ -312,12 +308,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/boutique,hotel?lock=413",
-   "gallery": [
-    "https://loremflickr.com/800/600/boutique,hotel?lock=413",
-    "https://loremflickr.com/800/600/boutique,hotel?lock=414",
-    "https://loremflickr.com/800/600/boutique,hotel?lock=415"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★★",
     "rooms": {
@@ -358,6 +350,10 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1756766400000
     }
+   ],
+   "wiki": [
+    "Erkindik Boulevard",
+    "Bishkek"
    ]
   },
   {
@@ -378,12 +374,8 @@
    "stock": 20,
    "rating": 4.3,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/hostel,bunk?lock=416",
-   "gallery": [
-    "https://loremflickr.com/800/600/hostel,bunk?lock=416",
-    "https://loremflickr.com/800/600/hostel,bunk?lock=417",
-    "https://loremflickr.com/800/600/hostel,bunk?lock=418"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "—",
     "rooms": {
@@ -430,6 +422,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1759358400000
     }
+   ],
+   "wiki": [
+    "Hostel"
    ]
   },
   {
@@ -450,12 +445,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/chalet,mountain?lock=419",
-   "gallery": [
-    "https://loremflickr.com/800/600/chalet,mountain?lock=419",
-    "https://loremflickr.com/800/600/chalet,mountain?lock=420",
-    "https://loremflickr.com/800/600/chalet,mountain?lock=421"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★★",
     "rooms": {
@@ -497,6 +488,10 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1759876800000
     }
+   ],
+   "wiki": [
+    "Ala Archa National Park",
+    "Chalet"
    ]
   },
   {
@@ -517,12 +512,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/ski,resort?lock=422",
-   "gallery": [
-    "https://loremflickr.com/800/600/ski,resort?lock=422",
-    "https://loremflickr.com/800/600/ski,resort?lock=423",
-    "https://loremflickr.com/800/600/ski,resort?lock=424"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★",
     "rooms": {
@@ -570,6 +561,10 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1759876800000
     }
+   ],
+   "wiki": [
+    "Karakol ski base",
+    "Karakol"
    ]
   },
   {
@@ -590,12 +585,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/forest,lodge?lock=425",
-   "gallery": [
-    "https://loremflickr.com/800/600/forest,lodge?lock=425",
-    "https://loremflickr.com/800/600/forest,lodge?lock=426",
-    "https://loremflickr.com/800/600/forest,lodge?lock=427"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★",
     "rooms": {
@@ -648,6 +639,10 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1759012800000
     }
+   ],
+   "wiki": [
+    "Chon-Kemin National Park",
+    "Chon-Kemin"
    ]
   },
   {
@@ -668,12 +663,8 @@
    "stock": 10,
    "rating": 4.4,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/city,hotel?lock=428",
-   "gallery": [
-    "https://loremflickr.com/800/600/city,hotel?lock=428",
-    "https://loremflickr.com/800/600/city,hotel?lock=429",
-    "https://loremflickr.com/800/600/city,hotel?lock=430"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★",
     "rooms": {
@@ -726,6 +717,10 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1760827200000
     }
+   ],
+   "wiki": [
+    "Sulayman Mountain",
+    "Osh"
    ]
   },
   {
@@ -746,12 +741,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/walnut,forest?lock=431",
-   "gallery": [
-    "https://loremflickr.com/800/600/walnut,forest?lock=431",
-    "https://loremflickr.com/800/600/walnut,forest?lock=432",
-    "https://loremflickr.com/800/600/walnut,forest?lock=433"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "—",
     "rooms": {
@@ -805,6 +796,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1758667200000
     }
+   ],
+   "wiki": [
+    "Arslanbob"
    ]
   },
   {
@@ -825,12 +819,8 @@
    "stock": 0,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/villa,lake?lock=434",
-   "gallery": [
-    "https://loremflickr.com/800/600/villa,lake?lock=434",
-    "https://loremflickr.com/800/600/villa,lake?lock=435",
-    "https://loremflickr.com/800/600/villa,lake?lock=436"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "stars": "★★★★★",
     "rooms": {
@@ -872,6 +862,10 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1758321600000
     }
+   ],
+   "wiki": [
+    "Villa",
+    "Swimming pool"
    ]
   }
  ]

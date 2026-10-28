@@ -1,6 +1,6 @@
 {
  "site": "Ticket.kg",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 120,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/concert,singer?lock=1501",
-   "gallery": [
-    "https://loremflickr.com/800/600/concert,singer?lock=1501",
-    "https://loremflickr.com/800/600/concert,singer?lock=1502",
-    "https://loremflickr.com/800/600/concert,singer?lock=1503"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "15.11.2026",
     "venue": {
@@ -71,6 +67,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1758580800000
     }
+   ],
+   "wiki": [
+    "Concert"
    ]
   },
   {
@@ -91,12 +90,8 @@
    "stock": 80,
    "rating": 4.7,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/jazz,band?lock=1504",
-   "gallery": [
-    "https://loremflickr.com/800/600/jazz,band?lock=1504",
-    "https://loremflickr.com/800/600/jazz,band?lock=1505",
-    "https://loremflickr.com/800/600/jazz,band?lock=1506"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "22.11.2026",
     "venue": "Steppe Hall",
@@ -136,6 +131,9 @@
      "text": "Great quality and friendly support!",
      "date": 1759704000000
     }
+   ],
+   "wiki": [
+    "Jazz"
    ]
   },
   {
@@ -156,12 +154,8 @@
    "stock": 300,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/stadium,concert?lock=1507",
-   "gallery": [
-    "https://loremflickr.com/800/600/stadium,concert?lock=1507",
-    "https://loremflickr.com/800/600/stadium,concert?lock=1508",
-    "https://loremflickr.com/800/600/stadium,concert?lock=1509"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "05.12.2026",
     "venue": {
@@ -205,6 +199,10 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1757716800000
     }
+   ],
+   "wiki": [
+    "Rock festival",
+    "Rock concert"
    ]
   },
   {
@@ -225,12 +223,8 @@
    "stock": 60,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/ballet,dance?lock=1510",
-   "gallery": [
-    "https://loremflickr.com/800/600/ballet,dance?lock=1510",
-    "https://loremflickr.com/800/600/ballet,dance?lock=1511",
-    "https://loremflickr.com/800/600/ballet,dance?lock=1512"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "20.11.2026",
     "venue": {
@@ -262,6 +256,10 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1758408000000
     }
+   ],
+   "wiki": [
+    "Pointe shoe",
+    "Tutu (clothing)"
    ]
   },
   {
@@ -282,12 +280,8 @@
    "stock": 50,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/theatre,drama?lock=1513",
-   "gallery": [
-    "https://loremflickr.com/800/600/theatre,drama?lock=1513",
-    "https://loremflickr.com/800/600/theatre,drama?lock=1514",
-    "https://loremflickr.com/800/600/theatre,drama?lock=1515"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "28.11.2026",
     "venue": {
@@ -320,6 +314,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1755816000000
     }
+   ],
+   "wiki": [
+    "Theatre"
    ]
   },
   {
@@ -340,12 +337,8 @@
    "stock": 70,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/comedy,stage?lock=1516",
-   "gallery": [
-    "https://loremflickr.com/800/600/comedy,stage?lock=1516",
-    "https://loremflickr.com/800/600/comedy,stage?lock=1517",
-    "https://loremflickr.com/800/600/comedy,stage?lock=1518"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "14.11.2026",
     "venue": "Ololo Haus",
@@ -385,6 +378,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1760481600000
     }
+   ],
+   "wiki": [
+    "Microphone"
    ]
   },
   {
@@ -405,12 +401,8 @@
    "stock": 500,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/football,stadium?lock=1519",
-   "gallery": [
-    "https://loremflickr.com/800/600/football,stadium?lock=1519",
-    "https://loremflickr.com/800/600/football,stadium?lock=1520",
-    "https://loremflickr.com/800/600/football,stadium?lock=1521"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "18.11.2026",
     "venue": {
@@ -454,6 +446,10 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Dolen Omurzakov Stadium",
+    "Ball (association football)"
    ]
   },
   {
@@ -474,12 +470,8 @@
    "stock": 150,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/wrestling,fight?lock=1522",
-   "gallery": [
-    "https://loremflickr.com/800/600/wrestling,fight?lock=1522",
-    "https://loremflickr.com/800/600/wrestling,fight?lock=1523",
-    "https://loremflickr.com/800/600/wrestling,fight?lock=1524"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "30.11.2026",
     "venue": {
@@ -523,6 +515,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Boxing glove"
    ]
   },
   {
@@ -543,12 +538,8 @@
    "stock": 200,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/circus?lock=1525",
-   "gallery": [
-    "https://loremflickr.com/800/600/circus?lock=1525",
-    "https://loremflickr.com/800/600/circus?lock=1526",
-    "https://loremflickr.com/800/600/circus?lock=1527"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "23.11.2026",
     "venue": {
@@ -593,6 +584,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1757544000000
     }
+   ],
+   "wiki": [
+    "Circus"
    ]
   },
   {
@@ -613,12 +607,8 @@
    "stock": 0,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/puppet,theatre?lock=1528",
-   "gallery": [
-    "https://loremflickr.com/800/600/puppet,theatre?lock=1528",
-    "https://loremflickr.com/800/600/puppet,theatre?lock=1529",
-    "https://loremflickr.com/800/600/puppet,theatre?lock=1530"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "16.11.2026",
     "venue": {
@@ -662,6 +652,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1758494400000
     }
+   ],
+   "wiki": [
+    "Puppetry"
    ]
   },
   {
@@ -682,12 +675,8 @@
    "stock": 400,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/festival,nomad?lock=1531",
-   "gallery": [
-    "https://loremflickr.com/800/600/festival,nomad?lock=1531",
-    "https://loremflickr.com/800/600/festival,nomad?lock=1532",
-    "https://loremflickr.com/800/600/festival,nomad?lock=1533"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "12.07.2027",
     "venue": {
@@ -720,6 +709,10 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1758840000000
     }
+   ],
+   "wiki": [
+    "Kok-boru",
+    "World Nomad Games"
    ]
   },
   {
@@ -740,12 +733,8 @@
    "stock": 250,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/food,festival?lock=1534",
-   "gallery": [
-    "https://loremflickr.com/800/600/food,festival?lock=1534",
-    "https://loremflickr.com/800/600/food,festival?lock=1535",
-    "https://loremflickr.com/800/600/food,festival?lock=1536"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "date": "06.12.2026",
     "venue": {
@@ -777,6 +766,10 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1760481600000
     }
+   ],
+   "wiki": [
+    "Food festival",
+    "Street food"
    ]
   }
  ]

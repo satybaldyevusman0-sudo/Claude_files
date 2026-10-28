@@ -1,6 +1,6 @@
 {
  "site": "Gul Dukon",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/red,roses?lock=1201",
-   "gallery": [
-    "https://loremflickr.com/800/600/red,roses?lock=1201",
-    "https://loremflickr.com/800/600/red,roses?lock=1202",
-    "https://loremflickr.com/800/600/red,roses?lock=1203"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 51,
     "height": "60 см",
@@ -69,6 +65,9 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1760136000000
     }
+   ],
+   "wiki": [
+    "Rose"
    ]
   },
   {
@@ -89,12 +88,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/pink,roses?lock=1204",
-   "gallery": [
-    "https://loremflickr.com/800/600/pink,roses?lock=1204",
-    "https://loremflickr.com/800/600/pink,roses?lock=1205",
-    "https://loremflickr.com/800/600/pink,roses?lock=1206"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 15,
     "height": "50 см",
@@ -136,6 +131,10 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1758840000000
     }
+   ],
+   "wiki": [
+    "Garden roses",
+    "Rose"
    ]
   },
   {
@@ -156,12 +155,8 @@
    "stock": 3,
    "rating": 5.0,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/roses,luxury?lock=1207",
-   "gallery": [
-    "https://loremflickr.com/800/600/roses,luxury?lock=1207",
-    "https://loremflickr.com/800/600/roses,luxury?lock=1208",
-    "https://loremflickr.com/800/600/roses,luxury?lock=1209"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 101,
     "height": "70 см",
@@ -209,6 +204,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1760481600000
     }
+   ],
+   "wiki": [
+    "Bouquet"
    ]
   },
   {
@@ -229,12 +227,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/tulips?lock=1210",
-   "gallery": [
-    "https://loremflickr.com/800/600/tulips?lock=1210",
-    "https://loremflickr.com/800/600/tulips?lock=1211",
-    "https://loremflickr.com/800/600/tulips?lock=1212"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 25,
     "height": "40 см",
@@ -270,6 +264,9 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1760049600000
     }
+   ],
+   "wiki": [
+    "Tulip"
    ]
   },
   {
@@ -290,12 +287,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/peony?lock=1213",
-   "gallery": [
-    "https://loremflickr.com/800/600/peony?lock=1213",
-    "https://loremflickr.com/800/600/peony?lock=1214",
-    "https://loremflickr.com/800/600/peony?lock=1215"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 11,
     "height": "45 см",
@@ -337,6 +330,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1757976000000
     }
+   ],
+   "wiki": [
+    "Peony"
    ]
   },
   {
@@ -357,12 +353,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/wildflowers?lock=1216",
-   "gallery": [
-    "https://loremflickr.com/800/600/wildflowers?lock=1216",
-    "https://loremflickr.com/800/600/wildflowers?lock=1217",
-    "https://loremflickr.com/800/600/wildflowers?lock=1218"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 19,
     "height": "40 см",
@@ -398,6 +390,10 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1758580800000
     }
+   ],
+   "wiki": [
+    "Matricaria chamomilla",
+    "Wildflower"
    ]
   },
   {
@@ -418,12 +414,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/flower,box?lock=1219",
-   "gallery": [
-    "https://loremflickr.com/800/600/flower,box?lock=1219",
-    "https://loremflickr.com/800/600/flower,box?lock=1220",
-    "https://loremflickr.com/800/600/flower,box?lock=1221"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 21,
     "height": "25 см",
@@ -472,6 +464,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1759272000000
     }
+   ],
+   "wiki": [
+    "Macaron"
    ]
   },
   {
@@ -492,12 +487,8 @@
    "stock": 6,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/hydrangea?lock=1222",
-   "gallery": [
-    "https://loremflickr.com/800/600/hydrangea?lock=1222",
-    "https://loremflickr.com/800/600/hydrangea?lock=1223",
-    "https://loremflickr.com/800/600/hydrangea?lock=1224"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 9,
     "height": "30 см",
@@ -545,6 +536,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1755902400000
     }
+   ],
+   "wiki": [
+    "Hydrangea"
    ]
   },
   {
@@ -565,12 +559,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/monstera?lock=1225",
-   "gallery": [
-    "https://loremflickr.com/800/600/monstera?lock=1225",
-    "https://loremflickr.com/800/600/monstera?lock=1226",
-    "https://loremflickr.com/800/600/monstera?lock=1227"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 1,
     "height": "70 см",
@@ -618,6 +608,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1757976000000
     }
+   ],
+   "wiki": [
+    "Monstera deliciosa"
    ]
   },
   {
@@ -638,12 +631,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/orchid?lock=1228",
-   "gallery": [
-    "https://loremflickr.com/800/600/orchid?lock=1228",
-    "https://loremflickr.com/800/600/orchid?lock=1229",
-    "https://loremflickr.com/800/600/orchid?lock=1230"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": 2,
     "height": "55 см",
@@ -679,6 +668,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1760568000000
     }
+   ],
+   "wiki": [
+    "Phalaenopsis"
    ]
   },
   {
@@ -699,12 +691,8 @@
    "stock": 20,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/teddy,bear?lock=1231",
-   "gallery": [
-    "https://loremflickr.com/800/600/teddy,bear?lock=1231",
-    "https://loremflickr.com/800/600/teddy,bear?lock=1232",
-    "https://loremflickr.com/800/600/teddy,bear?lock=1233"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": "—",
     "height": "40 см",
@@ -738,6 +726,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1760481600000
     }
+   ],
+   "wiki": [
+    "Teddy bear"
    ]
   },
   {
@@ -758,12 +749,8 @@
    "stock": 0,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/chocolate,gift?lock=1234",
-   "gallery": [
-    "https://loremflickr.com/800/600/chocolate,gift?lock=1234",
-    "https://loremflickr.com/800/600/chocolate,gift?lock=1235",
-    "https://loremflickr.com/800/600/chocolate,gift?lock=1236"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "count": "24 даана",
     "height": "—",
@@ -801,6 +788,10 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1759099200000
     }
+   ],
+   "wiki": [
+    "Chocolate truffle",
+    "Bonbon"
    ]
   }
  ]

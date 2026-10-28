@@ -1,6 +1,6 @@
 {
  "site": "Moda.kg",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/coat,woman?lock=601",
-   "gallery": [
-    "https://loremflickr.com/800/600/coat,woman?lock=601",
-    "https://loremflickr.com/800/600/coat,woman?lock=602",
-    "https://loremflickr.com/800/600/coat,woman?lock=603"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "S, M, L",
     "material": {
@@ -78,6 +74,10 @@
      "text": "Great quality and friendly support!",
      "date": 1757284800000
     }
+   ],
+   "wiki": [
+    "Overcoat",
+    "Coat"
    ]
   },
   {
@@ -98,12 +98,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/dress,fashion?lock=604",
-   "gallery": [
-    "https://loremflickr.com/800/600/dress,fashion?lock=604",
-    "https://loremflickr.com/800/600/dress,fashion?lock=605",
-    "https://loremflickr.com/800/600/dress,fashion?lock=606"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "XS – XL",
     "material": {
@@ -144,6 +140,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1759099200000
     }
+   ],
+   "wiki": [
+    "Dress"
    ]
   },
   {
@@ -164,12 +163,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/sweater,knit?lock=607",
-   "gallery": [
-    "https://loremflickr.com/800/600/sweater,knit?lock=607",
-    "https://loremflickr.com/800/600/sweater,knit?lock=608",
-    "https://loremflickr.com/800/600/sweater,knit?lock=609"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "S – L",
     "material": {
@@ -209,6 +204,9 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1758235200000
     }
+   ],
+   "wiki": [
+    "Sweater"
    ]
   },
   {
@@ -229,12 +227,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/suit,man?lock=610",
-   "gallery": [
-    "https://loremflickr.com/800/600/suit,man?lock=610",
-    "https://loremflickr.com/800/600/suit,man?lock=611",
-    "https://loremflickr.com/800/600/suit,man?lock=612"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "46 – 56",
     "material": {
@@ -274,6 +268,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1757371200000
     }
+   ],
+   "wiki": [
+    "Suit"
    ]
   },
   {
@@ -294,12 +291,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/jacket,winter?lock=613",
-   "gallery": [
-    "https://loremflickr.com/800/600/jacket,winter?lock=613",
-    "https://loremflickr.com/800/600/jacket,winter?lock=614",
-    "https://loremflickr.com/800/600/jacket,winter?lock=615"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "M – XXL",
     "material": {
@@ -345,6 +338,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1756075200000
     }
+   ],
+   "wiki": [
+    "Down jacket",
+    "Jacket"
    ]
   },
   {
@@ -365,12 +362,8 @@
    "stock": 50,
    "rating": 4.4,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/tshirt,man?lock=616",
-   "gallery": [
-    "https://loremflickr.com/800/600/tshirt,man?lock=616",
-    "https://loremflickr.com/800/600/tshirt,man?lock=617",
-    "https://loremflickr.com/800/600/tshirt,man?lock=618"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "S – XXL",
     "material": {
@@ -416,6 +409,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1758926400000
     }
+   ],
+   "wiki": [
+    "T-shirt"
    ]
   },
   {
@@ -436,12 +432,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/kids,clothes?lock=619",
-   "gallery": [
-    "https://loremflickr.com/800/600/kids,clothes?lock=619",
-    "https://loremflickr.com/800/600/kids,clothes?lock=620",
-    "https://loremflickr.com/800/600/kids,clothes?lock=621"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "92 – 122",
     "material": {
@@ -481,6 +473,10 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Snowsuit",
+    "Romper suit"
    ]
   },
   {
@@ -501,12 +497,8 @@
    "stock": 10,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/school,uniform?lock=622",
-   "gallery": [
-    "https://loremflickr.com/800/600/school,uniform?lock=622",
-    "https://loremflickr.com/800/600/school,uniform?lock=623",
-    "https://loremflickr.com/800/600/school,uniform?lock=624"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "122 – 164",
     "material": {
@@ -552,6 +544,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1757371200000
     }
+   ],
+   "wiki": [
+    "School uniform"
    ]
   },
   {
@@ -572,12 +567,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/sneakers?lock=625",
-   "gallery": [
-    "https://loremflickr.com/800/600/sneakers?lock=625",
-    "https://loremflickr.com/800/600/sneakers?lock=626",
-    "https://loremflickr.com/800/600/sneakers?lock=627"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "36 – 45",
     "material": {
@@ -623,6 +614,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1760049600000
     }
+   ],
+   "wiki": [
+    "Sneakers"
    ]
   },
   {
@@ -643,12 +637,8 @@
    "stock": 0,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/boots,leather?lock=628",
-   "gallery": [
-    "https://loremflickr.com/800/600/boots,leather?lock=628",
-    "https://loremflickr.com/800/600/boots,leather?lock=629",
-    "https://loremflickr.com/800/600/boots,leather?lock=630"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "39 – 45",
     "material": {
@@ -700,6 +690,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Boot"
    ]
   },
   {
@@ -720,12 +713,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/handbag?lock=631",
-   "gallery": [
-    "https://loremflickr.com/800/600/handbag?lock=631",
-    "https://loremflickr.com/800/600/handbag?lock=632",
-    "https://loremflickr.com/800/600/handbag?lock=633"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "30×22 см",
     "material": {
@@ -765,6 +754,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1758494400000
     }
+   ],
+   "wiki": [
+    "Handbag"
    ]
   },
   {
@@ -785,12 +777,8 @@
    "stock": 25,
    "rating": 5.0,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/felt,hat?lock=634",
-   "gallery": [
-    "https://loremflickr.com/800/600/felt,hat?lock=634",
-    "https://loremflickr.com/800/600/felt,hat?lock=635",
-    "https://loremflickr.com/800/600/felt,hat?lock=636"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "size": "56 – 60",
     "material": {
@@ -843,6 +831,10 @@
      "text": "Great quality and friendly support!",
      "date": 1759617600000
     }
+   ],
+   "wiki": [
+    "Kalpak",
+    "Ak kalpak"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "site": "KitepKana",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/book,old?lock=201",
-   "gallery": [
-    "https://loremflickr.com/800/600/book,old?lock=201",
-    "https://loremflickr.com/800/600/book,old?lock=202",
-    "https://loremflickr.com/800/600/book,old?lock=203"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "Ч. Айтматов",
     "pages": 192,
@@ -66,6 +62,11 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1758580800000
     }
+   ],
+   "wiki": [
+    "The White Ship (Aitmatov novel)",
+    "The White Ship (1976 film)",
+    "Chinghiz Aitmatov"
    ]
   },
   {
@@ -86,12 +87,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/book,library?lock=204",
-   "gallery": [
-    "https://loremflickr.com/800/600/book,library?lock=204",
-    "https://loremflickr.com/800/600/book,library?lock=205",
-    "https://loremflickr.com/800/600/book,library?lock=206"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "Ч. Айтматов",
     "pages": 128,
@@ -131,6 +128,10 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1757457600000
     }
+   ],
+   "wiki": [
+    "Jamilia",
+    "Chinghiz Aitmatov"
    ]
   },
   {
@@ -151,12 +152,8 @@
    "stock": 10,
    "rating": 5.0,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/epic,book?lock=207",
-   "gallery": [
-    "https://loremflickr.com/800/600/epic,book?lock=207",
-    "https://loremflickr.com/800/600/epic,book?lock=208",
-    "https://loremflickr.com/800/600/epic,book?lock=209"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "С. Каралаев (айтуусу)",
     "pages": 420,
@@ -202,6 +199,10 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1759617600000
     }
+   ],
+   "wiki": [
+    "Epic of Manas",
+    "Manas"
    ]
   },
   {
@@ -222,12 +223,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/classic,book?lock=210",
-   "gallery": [
-    "https://loremflickr.com/800/600/classic,book?lock=210",
-    "https://loremflickr.com/800/600/classic,book?lock=211",
-    "https://loremflickr.com/800/600/classic,book?lock=212"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "А. де Сент-Экзюпери",
     "pages": 112,
@@ -266,6 +263,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "The Little Prince"
    ]
   },
   {
@@ -286,12 +286,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/novel,vintage?lock=213",
-   "gallery": [
-    "https://loremflickr.com/800/600/novel,vintage?lock=213",
-    "https://loremflickr.com/800/600/novel,vintage?lock=214",
-    "https://loremflickr.com/800/600/novel,vintage?lock=215"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "М. Булгаков",
     "pages": 480,
@@ -325,6 +321,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1759790400000
     }
+   ],
+   "wiki": [
+    "The Master and Margarita"
    ]
   },
   {
@@ -345,12 +344,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/book,english?lock=216",
-   "gallery": [
-    "https://loremflickr.com/800/600/book,english?lock=216",
-    "https://loremflickr.com/800/600/book,english?lock=217",
-    "https://loremflickr.com/800/600/book,english?lock=218"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "G. Orwell",
     "pages": 328,
@@ -383,6 +378,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1756593600000
     }
+   ],
+   "wiki": [
+    "Nineteen Eighty-Four"
    ]
   },
   {
@@ -403,12 +401,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/business,book?lock=219",
-   "gallery": [
-    "https://loremflickr.com/800/600/business,book?lock=219",
-    "https://loremflickr.com/800/600/business,book?lock=220",
-    "https://loremflickr.com/800/600/business,book?lock=221"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "R. Kiyosaki",
     "pages": 336,
@@ -454,6 +448,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Rich Dad Poor Dad"
    ]
   },
   {
@@ -474,12 +471,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/habit,desk?lock=222",
-   "gallery": [
-    "https://loremflickr.com/800/600/habit,desk?lock=222",
-    "https://loremflickr.com/800/600/habit,desk?lock=223",
-    "https://loremflickr.com/800/600/habit,desk?lock=224"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "J. Clear",
     "pages": 320,
@@ -512,6 +505,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1758753600000
     }
+   ],
+   "wiki": [
+    "Atomic Habits"
    ]
   },
   {
@@ -532,12 +528,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/kids,fairy?lock=225",
-   "gallery": [
-    "https://loremflickr.com/800/600/kids,fairy?lock=225",
-    "https://loremflickr.com/800/600/kids,fairy?lock=226",
-    "https://loremflickr.com/800/600/kids,fairy?lock=227"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": {
      "kg": "Эл оозунан",
@@ -587,6 +579,10 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1759876800000
     }
+   ],
+   "wiki": [
+    "Fairy tale",
+    "Picture book"
    ]
   },
   {
@@ -607,12 +603,8 @@
    "stock": 40,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/alphabet,kids?lock=228",
-   "gallery": [
-    "https://loremflickr.com/800/600/alphabet,kids?lock=228",
-    "https://loremflickr.com/800/600/alphabet,kids?lock=229",
-    "https://loremflickr.com/800/600/alphabet,kids?lock=230"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "Б. Абдыкадыров",
     "pages": 160,
@@ -657,6 +649,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1756161600000
     }
+   ],
+   "wiki": [
+    "Primer (textbook)",
+    "Kyrgyz alphabets"
    ]
   },
   {
@@ -677,12 +673,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/universe,book?lock=231",
-   "gallery": [
-    "https://loremflickr.com/800/600/universe,book?lock=231",
-    "https://loremflickr.com/800/600/universe,book?lock=232",
-    "https://loremflickr.com/800/600/universe,book?lock=233"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "S. Hawking",
     "pages": 256,
@@ -728,6 +720,9 @@
      "text": "Great quality and friendly support!",
      "date": 1756075200000
     }
+   ],
+   "wiki": [
+    "A Brief History of Time"
    ]
   },
   {
@@ -748,12 +743,8 @@
    "stock": 0,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/history,human?lock=234",
-   "gallery": [
-    "https://loremflickr.com/800/600/history,human?lock=234",
-    "https://loremflickr.com/800/600/history,human?lock=235",
-    "https://loremflickr.com/800/600/history,human?lock=236"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "author": "Y. N. Harari",
     "pages": 512,
@@ -786,6 +777,9 @@
      "text": "Great quality and friendly support!",
      "date": 1756852800000
     }
+   ],
+   "wiki": [
+    "Sapiens: A Brief History of Humankind"
    ]
   }
  ]

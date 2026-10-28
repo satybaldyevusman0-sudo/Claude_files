@@ -1,6 +1,6 @@
 {
  "site": "FitZone",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 100,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/gym,card?lock=701",
-   "gallery": [
-    "https://loremflickr.com/800/600/gym,card?lock=701",
-    "https://loremflickr.com/800/600/gym,card?lock=702",
-    "https://loremflickr.com/800/600/gym,card?lock=703"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "30 күн",
@@ -62,6 +58,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1756852800000
     }
+   ],
+   "wiki": [
+    "Gym"
    ]
   },
   {
@@ -82,12 +81,8 @@
    "stock": 50,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/gym,weights?lock=704",
-   "gallery": [
-    "https://loremflickr.com/800/600/gym,weights?lock=704",
-    "https://loremflickr.com/800/600/gym,weights?lock=705",
-    "https://loremflickr.com/800/600/gym,weights?lock=706"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "12 ай",
@@ -140,6 +135,9 @@
      "text": "Great quality and friendly support!",
      "date": 1757457600000
     }
+   ],
+   "wiki": [
+    "Weight training"
    ]
   },
   {
@@ -160,12 +158,8 @@
    "stock": 100,
    "rating": 4.6,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/student,gym?lock=707",
-   "gallery": [
-    "https://loremflickr.com/800/600/student,gym?lock=707",
-    "https://loremflickr.com/800/600/student,gym?lock=708",
-    "https://loremflickr.com/800/600/student,gym?lock=709"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "30 күн",
@@ -201,6 +195,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Physical fitness"
    ]
   },
   {
@@ -221,12 +218,8 @@
    "stock": 30,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/personal,trainer?lock=710",
-   "gallery": [
-    "https://loremflickr.com/800/600/personal,trainer?lock=710",
-    "https://loremflickr.com/800/600/personal,trainer?lock=711",
-    "https://loremflickr.com/800/600/personal,trainer?lock=712"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": "60 мүн",
     "visits": "1",
@@ -266,6 +259,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1758235200000
     }
+   ],
+   "wiki": [
+    "Personal trainer"
    ]
   },
   {
@@ -286,12 +282,8 @@
    "stock": 15,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/coach,fitness?lock=713",
-   "gallery": [
-    "https://loremflickr.com/800/600/coach,fitness?lock=713",
-    "https://loremflickr.com/800/600/coach,fitness?lock=714",
-    "https://loremflickr.com/800/600/coach,fitness?lock=715"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "2 ай",
@@ -330,6 +322,9 @@
      "text": "Great quality and friendly support!",
      "date": 1757544000000
     }
+   ],
+   "wiki": [
+    "Strength training"
    ]
   },
   {
@@ -350,12 +345,8 @@
    "stock": 20,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/yoga,class?lock=716",
-   "gallery": [
-    "https://loremflickr.com/800/600/yoga,class?lock=716",
-    "https://loremflickr.com/800/600/yoga,class?lock=717",
-    "https://loremflickr.com/800/600/yoga,class?lock=718"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": "75 мүн",
     "visits": "1",
@@ -395,6 +386,10 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1758408000000
     }
+   ],
+   "wiki": [
+    "Yoga as exercise",
+    "Yoga"
    ]
   },
   {
@@ -415,12 +410,8 @@
    "stock": 12,
    "rating": 4.7,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/boxing,gloves?lock=719",
-   "gallery": [
-    "https://loremflickr.com/800/600/boxing,gloves?lock=719",
-    "https://loremflickr.com/800/600/boxing,gloves?lock=720",
-    "https://loremflickr.com/800/600/boxing,gloves?lock=721"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": "60 мүн",
     "visits": "1",
@@ -454,6 +445,9 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1757976000000
     }
+   ],
+   "wiki": [
+    "Boxing"
    ]
   },
   {
@@ -474,12 +468,8 @@
    "stock": 15,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/crossfit?lock=722",
-   "gallery": [
-    "https://loremflickr.com/800/600/crossfit?lock=722",
-    "https://loremflickr.com/800/600/crossfit?lock=723",
-    "https://loremflickr.com/800/600/crossfit?lock=724"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": "50 мүн",
     "visits": "1",
@@ -507,6 +497,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1756766400000
     }
+   ],
+   "wiki": [
+    "CrossFit"
    ]
   },
   {
@@ -527,12 +520,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/dumbbell?lock=725",
-   "gallery": [
-    "https://loremflickr.com/800/600/dumbbell?lock=725",
-    "https://loremflickr.com/800/600/dumbbell?lock=726",
-    "https://loremflickr.com/800/600/dumbbell?lock=727"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": "—",
     "visits": "—",
@@ -568,6 +557,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1756852800000
     }
+   ],
+   "wiki": [
+    "Dumbbell"
    ]
   },
   {
@@ -588,12 +580,8 @@
    "stock": 35,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/yoga,mat?lock=728",
-   "gallery": [
-    "https://loremflickr.com/800/600/yoga,mat?lock=728",
-    "https://loremflickr.com/800/600/yoga,mat?lock=729",
-    "https://loremflickr.com/800/600/yoga,mat?lock=730"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": "—",
     "visits": "—",
@@ -623,6 +611,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1757803200000
     }
+   ],
+   "wiki": [
+    "Yoga mat"
    ]
   },
   {
@@ -643,12 +634,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/protein,powder?lock=731",
-   "gallery": [
-    "https://loremflickr.com/800/600/protein,powder?lock=731",
-    "https://loremflickr.com/800/600/protein,powder?lock=732",
-    "https://loremflickr.com/800/600/protein,powder?lock=733"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": {
      "kg": "33 порция",
@@ -682,6 +669,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1759358400000
     }
+   ],
+   "wiki": [
+    "Whey protein"
    ]
   },
   {
@@ -702,12 +692,8 @@
    "stock": 0,
    "rating": 4.3,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/protein,bar?lock=734",
-   "gallery": [
-    "https://loremflickr.com/800/600/protein,bar?lock=734",
-    "https://loremflickr.com/800/600/protein,bar?lock=735",
-    "https://loremflickr.com/800/600/protein,bar?lock=736"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "duration": "—",
     "visits": "—",
@@ -737,6 +723,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1757544000000
     }
+   ],
+   "wiki": [
+    "Protein bar"
    ]
   }
  ]

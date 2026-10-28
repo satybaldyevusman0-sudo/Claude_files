@@ -20,7 +20,7 @@ const CONFIG = {
     "en": "Bookstore and reading club"
   },
   "defaultLang": "kg",
-  "dataVersion": "1.0",
+  "dataVersion": "2.1",
   "API_URL": "",
   "GOOGLE_CLIENT_ID": "",
   "TELEGRAM_BOT_TOKEN": "",
@@ -42,7 +42,10 @@ const CONFIG = {
         "ru": "5000+ книг на кыргызском, русском и английском.",
         "en": "5000+ books in Kyrgyz, Russian and English."
       },
-      "img": "https://loremflickr.com/1600/900/library,books?lock=290"
+      "wiki": [
+        "Library"
+      ],
+      "img": ""
     },
     {
       "title": {
@@ -55,7 +58,11 @@ const CONFIG = {
         "ru": "Встречи с авторами и обсуждения. Бронируйте место!",
         "en": "Meet authors and discuss. Book your seat!"
       },
-      "img": "https://loremflickr.com/1600/900/reading,cafe?lock=291"
+      "wiki": [
+        "Bookselling",
+        "Reading"
+      ],
+      "img": ""
     },
     {
       "title": {
@@ -68,7 +75,11 @@ const CONFIG = {
         "ru": "Сказки с картинками и учебники со скидкой.",
         "en": "Picture tales and textbooks on sale."
       },
-      "img": "https://loremflickr.com/1600/900/children,book?lock=292"
+      "wiki": [
+        "Children's literature",
+        "Picture book"
+      ],
+      "img": ""
     }
   ],
   "categories": [
@@ -197,7 +208,11 @@ const CONFIG = {
       "ru": "В каждый дом — книгу!",
       "en": "A book for every home!"
     },
-    "img": "https://loremflickr.com/900/700/bookstore?lock=299"
+    "wiki": [
+      "Bookselling",
+      "Library"
+    ],
+    "img": ""
   },
   "faq": [],
   "team": [
@@ -207,8 +222,7 @@ const CONFIG = {
         "kg": "Негиздөөчү",
         "ru": "Основатель",
         "en": "Founder"
-      },
-      "img": 9
+      }
     },
     {
       "name": "Айгерим Токтосунова",
@@ -216,8 +230,7 @@ const CONFIG = {
         "kg": "Менеджер",
         "ru": "Менеджер",
         "en": "Manager"
-      },
-      "img": 10
+      }
     },
     {
       "name": "Нурсултан Абдыкадыров",
@@ -225,8 +238,7 @@ const CONFIG = {
         "kg": "Дизайнер",
         "ru": "Дизайнер",
         "en": "Designer"
-      },
-      "img": 11
+      }
     },
     {
       "name": "Мээрим Жунусова",
@@ -234,8 +246,7 @@ const CONFIG = {
         "kg": "Кардарлар бөлүмү",
         "ru": "Поддержка клиентов",
         "en": "Customer support"
-      },
-      "img": 12
+      }
     }
   ],
   "stats": [
@@ -663,6 +674,53 @@ const API = {
   },
 };
 
+/* Wikipedia API — ар бир товардын өзүнүн сүрөтүн табат (kesh: localStorage) */
+const WikiImg = {
+  cache: store.get('wikiCache', {}),
+  api: 'https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&prop=pageimages&piprop=thumbnail&pithumbsize=1000',
+  async batch(titles) {
+    const need = [...new Set(titles)].filter(x => !(x in this.cache));
+    for (let i = 0; i < need.length; i += 40) {
+      const chunk = need.slice(i, i + 40);
+      try {
+        const j = await (await fetch(this.api + '&redirects=1&titles=' + encodeURIComponent(chunk.join('|')))).json();
+        const q = j.query || {}, map = {}, byTitle = {};
+        (q.normalized || []).forEach(n => map[n.from] = n.to);
+        (q.redirects || []).forEach(r => map[r.from] = r.to);
+        Object.values(q.pages || {}).forEach(p => byTitle[p.title] = p.thumbnail ? p.thumbnail.source : null);
+        chunk.forEach(x => { let k = x; for (let n = 0; n < 3 && map[k]; n++) k = map[k]; this.cache[x] = byTitle[k] ?? null; });
+      } catch (e) { return; }
+    }
+    store.set('wikiCache', this.cache);
+  },
+  async search(q) {
+    const key = 'search:' + q; if (key in this.cache) return this.cache[key];
+    try {
+      const j = await (await fetch(this.api + '&generator=search&gsrlimit=3&gsrsearch=' + encodeURIComponent(q))).json();
+      const p = Object.values(j.query?.pages || {}).sort((a, b) => a.index - b.index).find(p => p.thumbnail);
+      this.cache[key] = p ? p.thumbnail.source : null; store.set('wikiCache', this.cache); return this.cache[key];
+    } catch (e) { return null; }
+  },
+  first(list) { for (const x of list || []) if (this.cache[x]) return this.cache[x]; return ''; },
+};
+const heroImg = h => WikiImg.first(h.wiki) || h.img || '';
+async function resolveImages() {
+  const todo = DB.items().filter(i => i.wiki && i.wiki.length && !i.imgOk);
+  const extra = CONFIG.hero.flatMap(h => h.wiki || []).concat(CONFIG.about.wiki || []);
+  await WikiImg.batch(todo.flatMap(i => i.wiki).concat(extra));
+  const found = {};
+  for (const it of todo) {
+    let url = WikiImg.first(it.wiki);
+    if (!url) url = await WikiImg.search(it.wiki[0]);
+    if (url) found[it.id] = [...new Set([url, ...it.wiki.map(x => WikiImg.cache[x]).filter(Boolean)])];
+  }
+  $$('.slide').forEach((el, i) => { const u = CONFIG.hero[i] && heroImg(CONFIG.hero[i]); if (u) el.style.setProperty('--img', `url('${u}')`); });
+  if (Object.keys(found).length) {
+    const all = DB.items(); all.forEach(x => { if (found[x.id]) { x.img = found[x.id][0]; x.gallery = found[x.id]; x.imgOk = true; } }); DB.saveItems(all);
+    if (!/#\/(checkout|booking|login|register|admin)/.test(location.hash)) router();
+  }
+}
+
 const DB = {
   items: () => store.get('items', []),
   saveItems: v => store.set('items', v),
@@ -925,7 +983,10 @@ function Stars(v, size = '') { const full = Math.round(v || 0); return `<span cl
 function StarInput(name = 'rating', val = 5) { return `<div class="star-input" data-name="${name}">${[5, 4, 3, 2, 1].map(i => `<input type="radio" id="${name}${i}" name="${name}" value="${i}" ${i === val ? 'checked' : ''}><label for="${name}${i}">★</label>`).join('')}</div>`; }
 
 /* [5] Img — сүрөт (ката болсо запастагы сүрөт) */
-function Img(src, alt = '', seed = 'x', cls = '') { return `<img class="${cls}" src="${esc(src)}" alt="${esc(alt)}" loading="lazy" onerror="this.onerror=null;this.src='https://picsum.photos/seed/${encodeURIComponent(CONFIG.slug + seed)}/640/480'">`; }
+function Img(src, alt = '', seed = 'x', cls = '') {
+  if (!src) return `<span class="img-ph ${cls}">${CONFIG.logo}</span>`;
+  return `<img class="${cls}" src="${esc(src)}" alt="${esc(alt)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.style.opacity=0">`;
+}
 
 /* [6] Skeleton — жүктөлүү учурундагы карточкалар */
 function SkeletonCard() { return `<div class="card skeleton"><div class="sk sk-img"></div><div class="card-body"><div class="sk sk-line w40"></div><div class="sk sk-line"></div><div class="sk sk-line w60"></div><div class="sk sk-btn"></div></div></div>`; }
@@ -1170,7 +1231,7 @@ document.addEventListener('click', e => {
 /* [27] HeroSlider */
 function HeroSlider() {
   return `<section class="hero"><div class="slides" id="slides">${CONFIG.hero.map((s, i) => `
-    <div class="slide ${i === 0 ? 'active' : ''}" style="--img:url('${esc(s.img)}')">
+    <div class="slide ${i === 0 ? 'active' : ''}" style="--img:url('${esc(heroImg(s))}')">
       <div class="container slide-in"><span class="hero-tag">${CONFIG.logo} ${esc(CONFIG.siteName)}</span>
       <h1>${esc(loc(s.title))}</h1><p>${esc(loc(s.text))}</p>
       <div class="row"><a href="#/catalog" class="btn btn-primary btn-lg">${t('catalog')} →</a><a href="#/about" class="btn btn-light btn-lg">${t('about')}</a></div></div></div>`).join('')}</div>
@@ -1599,9 +1660,9 @@ function OrderCard(o) {
 function About(view) {
   view.innerHTML = `<section class="container page">${Breadcrumbs([[t('about')]])}
   <div class="about-hero"><div><h1>${CONFIG.logo} ${esc(CONFIG.siteName)}</h1><p class="lead">${esc(loc(CONFIG.about.text))}</p>
-  <div class="stats small">${[[DB.items().length, 'statItems'], [CONFIG.stats[0], 'statClients'], [CONFIG.stats[2], 'statYears']].map(([v, k]) => `<div class="stat"><b data-to="${v}">0</b><span>${t(k)}</span></div>`).join('')}</div></div>${Img(CONFIG.about.img, '', 'about')}</div>
+  <div class="stats small">${[[DB.items().length, 'statItems'], [CONFIG.stats[0], 'statClients'], [CONFIG.stats[2], 'statYears']].map(([v, k]) => `<div class="stat"><b data-to="${v}">0</b><span>${t(k)}</span></div>`).join('')}</div></div>${Img(heroImg(CONFIG.about), '', 'about')}</div>
   <h2>${t('whyUs')}</h2><div class="features">${[['🚀', 1], ['🏅', 2], ['🔒', 3], ['💬', 4]].map(([i, n]) => `<div class="feature"><span>${i}</span><h3>${t('feat' + n + 't')}</h3><p>${t('feat' + n + 'd')}</p></div>`).join('')}</div>
-  <h2>👥 ${t('about')}</h2><div class="team">${CONFIG.team.map((m, i) => `<div class="member"><img src="https://i.pravatar.cc/200?img=${m.img}" alt="" loading="lazy" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=${encodeURIComponent(m.name)}'"><b>${esc(m.name)}</b><small>${esc(loc(m.role))}</small></div>`).join('')}</div></section>`;
+  <h2>👥 ${t('about')}</h2><div class="team">${CONFIG.team.map(m => `<div class="member"><span class="member-ava">${esc(m.name.split(' ').map(w => w[0]).join('').slice(0, 2))}</span><b>${esc(m.name)}</b><small>${esc(loc(m.role))}</small></div>`).join('')}</div></section>`;
   animateCounters(view);
 }
 /* [47] CONTACTS + Map + форма */
@@ -1858,6 +1919,7 @@ async function boot() {
   window.addEventListener('hashchange', router);
   await router();
   initFirebaseRealtime();
+  resolveImages();
   API.rates().then(ok => { if (ok) { const c = $('#rateChip'); if (c) c.textContent = `💱 1$ = ${(1 / state.rates.USD).toFixed(2)} сом · live`; } });
   document.getElementById('preloader')?.remove();
 }

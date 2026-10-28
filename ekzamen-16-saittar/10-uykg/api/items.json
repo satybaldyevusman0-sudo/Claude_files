@@ -1,6 +1,6 @@
 {
  "site": "Uy.kg",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 1,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/apartment,living?lock=1001",
-   "gallery": [
-    "https://loremflickr.com/800/600/apartment,living?lock=1001",
-    "https://loremflickr.com/800/600/apartment,living?lock=1002",
-    "https://loremflickr.com/800/600/apartment,living?lock=1003"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 2,
     "area": "68 м²",
@@ -76,6 +72,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1756075200000
     }
+   ],
+   "wiki": [
+    "Apartment"
    ]
   },
   {
@@ -96,12 +95,8 @@
    "stock": 1,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/flat,kitchen?lock=1004",
-   "gallery": [
-    "https://loremflickr.com/800/600/flat,kitchen?lock=1004",
-    "https://loremflickr.com/800/600/flat,kitchen?lock=1005",
-    "https://loremflickr.com/800/600/flat,kitchen?lock=1006"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 1,
     "area": "42 м²",
@@ -139,6 +134,10 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Studio apartment",
+    "Apartment"
    ]
   },
   {
@@ -159,12 +158,8 @@
    "stock": 1,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/penthouse?lock=1007",
-   "gallery": [
-    "https://loremflickr.com/800/600/penthouse?lock=1007",
-    "https://loremflickr.com/800/600/penthouse?lock=1008",
-    "https://loremflickr.com/800/600/penthouse?lock=1009"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 3,
     "area": "105 м²",
@@ -214,6 +209,9 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1757889600000
     }
+   ],
+   "wiki": [
+    "Living room"
    ]
   },
   {
@@ -234,12 +232,8 @@
    "stock": 1,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/house,garden?lock=1010",
-   "gallery": [
-    "https://loremflickr.com/800/600/house,garden?lock=1010",
-    "https://loremflickr.com/800/600/house,garden?lock=1011",
-    "https://loremflickr.com/800/600/house,garden?lock=1012"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 5,
     "area": "220 м²",
@@ -288,6 +282,9 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1760395200000
     }
+   ],
+   "wiki": [
+    "House"
    ]
   },
   {
@@ -308,12 +305,8 @@
    "stock": 1,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/cottage?lock=1013",
-   "gallery": [
-    "https://loremflickr.com/800/600/cottage?lock=1013",
-    "https://loremflickr.com/800/600/cottage?lock=1014",
-    "https://loremflickr.com/800/600/cottage?lock=1015"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 4,
     "area": "140 м²",
@@ -362,6 +355,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1760654400000
     }
+   ],
+   "wiki": [
+    "Cottage"
    ]
   },
   {
@@ -382,12 +378,8 @@
    "stock": 2,
    "rating": 4.4,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/studio,apartment?lock=1016",
-   "gallery": [
-    "https://loremflickr.com/800/600/studio,apartment?lock=1016",
-    "https://loremflickr.com/800/600/studio,apartment?lock=1017",
-    "https://loremflickr.com/800/600/studio,apartment?lock=1018"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 1,
     "area": "30 м²",
@@ -430,6 +422,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1759272000000
     }
+   ],
+   "wiki": [
+    "Studio apartment"
    ]
   },
   {
@@ -450,12 +445,8 @@
    "stock": 1,
    "rating": 4.7,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/apartment,modern?lock=1019",
-   "gallery": [
-    "https://loremflickr.com/800/600/apartment,modern?lock=1019",
-    "https://loremflickr.com/800/600/apartment,modern?lock=1020",
-    "https://loremflickr.com/800/600/apartment,modern?lock=1021"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 2,
     "area": "75 м²",
@@ -493,6 +484,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1757371200000
     }
+   ],
+   "wiki": [
+    "Penthouse apartment",
+    "Apartment"
    ]
   },
   {
@@ -513,12 +508,8 @@
    "stock": 3,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/house,daily?lock=1022",
-   "gallery": [
-    "https://loremflickr.com/800/600/house,daily?lock=1022",
-    "https://loremflickr.com/800/600/house,daily?lock=1023",
-    "https://loremflickr.com/800/600/house,daily?lock=1024"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 4,
     "area": "180 м²",
@@ -555,6 +546,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1759963200000
     }
+   ],
+   "wiki": [
+    "Swimming pool"
    ]
   },
   {
@@ -575,12 +569,8 @@
    "stock": 1,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/office,building?lock=1025",
-   "gallery": [
-    "https://loremflickr.com/800/600/office,building?lock=1025",
-    "https://loremflickr.com/800/600/office,building?lock=1026",
-    "https://loremflickr.com/800/600/office,building?lock=1027"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 6,
     "area": "250 м²",
@@ -617,6 +607,9 @@
      "text": "Great quality and friendly support!",
      "date": 1760827200000
     }
+   ],
+   "wiki": [
+    "Office"
    ]
   },
   {
@@ -637,12 +630,8 @@
    "stock": 1,
    "rating": 4.3,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/shop,store?lock=1028",
-   "gallery": [
-    "https://loremflickr.com/800/600/shop,store?lock=1028",
-    "https://loremflickr.com/800/600/shop,store?lock=1029",
-    "https://loremflickr.com/800/600/shop,store?lock=1030"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": 2,
     "area": "60 м²",
@@ -679,6 +668,10 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1756161600000
     }
+   ],
+   "wiki": [
+    "Dordoy Bazaar",
+    "Retail"
    ]
   },
   {
@@ -699,12 +692,8 @@
    "stock": 1,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/field,land?lock=1031",
-   "gallery": [
-    "https://loremflickr.com/800/600/field,land?lock=1031",
-    "https://loremflickr.com/800/600/field,land?lock=1032",
-    "https://loremflickr.com/800/600/field,land?lock=1033"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": "—",
     "area": "8 сотых",
@@ -743,6 +732,10 @@
      "text": "Great quality and friendly support!",
      "date": 1760740800000
     }
+   ],
+   "wiki": [
+    "Plot (land)",
+    "Land lot"
    ]
   },
   {
@@ -763,12 +756,8 @@
    "stock": 0,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/lake,land?lock=1034",
-   "gallery": [
-    "https://loremflickr.com/800/600/lake,land?lock=1034",
-    "https://loremflickr.com/800/600/lake,land?lock=1035",
-    "https://loremflickr.com/800/600/lake,land?lock=1036"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "rooms": "—",
     "area": "15 сотых",
@@ -808,6 +797,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1758062400000
     }
+   ],
+   "wiki": [
+    "Issyk-Kul"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "site": "Pet Dostum",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/dog,food?lock=1401",
-   "gallery": [
-    "https://loremflickr.com/800/600/dog,food?lock=1401",
-    "https://loremflickr.com/800/600/dog,food?lock=1402",
-    "https://loremflickr.com/800/600/dog,food?lock=1403"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Royal Canin",
     "weight": "4 кг",
@@ -59,6 +55,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1756334400000
     }
+   ],
+   "wiki": [
+    "Dog food"
    ]
   },
   {
@@ -79,12 +78,8 @@
    "stock": 40,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/dog,toy?lock=1404",
-   "gallery": [
-    "https://loremflickr.com/800/600/dog,toy?lock=1404",
-    "https://loremflickr.com/800/600/dog,toy?lock=1405",
-    "https://loremflickr.com/800/600/dog,toy?lock=1406"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Kong",
     "weight": "150 г",
@@ -112,6 +107,10 @@
      "text": "Great quality and friendly support!",
      "date": 1756852800000
     }
+   ],
+   "wiki": [
+    "Dog toy",
+    "Kong Company"
    ]
   },
   {
@@ -132,12 +131,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/dog,collar?lock=1407",
-   "gallery": [
-    "https://loremflickr.com/800/600/dog,collar?lock=1407",
-    "https://loremflickr.com/800/600/dog,collar?lock=1408",
-    "https://loremflickr.com/800/600/dog,collar?lock=1409"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "PetSafe",
     "weight": "50 г",
@@ -171,6 +166,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1757544000000
     }
+   ],
+   "wiki": [
+    "Dog collar"
    ]
   },
   {
@@ -191,12 +189,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/cat,food?lock=1410",
-   "gallery": [
-    "https://loremflickr.com/800/600/cat,food?lock=1410",
-    "https://loremflickr.com/800/600/cat,food?lock=1411",
-    "https://loremflickr.com/800/600/cat,food?lock=1412"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Purina",
     "weight": "3 кг",
@@ -231,6 +225,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1758840000000
     }
+   ],
+   "wiki": [
+    "Cat food"
    ]
   },
   {
@@ -251,12 +248,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/cat,tree?lock=1413",
-   "gallery": [
-    "https://loremflickr.com/800/600/cat,tree?lock=1413",
-    "https://loremflickr.com/800/600/cat,tree?lock=1414",
-    "https://loremflickr.com/800/600/cat,tree?lock=1415"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Trixie",
     "weight": "9 кг",
@@ -296,6 +289,9 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1757025600000
     }
+   ],
+   "wiki": [
+    "Cat tree"
    ]
   },
   {
@@ -316,12 +312,8 @@
    "stock": 60,
    "rating": 4.4,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/cat,litter?lock=1416",
-   "gallery": [
-    "https://loremflickr.com/800/600/cat,litter?lock=1416",
-    "https://loremflickr.com/800/600/cat,litter?lock=1417",
-    "https://loremflickr.com/800/600/cat,litter?lock=1418"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "N1",
     "weight": "2.2 кг",
@@ -365,6 +357,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1760136000000
     }
+   ],
+   "wiki": [
+    "Litter box",
+    "Cat litter"
    ]
   },
   {
@@ -385,12 +381,8 @@
    "stock": 8,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/aquarium,fish?lock=1419",
-   "gallery": [
-    "https://loremflickr.com/800/600/aquarium,fish?lock=1419",
-    "https://loremflickr.com/800/600/aquarium,fish?lock=1420",
-    "https://loremflickr.com/800/600/aquarium,fish?lock=1421"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Aquael",
     "weight": "12 кг",
@@ -420,6 +412,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1759876800000
     }
+   ],
+   "wiki": [
+    "Aquarium"
    ]
   },
   {
@@ -440,12 +435,8 @@
    "stock": 10,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/parrot,cage?lock=1422",
-   "gallery": [
-    "https://loremflickr.com/800/600/parrot,cage?lock=1422",
-    "https://loremflickr.com/800/600/parrot,cage?lock=1423",
-    "https://loremflickr.com/800/600/parrot,cage?lock=1424"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Ferplast",
     "weight": "4 кг",
@@ -481,6 +472,9 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1756248000000
     }
+   ],
+   "wiki": [
+    "Budgerigar"
    ]
   },
   {
@@ -501,12 +495,8 @@
    "stock": 30,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/vet,clinic?lock=1425",
-   "gallery": [
-    "https://loremflickr.com/800/600/vet,clinic?lock=1425",
-    "https://loremflickr.com/800/600/vet,clinic?lock=1426",
-    "https://loremflickr.com/800/600/vet,clinic?lock=1427"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "—",
     "weight": "—",
@@ -540,6 +530,9 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1756334400000
     }
+   ],
+   "wiki": [
+    "Veterinarian"
    ]
   },
   {
@@ -560,12 +553,8 @@
    "stock": 30,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/vaccine,dog?lock=1428",
-   "gallery": [
-    "https://loremflickr.com/800/600/vaccine,dog?lock=1428",
-    "https://loremflickr.com/800/600/vaccine,dog?lock=1429",
-    "https://loremflickr.com/800/600/vaccine,dog?lock=1430"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "Nobivac",
     "weight": "—",
@@ -599,6 +588,10 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Veterinary medicine",
+    "Vaccination of dogs"
    ]
   },
   {
@@ -619,12 +612,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/dog,grooming?lock=1431",
-   "gallery": [
-    "https://loremflickr.com/800/600/dog,grooming?lock=1431",
-    "https://loremflickr.com/800/600/dog,grooming?lock=1432",
-    "https://loremflickr.com/800/600/dog,grooming?lock=1433"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "—",
     "weight": "—",
@@ -656,6 +645,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1759358400000
     }
+   ],
+   "wiki": [
+    "Dog grooming"
    ]
   },
   {
@@ -676,12 +668,8 @@
    "stock": 0,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/cat,grooming?lock=1434",
-   "gallery": [
-    "https://loremflickr.com/800/600/cat,grooming?lock=1434",
-    "https://loremflickr.com/800/600/cat,grooming?lock=1435",
-    "https://loremflickr.com/800/600/cat,grooming?lock=1436"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "brand": "—",
     "weight": "—",
@@ -721,6 +709,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1758321600000
     }
+   ],
+   "wiki": [
+    "Cat"
    ]
   }
  ]

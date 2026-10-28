@@ -1,6 +1,6 @@
 {
  "site": "GameZone",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/playstation,console?lock=1601",
-   "gallery": [
-    "https://loremflickr.com/800/600/playstation,console?lock=1601",
-    "https://loremflickr.com/800/600/playstation,console?lock=1602",
-    "https://loremflickr.com/800/600/playstation,console?lock=1603"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PS5",
     "genre": "—",
@@ -67,6 +63,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1757112000000
     }
+   ],
+   "wiki": [
+    "PlayStation 5"
    ]
   },
   {
@@ -87,12 +86,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/xbox,controller?lock=1604",
-   "gallery": [
-    "https://loremflickr.com/800/600/xbox,controller?lock=1604",
-    "https://loremflickr.com/800/600/xbox,controller?lock=1605",
-    "https://loremflickr.com/800/600/xbox,controller?lock=1606"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "Xbox",
     "genre": "—",
@@ -132,6 +127,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1757976000000
     }
+   ],
+   "wiki": [
+    "Xbox Series X and Series S"
    ]
   },
   {
@@ -152,12 +150,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/nintendo,switch?lock=1607",
-   "gallery": [
-    "https://loremflickr.com/800/600/nintendo,switch?lock=1607",
-    "https://loremflickr.com/800/600/nintendo,switch?lock=1608",
-    "https://loremflickr.com/800/600/nintendo,switch?lock=1609"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "Switch",
     "genre": "—",
@@ -197,6 +191,9 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Nintendo Switch"
    ]
   },
   {
@@ -217,12 +214,8 @@
    "stock": 30,
    "rating": 4.5,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/football,game?lock=1610",
-   "gallery": [
-    "https://loremflickr.com/800/600/football,game?lock=1610",
-    "https://loremflickr.com/800/600/football,game?lock=1611",
-    "https://loremflickr.com/800/600/football,game?lock=1612"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PS5 / Xbox",
     "genre": {
@@ -250,6 +243,10 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1760740800000
     }
+   ],
+   "wiki": [
+    "EA Sports FC 26",
+    "EA Sports FC"
    ]
   },
   {
@@ -270,12 +267,8 @@
    "stock": 15,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/adventure,game?lock=1613",
-   "gallery": [
-    "https://loremflickr.com/800/600/adventure,game?lock=1613",
-    "https://loremflickr.com/800/600/adventure,game?lock=1614",
-    "https://loremflickr.com/800/600/adventure,game?lock=1615"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PS5",
     "genre": {
@@ -303,6 +296,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Ghost of Yōtei"
    ]
   },
   {
@@ -323,12 +319,8 @@
    "stock": 20,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/racing,game?lock=1616",
-   "gallery": [
-    "https://loremflickr.com/800/600/racing,game?lock=1616",
-    "https://loremflickr.com/800/600/racing,game?lock=1617",
-    "https://loremflickr.com/800/600/racing,game?lock=1618"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PS5",
     "genre": {
@@ -368,6 +360,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1757976000000
     }
+   ],
+   "wiki": [
+    "Gran Turismo 7"
    ]
   },
   {
@@ -388,12 +383,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/gaming,keyboard?lock=1619",
-   "gallery": [
-    "https://loremflickr.com/800/600/gaming,keyboard?lock=1619",
-    "https://loremflickr.com/800/600/gaming,keyboard?lock=1620",
-    "https://loremflickr.com/800/600/gaming,keyboard?lock=1621"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PC",
     "genre": "—",
@@ -433,6 +424,10 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1756161600000
     }
+   ],
+   "wiki": [
+    "Gaming keyboard",
+    "Computer keyboard"
    ]
   },
   {
@@ -453,12 +448,8 @@
    "stock": 25,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/gaming,mouse?lock=1622",
-   "gallery": [
-    "https://loremflickr.com/800/600/gaming,mouse?lock=1622",
-    "https://loremflickr.com/800/600/gaming,mouse?lock=1623",
-    "https://loremflickr.com/800/600/gaming,mouse?lock=1624"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PC",
     "genre": "—",
@@ -498,6 +489,9 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1756680000000
     }
+   ],
+   "wiki": [
+    "Computer mouse"
    ]
   },
   {
@@ -518,12 +512,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/gaming,headset?lock=1625",
-   "gallery": [
-    "https://loremflickr.com/800/600/gaming,headset?lock=1625",
-    "https://loremflickr.com/800/600/gaming,headset?lock=1626",
-    "https://loremflickr.com/800/600/gaming,headset?lock=1627"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PC / PS5",
     "genre": "—",
@@ -563,6 +553,10 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1756852800000
     }
+   ],
+   "wiki": [
+    "Headset (audio)",
+    "Headphones"
    ]
   },
   {
@@ -583,12 +577,8 @@
    "stock": 40,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/esports,arena?lock=1628",
-   "gallery": [
-    "https://loremflickr.com/800/600/esports,arena?lock=1628",
-    "https://loremflickr.com/800/600/esports,arena?lock=1629",
-    "https://loremflickr.com/800/600/esports,arena?lock=1630"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PC",
     "genre": "—",
@@ -624,6 +614,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1758926400000
     }
+   ],
+   "wiki": [
+    "LAN party",
+    "Esports"
    ]
   },
   {
@@ -644,12 +638,8 @@
    "stock": 6,
    "rating": 4.9,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/vip,gaming?lock=1631",
-   "gallery": [
-    "https://loremflickr.com/800/600/vip,gaming?lock=1631",
-    "https://loremflickr.com/800/600/vip,gaming?lock=1632",
-    "https://loremflickr.com/800/600/vip,gaming?lock=1633"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "PS5",
     "genre": "—",
@@ -674,6 +664,10 @@
      "text": "Great quality and friendly support!",
      "date": 1758148800000
     }
+   ],
+   "wiki": [
+    "DualSense",
+    "PlayStation 5"
    ]
   },
   {
@@ -694,12 +688,8 @@
    "stock": 0,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/virtual,reality?lock=1634",
-   "gallery": [
-    "https://loremflickr.com/800/600/virtual,reality?lock=1634",
-    "https://loremflickr.com/800/600/virtual,reality?lock=1635",
-    "https://loremflickr.com/800/600/virtual,reality?lock=1636"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "platform": "VR",
     "genre": "—",
@@ -733,6 +723,9 @@
      "text": "Хорошо, но доставка немного задержалась.",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Meta Quest 3"
    ]
   }
  ]

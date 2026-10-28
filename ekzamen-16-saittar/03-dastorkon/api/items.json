@@ -1,6 +1,6 @@
 {
  "site": "Dastorkon",
- "version": "1.0",
+ "version": "2.1",
  "count": 12,
  "items": [
   {
@@ -21,12 +21,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/plov,rice?lock=301",
-   "gallery": [
-    "https://loremflickr.com/800/600/plov,rice?lock=301",
-    "https://loremflickr.com/800/600/plov,rice?lock=302",
-    "https://loremflickr.com/800/600/plov,rice?lock=303"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "400 г",
     "kcal": 720,
@@ -51,6 +47,10 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1757544000000
     }
+   ],
+   "wiki": [
+    "Plov",
+    "Pilaf"
    ]
   },
   {
@@ -71,12 +71,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/beshbarmak,noodle?lock=304",
-   "gallery": [
-    "https://loremflickr.com/800/600/beshbarmak,noodle?lock=304",
-    "https://loremflickr.com/800/600/beshbarmak,noodle?lock=305",
-    "https://loremflickr.com/800/600/beshbarmak,noodle?lock=306"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "500 г",
     "kcal": 850,
@@ -106,6 +102,9 @@
      "text": "Супер! Досторума да сунуштадым.",
      "date": 1759531200000
     }
+   ],
+   "wiki": [
+    "Beshbarmak"
    ]
   },
   {
@@ -126,12 +125,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/lagman,noodles?lock=307",
-   "gallery": [
-    "https://loremflickr.com/800/600/lagman,noodles?lock=307",
-    "https://loremflickr.com/800/600/lagman,noodles?lock=308",
-    "https://loremflickr.com/800/600/lagman,noodles?lock=309"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "400 г",
     "kcal": 680,
@@ -167,6 +162,11 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1756420800000
     }
+   ],
+   "wiki": [
+    "Laghman (food)",
+    "Lagman (food)",
+    "Laghman"
    ]
   },
   {
@@ -187,12 +187,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/dumplings,manti?lock=310",
-   "gallery": [
-    "https://loremflickr.com/800/600/dumplings,manti?lock=310",
-    "https://loremflickr.com/800/600/dumplings,manti?lock=311",
-    "https://loremflickr.com/800/600/dumplings,manti?lock=312"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "350 г",
     "kcal": 610,
@@ -228,6 +224,10 @@
      "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
      "date": 1759358400000
     }
+   ],
+   "wiki": [
+    "Manti (food)",
+    "Manti (dumpling)"
    ]
   },
   {
@@ -248,12 +248,8 @@
    "stock": 10,
    "rating": 4.6,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/soup,bowl?lock=313",
-   "gallery": [
-    "https://loremflickr.com/800/600/soup,bowl?lock=313",
-    "https://loremflickr.com/800/600/soup,bowl?lock=314",
-    "https://loremflickr.com/800/600/soup,bowl?lock=315"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "400 мл",
     "kcal": 320,
@@ -277,6 +273,9 @@
      "text": "Жаман эмес, бирок андан жакшысын күткөм.",
      "date": 1755902400000
     }
+   ],
+   "wiki": [
+    "Shurpa"
    ]
   },
   {
@@ -297,12 +296,8 @@
    "stock": 10,
    "rating": 4.7,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/soup,noodle?lock=316",
-   "gallery": [
-    "https://loremflickr.com/800/600/soup,noodle?lock=316",
-    "https://loremflickr.com/800/600/soup,noodle?lock=317",
-    "https://loremflickr.com/800/600/soup,noodle?lock=318"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "450 мл",
     "kcal": 410,
@@ -332,6 +327,12 @@
      "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
      "date": 1757457600000
     }
+   ],
+   "wiki": [
+    "Ashlan-fu",
+    "Ashlyan-fu",
+    "Laghman (food)",
+    "Lagman (food)"
    ]
   },
   {
@@ -352,12 +353,8 @@
    "stock": 10,
    "rating": 4.9,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/kebab,grill?lock=319",
-   "gallery": [
-    "https://loremflickr.com/800/600/kebab,grill?lock=319",
-    "https://loremflickr.com/800/600/kebab,grill?lock=320",
-    "https://loremflickr.com/800/600/kebab,grill?lock=321"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "250 г",
     "kcal": 590,
@@ -381,6 +378,9 @@
      "text": "Great quality and friendly support!",
      "date": 1759444800000
     }
+   ],
+   "wiki": [
+    "Shashlik"
    ]
   },
   {
@@ -401,12 +401,8 @@
    "stock": 10,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/barbecue,meat?lock=322",
-   "gallery": [
-    "https://loremflickr.com/800/600/barbecue,meat?lock=322",
-    "https://loremflickr.com/800/600/barbecue,meat?lock=323",
-    "https://loremflickr.com/800/600/barbecue,meat?lock=324"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "1.4 кг",
     "kcal": 2800,
@@ -442,6 +438,10 @@
      "text": "Отлично! Всё понравилось, рекомендую.",
      "date": 1757457600000
     }
+   ],
+   "wiki": [
+    "Kebab",
+    "Barbecue"
    ]
   },
   {
@@ -462,12 +462,8 @@
    "stock": 60,
    "rating": 4.8,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/samsa,pastry?lock=325",
-   "gallery": [
-    "https://loremflickr.com/800/600/samsa,pastry?lock=325",
-    "https://loremflickr.com/800/600/samsa,pastry?lock=326",
-    "https://loremflickr.com/800/600/samsa,pastry?lock=327"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "180 г",
     "kcal": 420,
@@ -491,6 +487,10 @@
      "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
      "date": 1758580800000
     }
+   ],
+   "wiki": [
+    "Samsa (food)",
+    "Samsa"
    ]
   },
   {
@@ -511,12 +511,8 @@
    "stock": 80,
    "rating": 4.6,
    "isNew": true,
-   "img": "https://loremflickr.com/800/600/bread,flatbread?lock=328",
-   "gallery": [
-    "https://loremflickr.com/800/600/bread,flatbread?lock=328",
-    "https://loremflickr.com/800/600/bread,flatbread?lock=329",
-    "https://loremflickr.com/800/600/bread,flatbread?lock=330"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "200 г",
     "kcal": 500,
@@ -540,6 +536,10 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1759876800000
     }
+   ],
+   "wiki": [
+    "Boortsog",
+    "Baursak"
    ]
   },
   {
@@ -560,12 +560,8 @@
    "stock": 100,
    "rating": 4.5,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/tea,teapot?lock=331",
-   "gallery": [
-    "https://loremflickr.com/800/600/tea,teapot?lock=331",
-    "https://loremflickr.com/800/600/tea,teapot?lock=332",
-    "https://loremflickr.com/800/600/tea,teapot?lock=333"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "800 мл",
     "kcal": 5,
@@ -601,6 +597,10 @@
      "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
      "date": 1759531200000
     }
+   ],
+   "wiki": [
+    "Black tea",
+    "Tea"
    ]
   },
   {
@@ -621,12 +621,8 @@
    "stock": 50,
    "rating": 4.4,
    "isNew": false,
-   "img": "https://loremflickr.com/800/600/drink,milk?lock=334",
-   "gallery": [
-    "https://loremflickr.com/800/600/drink,milk?lock=334",
-    "https://loremflickr.com/800/600/drink,milk?lock=335",
-    "https://loremflickr.com/800/600/drink,milk?lock=336"
-   ],
+   "img": "",
+   "gallery": [],
    "specs": {
     "weight": "500 мл",
     "kcal": 120,
@@ -650,6 +646,11 @@
      "text": "Жакшы, бирок бир аз кымбатыраак экен.",
      "date": 1758840000000
     }
+   ],
+   "wiki": [
+    "Shoro (company)",
+    "Jarma (drink)",
+    "Boza"
    ]
   }
  ]
