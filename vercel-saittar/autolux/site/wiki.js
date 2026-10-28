@@ -22,23 +22,28 @@ async function call(params, ms = 7000) {
   }
 }
 
-const pickThumb = (pages = []) => {
+// allowLogo = false болсо логотип, желек жана SVG сүрөттөр өткөрүлүп жиберилет (сүрөт керек)
+const pickThumb = (pages = [], allowLogo = false) => {
   for (const p of pages) {
     const src = p?.thumbnail?.source || p?.original?.source;
-    if (src && !/\.svg/i.test(src) && !/Flag_of|Logo|logo|Coat_of_arms|Emblem/i.test(src)) return src;
+    if (!src) continue;
+    if (allowLogo || (!/\.svg/i.test(src) && !/Flag_of|Logo|logo|Coat_of_arms|Emblem/i.test(src))) return src;
   }
   return null;
 };
 
+// query "logo:Аталыш" түрүндө болсо — логотипке да уруксат (мис. программалар, кызматтар)
 export async function wikiImage(query, size = 900) {
   if (!query) return null;
+  const allowLogo = query.startsWith('logo:');
+  if (allowLogo) query = query.slice(5);
   const base = { prop: 'pageimages', piprop: 'thumbnail', pithumbsize: String(size), pilicense: 'any' };
   const exact = await call({ action: 'query', titles: query, redirects: '1', ...base });
-  const a = pickThumb(exact?.query?.pages);
+  const a = pickThumb(exact?.query?.pages, allowLogo);
   if (a) return a;
   const found = await call({ action: 'query', generator: 'search', gsrsearch: query, gsrlimit: '5', gsrnamespace: '0', ...base });
   const pages = (found?.query?.pages || []).sort((x, y) => (x.index || 0) - (y.index || 0));
-  return pickThumb(pages);
+  return pickThumb(pages, allowLogo);
 }
 
 // Бир нече сурамды чектелген параллелдүүлүк менен чечүү

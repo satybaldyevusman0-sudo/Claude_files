@@ -141,3 +141,6 @@
 .cat-tile .img-box--ph { background: linear-gradient(135deg, var(--green), var(--green-900)); }
 .cat-tile .img-box__label { color: #fff; }
 .gallery__main.img-box--ph .img-box__icon { font-size: 4rem; }
+
+/* Логотип/схема сүрөттөрү (Wikipedia SVG → PNG) кесилбей толук көрүнсүн */
+.img-box img[src*=".svg.png"] { object-fit: contain; padding: 12%; background: #fff; }
